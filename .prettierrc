@@ -1,16 +1,17 @@
 {
-  "trailingComma": "all",
-  "tabWidth": 3,
-  "semi": true,
-  "singleQuote": true,
-  "printWidth": 120,
-  "overrides": [
-    {
-      "files": "*.md",
-      "options": {
-        "parser": "markdown",
-        "proseWrap": "preserve"
+   "semi": true,
+   "singleQuote": true,
+   "bracketSpacing": true,
+   "trailingComma": "all",
+   "tabWidth": 3,
+   "printWidth": 120,
+   "overrides": [
+      {
+         "files": "*.md",
+         "options": {
+            "parser": "markdown",
+            "proseWrap": "preserve"
+         }
       }
-    }
-  ]
+   ]
 }

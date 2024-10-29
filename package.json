@@ -1,18 +1,27 @@
 {
-   "name": "ultimate-resources",
+   "name": "webdev-resources",
+   "description": "Curated list of resources for web developer and designer.",
    "version": "1.0.0",
-   "description": "Curated list of resources for web designer and developer.",
-   "author": "Syahrizal (https://github.com/syahrizaldev)",
+   "private": true,
    "license": "MIT",
    "scripts": {
       "format:check": "prettier --check README.md",
-      "format:fixed": "prettier --write README.md"
+      "format:write": "prettier --write README.md"
    },
    "devDependencies": {
       "prettier": "^3.3.3"
    },
+   "author": "Syahrizal",
    "keywords": [
-      "tools",
-      "resources"
-   ]
+      "freebies",
+      "resources",
+      "dev-resources",
+      "awesome-lists",
+      "design-resources",
+      "webdev-resources"
+   ],
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/syahrizaldev/webdev-resources"
+   }
 }
