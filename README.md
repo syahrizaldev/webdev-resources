@@ -2,9 +2,11 @@
 
 ## Table of Contents
 
+-  [Introduction](#-introduction)
 -  [Hosting](#️-hostings)
+-  [Databases](#️-databases)
+-  [Testing](#-testing)
 -  [Authentication](#-authentication)
 -  [Headless CMS](#-headless-cms)
--  [Databases](#️-databases)
--  [Payments](#-payments)
 -  [Analytics](#-analytics)
+-  [Payments](#-payments)
