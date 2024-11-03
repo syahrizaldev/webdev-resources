@@ -1,4 +1,4 @@
-# Web Dev Resources
+![Web Dev Resources](./assets/banner-image.png)
 
 ## Table of Contents
 
