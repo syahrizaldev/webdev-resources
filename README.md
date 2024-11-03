@@ -3,8 +3,8 @@
 ## Table of Contents
 
 -  [Introduction](#-introduction)
--  [Hosting](#️-hostings)
--  [Databases](#️-databases)
+-  [Hosting](#-hosting)
+-  [Database](#-database)
 -  [Testing](#-testing)
 -  [Authentication](#-authentication)
 -  [Headless CMS](#-headless-cms)
