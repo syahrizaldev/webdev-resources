@@ -2,21 +2,19 @@
    "name": "webdev-resources",
    "description": "Curated list of resources for web developer and designer.",
    "version": "1.0.0",
-   "private": true,
    "license": "MIT",
    "scripts": {
-      "format:check": "prettier --check README.md",
-      "format:write": "prettier --write README.md"
+      "format:check": "prettier --check readme.md",
+      "format:write": "prettier --write readme.md"
    },
    "devDependencies": {
       "prettier": "^3.3.3"
    },
    "author": "Syahrizal",
    "keywords": [
-      "freebies",
       "resources",
-      "dev-resources",
       "awesome-lists",
+      "dev-resources",
       "design-resources",
       "webdev-resources"
    ],
