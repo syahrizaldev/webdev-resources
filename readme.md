@@ -1,17 +1,16 @@
 ![Web Dev Resources](./banner.png)
 
+## Introduction
+
 ## Table of Contents
 
--  [Introduction](#-introduction)
 -  [Hosting](#-hosting)
 -  [Database](#-database)
 -  [Testing](#-testing)
 -  [Authentication](#-authentication)
 -  [Headless CMS](#-headless-cms)
--  [Analytics](#-analytics)
--  [Payments](#-payments)
-
-## Introduction
+-  [Analytic](#-analytic)
+-  [Payment](#-payment)
 
 ## Contributing
 
