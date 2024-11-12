@@ -15,6 +15,13 @@ who are trying to build or scale their websites and products. It prioritizes fre
 -  [Analytic](#-analytic)
 -  [Payment](#-payment)
 
+## Hosting
+
+Hosting, deployment, and backend management services to help in building and scaling websites or products.
+
+| Name | Description | Pricing |
+| ---- | ----------- | ------- |
+
 ## Contributing
 
 If you have discovered any useful and valuable resources or have suggestions to share,
