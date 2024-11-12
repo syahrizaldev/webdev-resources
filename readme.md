@@ -2,6 +2,9 @@
 
 ## Introduction
 
+This is a curated list of essential resources for web developers, designers, and indie hackers
+who are trying to build or scale their websites and products. It prioritizes free and freemium options and excludes resources without free tiers.
+
 ## Table of Contents
 
 -  [Hosting](#-hosting)
@@ -14,16 +17,17 @@
 
 ## Contributing
 
-If you have found any useful resources or have suggestions for others,
+If you have discovered any useful and valuable resources or have suggestions to share,
 feel free to check the [contributing file](https://github.com/syahrizaldev/webdev-resources/contributing.md)
 for more information.
 
 ## Feedback
 
-This repository is currently under improvement and development.
+This repository is actively under improvement and development.
 Please open an [issue](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [discussion](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any feedback, suggestions, questions, or future requests.
+Your input is valuable and helps us for future enhancements.
 
 ## License
 
