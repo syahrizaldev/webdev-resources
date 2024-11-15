@@ -18,8 +18,14 @@ options and excludes resources without free tiers.
 
 ## Hosting
 
-| Name | Description | Pricing |
-| ---- | ----------- | ------- |
+Hosting, deployment, and backend management services.
+
+| Name                           | Description                                                                    | Pricing |
+| ------------------------------ | ------------------------------------------------------------------------------ | ------- |
+| [Netlify](https://netlify.com) | Scale and ship faster with a composable web architecture.                      |         |
+| [Vercel](https://vercel.com)   | Build and deploy the best web experiences with the frontend cloud.             |         |
+| [Render](https://render.com)   | Build, deploy, and scale your apps with unparalleled ease.                     |         |
+| [Railway](https://railway.app) | Platform where you can provision and develop infrastructure locally and cloud. |         |
 
 ## Feedback
 
