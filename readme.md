@@ -4,8 +4,7 @@
 
 This is a curated list of essential resources for web developers, designers, and indie hackers
 trying to build and scale their websites or products. It prioritizes **free** and **freemium**
-options and excludes resources without free tiers. If you found this list helpful, please consider
-giving it a **star** and **watch** the repository to stay updated.
+options and excludes resources without free tiers.
 
 ## Table of Contents
 
@@ -22,18 +21,18 @@ giving it a **star** and **watch** the repository to stay updated.
 | Name | Description | Pricing |
 | ---- | ----------- | ------- |
 
-## Contributing
-
-If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**contributing**](./contributing.md) file for more information.
-
 ## Feedback
 
 This repository is actively under improvement and development.
 Please open an [**issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
-if you have any feedback, suggestions, questions, or future requests.
-Your input is valuable and helps us for future enhancements.
+if you have any feedback, suggestions, questions, or future requests. If you found this list helpful,
+please consider giving it a **star** and **watch** the repository to stay updated.
+
+## Contributing
+
+If you have discovered any useful and valuable resources or have suggestions for others,
+feel free to check the [**contributing**](./contributing.md) file for more information.
 
 ## License
 
