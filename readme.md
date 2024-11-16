@@ -2,8 +2,8 @@
 
 ## Introduction
 
-This is a curated list of essential resources for web developers, designers, and indie hackers
-trying to build and scale their websites or products. It prioritizes **free** and **freemium**
+This is a curated list of essential resources for web developers and indie hackers trying
+to build and scale their websites or products. It prioritizes **free** and **freemium**
 options and excludes resources without free tiers.
 
 ## Table of Contents
@@ -32,8 +32,8 @@ Hosting, deployment, and backend management services.
 This repository is actively under improvement and development.
 Please open an [**issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
-if you have any feedback, suggestions, questions, or future requests. If you found this list helpful,
-please consider giving it a **star** and **watch** the repository to stay updated.
+if you have any feedback, suggestions, questions, or future requests.
+Your input is valuable and helps us for future enhancements.
 
 ## Contributing
 
