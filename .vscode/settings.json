@@ -1,4 +1,5 @@
 {
+   "editor.wordWrap": "off",
    "[markdown]": {
       "editor.formatOnSave": true,
       "editor.defaultFormatter": "esbenp.prettier-vscode"
