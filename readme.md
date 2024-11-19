@@ -20,12 +20,12 @@ options and excludes resources without free tiers.
 
 > Hosting, deployment, and backend management.
 
-| Name                           | Description                                                                    | Pricing                   |
-| ------------------------------ | ------------------------------------------------------------------------------ | ------------------------- |
-| [Netlify](https://netlify.com) | Scale and ship faster with a composable web architecture.                      | Free / $19 per month      |
-| [Vercel](https://vercel.com)   | Build and deploy the best web experiences with the frontend cloud.             | Free / $20 per month      |
-| [Render](https://render.com)   | Build, deploy, and scale your apps with unparalleled ease.                     | Free / $19 per month      |
-| [Railway](https://railway.app) | Platform where you can provision and develop infrastructure locally and cloud. | Free trial / $5 per month |
+| Name                           | Description                                                               | Pricing                   |
+| ------------------------------ | ------------------------------------------------------------------------- | ------------------------- |
+| [Netlify](https://netlify.com) | Scale and ship faster with a composable web architecture.                 | Free / $19 per month      |
+| [Vercel](https://vercel.com)   | Build and deploy the best web experiences with the frontend cloud.        | Free / $20 per month      |
+| [Render](https://render.com)   | Build, deploy, and scale web apps with unparalleled ease.                 | Free / $19 per month      |
+| [Railway](https://railway.app) | Platform that can provision and develop infrastructure locally and cloud. | Free trial / $5 per month |
 
 ## Feedback
 
