@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a curated list of essential resources for web developers and indie hackers trying
+This is a curated list of essential resources for web developers and indie-hackers trying
 to build and scale their websites or products. It prioritizes **free** and **freemium**
 options and excludes resources without free tiers.
 
@@ -11,8 +11,6 @@ options and excludes resources without free tiers.
 -  [Hosting](#-hosting)
 -  [Database](#-database)
 -  [Testing](#-testing)
--  [Authentication](#-authentication)
--  [Headless CMS](#-headless-cms)
 -  [Analytic](#-analytic)
 -  [Payment](#-payment)
 
@@ -33,7 +31,6 @@ This repository is actively under improvement and development.
 Please open an [**issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any feedback, suggestions, questions, or future requests.
-Your input is valuable and helps us for future enhancements.
 
 ## Contributing
 
