@@ -5,14 +5,18 @@ Please make sure your pull request adheres to the following guidelines:
 -  Search previous suggestions before making a new one, as yours may be duplicated.
 -  Make an individual pull request for each suggestion for easier review.
 -  Additions should be added to the bottom of the relevant category.
--  The suggestion should be in English.
--  If the submitted project is an open-source project on GitHub:
-   -  It should have at least 20 stars.
-   -  The link is to the GitHub repo, not its website.
+-  Pull request title should include the suggestion name and category.
+
+   -  For example: 'add netlify to hosting'
+
+-  Provide a link to the submitted suggestion in the pull request comment section.
+
+   -  For example: 'netlify: https://netlify.com'
+
 -  Keep descriptions short and simple, but descriptive.
+   -  The description should start with a capital.
    -  The description should not be a title case.
    -  The description should not repeat the item title.
    -  The description should not be a marketing tagline.
-   -  The description should start with a capital and end with a full period.
--  Make sure your text editor is set to remove trailing whitespace.
--  New categories or improvements to the existing categorization are welcome but should be done in a separate pull request.
+-  Make sure your editor is set to remove trailing whitespace.
+-  Double-check if the suggestion is truly free, freemium, and has free tiers.
