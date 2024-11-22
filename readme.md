@@ -9,10 +9,15 @@ options and excludes resources without free tiers.
 ## Table of Contents
 
 -  [Hosting](#-hosting)
--  [Database](#-database)
+-  [Databases](#-databases)
 -  [Testing](#-testing)
--  [Analytic](#-analytic)
--  [Payment](#-payment)
+-  [UI Libraries](#-ui-libraries)
+-  [Headless CMS](#-headless-cms)
+-  [Authentication](#-authentication)
+-  [Text Editors](#-text-editors)
+-  [Search](#-search)
+-  [Analytics](#-analytics)
+-  [Payments](#-payments)
 
 ## Hosting
 
