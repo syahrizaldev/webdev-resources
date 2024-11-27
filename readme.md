@@ -10,14 +10,13 @@ options and excludes resources without free tiers.
 
 -  [Hosting](#-hosting)
 -  [Databases](#-databases)
--  [Testing](#-testing)
--  [UI Libraries](#-ui-libraries)
--  [Headless CMS](#-headless-cms)
 -  [Authentication](#-authentication)
--  [Text Editors](#-text-editors)
+-  [Testing](#-testing)
 -  [Search](#-search)
 -  [Analytics](#-analytics)
 -  [Payments](#-payments)
+-  [Headless CMS](#-headless-cms)
+-  [Text Editors](#-text-editors)
 
 ## Hosting
 
@@ -29,6 +28,15 @@ options and excludes resources without free tiers.
 | [Vercel](https://vercel.com)   |             |         |
 | [Render](https://render.com)   |             |         |
 | [Railway](https://railway.app) |             |         |
+
+## Databases
+
+> Databases, data management, backend solutions.
+
+| Name                             | Description | Pricing |
+| -------------------------------- | ----------- | ------- |
+| [Supabase](https://supabase.com) |             |         |
+|                                  |             |         |
 
 ## Feedback
 

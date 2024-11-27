@@ -3,7 +3,7 @@
    "description": "Curated list of resources for web developers and indie-hackers.",
    "version": "1.0.0",
    "license": "MIT",
-   "author": "Syahrizal",
+   "type": "commonjs",
    "scripts": {
       "format:check": "prettier --check readme.md",
       "format:write": "prettier --write readme.md"
@@ -11,11 +11,15 @@
    "devDependencies": {
       "prettier": "^3.3.3"
    },
+   "author": {
+      "name": "Syahrizal",
+      "url": "https://twitter.com/syahrizaldev"
+   },
    "keywords": [
       "toolkits",
       "resources",
+      "curated-list",
       "awesome-list",
-      "dev-resources",
       "indie-hackers",
       "developer-tools",
       "webdev-resources"
@@ -26,5 +30,6 @@
    },
    "bugs": {
       "url": "https://github.com/syahrizaldev/webdev-resources/issues"
-   }
+   },
+   "homepage": "https://github.com/syahrizaldev/webdev-resources#readme"
 }
