@@ -8,15 +8,15 @@ options and excludes resources without free tiers.
 
 ## Table of Contents
 
--  [Hosting](#-hosting)
--  [Databases](#-databases)
--  [Authentication](#-authentication)
--  [Testing](#-testing)
--  [Search](#-search)
--  [Analytics](#-analytics)
--  [Payments](#-payments)
--  [Headless CMS](#-headless-cms)
--  [Text Editors](#-text-editors)
+-  [Hosting](#hosting)
+-  [Databases](#databases)
+-  [Authentication](#authentication)
+-  [Testing](#testing)
+-  [Search](#search)
+-  [Analytics](#analytics)
+-  [Payments](#payments)
+-  [Headless CMS](#headless-cms)
+-  [Text Editors](#text-editors)
 
 ## Hosting
 
@@ -91,8 +91,6 @@ options and excludes resources without free tiers.
 | [Lexical](https://lexical.dev)    |             |         |
 | [CK Editor](https://ckeditor.com) |             |         |
 
----
-
 ## Feedback
 
 This repository is actively under improvement and development.
@@ -103,7 +101,7 @@ if you have any feedback, suggestions, questions, or future requests.
 ## Contributing
 
 If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**contributing**](./contributing.md) file for more information.
+feel free to check the [**contributing file**](./contributing.md) for more information.
 
 ## License
 
