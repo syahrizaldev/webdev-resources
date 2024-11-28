@@ -20,23 +20,78 @@ options and excludes resources without free tiers.
 
 ## Hosting
 
-> Hosting, deployment, and backend management.
-
 | Name                           | Description | Pricing |
 | ------------------------------ | ----------- | ------- |
 | [Netlify](https://netlify.com) |             |         |
 | [Vercel](https://vercel.com)   |             |         |
 | [Render](https://render.com)   |             |         |
-| [Railway](https://railway.app) |             |         |
 
 ## Databases
 
-> Databases, data management, backend solutions.
+| Name                                    | Description | Pricing |
+| --------------------------------------- | ----------- | ------- |
+| [Supabase](https://supabase.com)        |             |         |
+| [Firebase](https://firebase.google.com) |             |         |
+| [MongoDB](https://mongodb.com)          |             |         |
 
-| Name                             | Description | Pricing |
-| -------------------------------- | ----------- | ------- |
-| [Supabase](https://supabase.com) |             |         |
-|                                  |             |         |
+## Authentication
+
+| Name                       | Description | Pricing |
+| -------------------------- | ----------- | ------- |
+| [Auth](https://authjs.dev) |             |         |
+| [Clerk](https://clerk.dev) |             |         |
+| [Kinde](https://kinde.com) |             |         |
+
+## Testing
+
+| Name                          | Description | Pricing |
+| ----------------------------- | ----------- | ------- |
+| [Jest](https://jestjs.io)     |             |         |
+| [Vitest](https://vitest.dev)  |             |         |
+| [Cypress](https://cypress.io) |             |         |
+
+## Search
+
+| Name                                   | Description | Pricing |
+| -------------------------------------- | ----------- | ------- |
+| [Typesense](https://typesense.org)     |             |         |
+| [Meilisearch](https://meilisearch.com) |             |         |
+| [Orama](https://oramasearch.com)       |             |         |
+
+## Analytics
+
+| Name                               | Description | Pricing |
+| ---------------------------------- | ----------- | ------- |
+| [Plausible](https://plausible.io)  |             |         |
+| [Splitbee](https://splitbee.io)    |             |         |
+| [Openpanel](https://openpanel.dev) |             |         |
+
+## Payments
+
+| Name                                      | Description | Pricing |
+| ----------------------------------------- | ----------- | ------- |
+| [Stripe](https://stripe.com)              |             |         |
+| [Paddle](https://paddle.com)              |             |         |
+| [Polar](https://polar.sh)                 |             |         |
+| [Lemon Squeezy](https://lemonsqueezy.com) |             |         |
+
+## Headless CMS
+
+| Name                              | Description | Pricing |
+| --------------------------------- | ----------- | ------- |
+| [Strapi](https://strapi.io)       |             |         |
+| [Sanity](https://sanity.io)       |             |         |
+| [Payload](https://payloadcms.com) |             |         |
+
+## Text Editors
+
+| Name                              | Description | Pricing |
+| --------------------------------- | ----------- | ------- |
+| [Tiptap](https://tiptap.dev)      |             |         |
+| [Lexical](https://lexical.dev)    |             |         |
+| [CK Editor](https://ckeditor.com) |             |         |
+
+---
 
 ## Feedback
 

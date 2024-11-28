@@ -5,7 +5,6 @@ Please make sure your pull request adheres to the following guidelines:
 -  Search previous suggestions before making a new one, as yours may be duplicated.
 -  Make an individual pull request for each suggestion for easier review.
 -  Additions should be added to the bottom of the relevant category.
--  Pull request title should include the suggestion **name** and **category**.
 -  Pull request title should be in the following format:
    -  **'add netlify to hosting'**
    -  **'add strapi to headless cms'**
