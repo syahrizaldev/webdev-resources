@@ -9,11 +9,10 @@
       "format:write": "prettier --write readme.md"
    },
    "devDependencies": {
-      "prettier": "^3.3.3"
+      "prettier": "^3.4.1"
    },
    "author": {
-      "name": "Syahrizal",
-      "url": "https://twitter.com/syahrizaldev"
+      "name": "Syahrizal"
    },
    "keywords": [
       "toolkits",

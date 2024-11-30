@@ -8,17 +8,19 @@ options and excludes resources without free tiers.
 
 ## Table of Contents
 
--  [Hosting](#hosting)
--  [Databases](#databases)
--  [Authentication](#authentication)
--  [Testing](#testing)
--  [Search](#search)
--  [Analytics](#analytics)
--  [Payments](#payments)
--  [Headless CMS](#headless-cms)
--  [Text Editors](#text-editors)
+- [Hosting](#hosting)
+- [Databases](#databases)
+- [Authentication](#authentication)
+- [Testing](#testing)
+- [Search](#search)
+- [Analytics](#analytics)
+- [Payments](#payments)
+- [Headless CMS](#headless-cms)
+- [Text Editors](#text-editors)
 
 ## Hosting
+
+> Hosting
 
 | Name                           | Description | Pricing |
 | ------------------------------ | ----------- | ------- |
@@ -28,6 +30,8 @@ options and excludes resources without free tiers.
 
 ## Databases
 
+> Databases
+
 | Name                                    | Description | Pricing |
 | --------------------------------------- | ----------- | ------- |
 | [Supabase](https://supabase.com)        |             |         |
@@ -35,6 +39,8 @@ options and excludes resources without free tiers.
 | [MongoDB](https://mongodb.com)          |             |         |
 
 ## Authentication
+
+> Authentication
 
 | Name                       | Description | Pricing |
 | -------------------------- | ----------- | ------- |
@@ -44,6 +50,8 @@ options and excludes resources without free tiers.
 
 ## Testing
 
+> Testing
+
 | Name                          | Description | Pricing |
 | ----------------------------- | ----------- | ------- |
 | [Jest](https://jestjs.io)     |             |         |
@@ -51,6 +59,8 @@ options and excludes resources without free tiers.
 | [Cypress](https://cypress.io) |             |         |
 
 ## Search
+
+> Search
 
 | Name                                   | Description | Pricing |
 | -------------------------------------- | ----------- | ------- |
@@ -60,6 +70,8 @@ options and excludes resources without free tiers.
 
 ## Analytics
 
+> Analytics
+
 | Name                               | Description | Pricing |
 | ---------------------------------- | ----------- | ------- |
 | [Plausible](https://plausible.io)  |             |         |
@@ -67,6 +79,8 @@ options and excludes resources without free tiers.
 | [Openpanel](https://openpanel.dev) |             |         |
 
 ## Payments
+
+> Payments
 
 | Name                                      | Description | Pricing |
 | ----------------------------------------- | ----------- | ------- |
@@ -77,6 +91,8 @@ options and excludes resources without free tiers.
 
 ## Headless CMS
 
+> Headless CMS
+
 | Name                              | Description | Pricing |
 | --------------------------------- | ----------- | ------- |
 | [Strapi](https://strapi.io)       |             |         |
@@ -84,6 +100,8 @@ options and excludes resources without free tiers.
 | [Payload](https://payloadcms.com) |             |         |
 
 ## Text Editors
+
+> Text Editors
 
 | Name                              | Description | Pricing |
 | --------------------------------- | ----------- | ------- |
