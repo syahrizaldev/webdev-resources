@@ -20,17 +20,16 @@ options and excludes resources without free tiers.
 
 ## Hosting
 
-> Hosting
-
-| Name                           | Description | Pricing |
-| ------------------------------ | ----------- | ------- |
-| [Netlify](https://netlify.com) |             |         |
-| [Vercel](https://vercel.com)   |             |         |
-| [Render](https://render.com)   |             |         |
+| Name                                             | Description | Pricing |
+| ------------------------------------------------ | ----------- | ------- |
+| [Vercel](https://vercel.com)                     |             |         |
+| [Netlify](https://netlify.com)                   |             |         |
+| [Render](https://render.com)                     |             |         |
+| [Amplify](https://aws.amazon.com/amplify)        |             |         |
+| [Digital Ocean](https://digitalocean.com)        |             |         |
+| [Cloudflare Pages](https://pages.cloudflare.com) |             |         |
 
 ## Databases
-
-> Databases
 
 | Name                                    | Description | Pricing |
 | --------------------------------------- | ----------- | ------- |
@@ -40,27 +39,27 @@ options and excludes resources without free tiers.
 
 ## Authentication
 
-> Authentication
-
-| Name                       | Description | Pricing |
-| -------------------------- | ----------- | ------- |
-| [Auth](https://authjs.dev) |             |         |
-| [Clerk](https://clerk.dev) |             |         |
-| [Kinde](https://kinde.com) |             |         |
+| Name                                   | Description | Pricing |
+| -------------------------------------- | ----------- | ------- |
+| [Auth](https://authjs.dev)             |             |         |
+| [Clerk](https://clerk.dev)             |             |         |
+| [Kinde](https://kinde.com)             |             |         |
+| [Hanko](https://hanko.io)              |             |         |
+| [Logto](https://logto.io)              |             |         |
+| [Better Auth](https://better-auth.com) |             |         |
 
 ## Testing
 
-> Testing
-
-| Name                          | Description | Pricing |
-| ----------------------------- | ----------- | ------- |
-| [Jest](https://jestjs.io)     |             |         |
-| [Vitest](https://vitest.dev)  |             |         |
-| [Cypress](https://cypress.io) |             |         |
+| Name                                           | Description | Pricing |
+| ---------------------------------------------- | ----------- | ------- |
+| [Jest](https://jestjs.io)                      |             |         |
+| [Mocha](https://mochajs.org)                   |             |         |
+| [Vitest](https://vitest.dev)                   |             |         |
+| [Cypress](https://cypress.io)                  |             |         |
+| [Playwright](https://playwright.dev)           |             |         |
+| [Testing Library](https://testing-library.com) |             |         |
 
 ## Search
-
-> Search
 
 | Name                                   | Description | Pricing |
 | -------------------------------------- | ----------- | ------- |
@@ -70,8 +69,6 @@ options and excludes resources without free tiers.
 
 ## Analytics
 
-> Analytics
-
 | Name                               | Description | Pricing |
 | ---------------------------------- | ----------- | ------- |
 | [Plausible](https://plausible.io)  |             |         |
@@ -80,18 +77,15 @@ options and excludes resources without free tiers.
 
 ## Payments
 
-> Payments
-
 | Name                                      | Description | Pricing |
 | ----------------------------------------- | ----------- | ------- |
 | [Stripe](https://stripe.com)              |             |         |
 | [Paddle](https://paddle.com)              |             |         |
-| [Polar](https://polar.sh)                 |             |         |
 | [Lemon Squeezy](https://lemonsqueezy.com) |             |         |
+| [Polar](https://polar.sh)                 |             |         |
+| [Creem](https://creem.io)                 |             |         |
 
 ## Headless CMS
-
-> Headless CMS
 
 | Name                              | Description | Pricing |
 | --------------------------------- | ----------- | ------- |
@@ -101,13 +95,14 @@ options and excludes resources without free tiers.
 
 ## Text Editors
 
-> Text Editors
-
-| Name                              | Description | Pricing |
-| --------------------------------- | ----------- | ------- |
-| [Tiptap](https://tiptap.dev)      |             |         |
-| [Lexical](https://lexical.dev)    |             |         |
-| [CK Editor](https://ckeditor.com) |             |         |
+| Name                                 | Description | Pricing |
+| ------------------------------------ | ----------- | ------- |
+| [TinyMCE](https://tiny.cloud)        |             |         |
+| [CK Editor](https://ckeditor.com)    |             |         |
+| [Quill](https://quilljs.com)         |             |         |
+| [Tiptap](https://tiptap.dev)         |             |         |
+| [Lexical](https://lexical.dev)       |             |         |
+| [Blocknote](https://blocknotejs.org) |             |         |
 
 ## Feedback
 
