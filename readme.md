@@ -36,6 +36,16 @@ options and excludes resources without free tiers.
 | [Supabase](https://supabase.com)        |             |         |
 | [Firebase](https://firebase.google.com) |             |         |
 | [MongoDB](https://mongodb.com)          |             |         |
+| [Redis](https://redis.io)               |             |         |
+| [Fauna](https://fauna.com)              |             |         |
+| [Edge](https://edgedb.com)              |             |         |
+| [Surreal](https://surrealdb.com)        |             |         |
+| [Upstash](https://upstash.com)          |             |         |
+| [Convex](https://convex.dev)            |             |         |
+| [Neon](https://neon.tech)               |             |         |
+| [Xata](https://xata.io)                 |             |         |
+| [Turso](https://turso.tech)             |             |         |
+| [Cockroach](https://cockroachlabs.com)  |             |         |
 
 ## Authentication
 
@@ -99,6 +109,10 @@ options and excludes resources without free tiers.
 | [Lemon Squeezy](https://lemonsqueezy.com) |             |         |
 | [Polar](https://polar.sh)                 |             |         |
 | [Creem](https://creem.io)                 |             |         |
+| [Snipcart](https://snipcart.com)          |             |         |
+| [Fast Spring](https://fastspring.com)     |             |         |
+| [2Checkout](https://2checkout.com)        |             |         |
+| [RevenueCat](https://revenuecat.com)      |             |         |
 
 ## Headless CMS
 
