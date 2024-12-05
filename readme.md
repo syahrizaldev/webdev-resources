@@ -47,6 +47,8 @@ options and excludes resources without free tiers.
 | [Hanko](https://hanko.io)              |             |         |
 | [Logto](https://logto.io)              |             |         |
 | [Better Auth](https://better-auth.com) |             |         |
+| [Ory](https://ory.sh)                  |             |         |
+| [Stytch](https://stytch.com)           |             |         |
 
 ## Testing
 
@@ -61,19 +63,32 @@ options and excludes resources without free tiers.
 
 ## Search
 
-| Name                                   | Description | Pricing |
-| -------------------------------------- | ----------- | ------- |
-| [Typesense](https://typesense.org)     |             |         |
-| [Meilisearch](https://meilisearch.com) |             |         |
-| [Orama](https://oramasearch.com)       |             |         |
+| Name                                     | Description | Pricing |
+| ---------------------------------------- | ----------- | ------- |
+| [Algolia](https://algolia.com)           |             |         |
+| [Elastic](https://elastic.co)            |             |         |
+| [Meilisearch](https://meilisearch.com)   |             |         |
+| [Typesense](https://typesense.org)       |             |         |
+| [Orama](https://oramasearch.com)         |             |         |
+| [Pagefind](https://pagefind.app)         |             |         |
+| [Manticore](https://manticoresearch.com) |             |         |
 
 ## Analytics
 
-| Name                               | Description | Pricing |
-| ---------------------------------- | ----------- | ------- |
-| [Plausible](https://plausible.io)  |             |         |
-| [Splitbee](https://splitbee.io)    |             |         |
-| [Openpanel](https://openpanel.dev) |             |         |
+| Name                                             | Description | Pricing |
+| ------------------------------------------------ | ----------- | ------- |
+| [Plausible](https://plausible.io)                |             |         |
+| [Splitbee](https://splitbee.io)                  |             |         |
+| [Openpanel](https://openpanel.dev)               |             |         |
+| [Umami](https://umami.is)                        |             |         |
+| [Simple Analytics](https://simpleanalytics.com)  |             |         |
+| [Beam Analytics](https://beamanalytics.io)       |             |         |
+| [Posthog](https://posthog.com)                   |             |         |
+| [Lite Analytics](https://liteanalytics.com)      |             |         |
+| [Tinybird](https://tinybird.co)                  |             |         |
+| [Mixpanel](https://mixpanel.com)                 |             |         |
+| [Pirsch](https://pirsch.io)                      |             |         |
+| [Google Analytics](https://analytics.google.com) |             |         |
 
 ## Payments
 
@@ -87,22 +102,37 @@ options and excludes resources without free tiers.
 
 ## Headless CMS
 
-| Name                              | Description | Pricing |
-| --------------------------------- | ----------- | ------- |
-| [Strapi](https://strapi.io)       |             |         |
-| [Sanity](https://sanity.io)       |             |         |
-| [Payload](https://payloadcms.com) |             |         |
+| Name                                 | Description | Pricing |
+| ------------------------------------ | ----------- | ------- |
+| [Strapi](https://strapi.io)          |             |         |
+| [Sanity](https://sanity.io)          |             |         |
+| [Payload](https://payloadcms.com)    |             |         |
+| [Keystatic](https://keystatic.com)   |             |         |
+| [Keystone](https://keystonejs.com)   |             |         |
+| [Storyblok](https://storyblok.com)   |             |         |
+| [Contentful](https://contentful.com) |             |         |
+| [Prismic](https://prismic.io)        |             |         |
+| [Agility](https://agilitycms.com)    |             |         |
+| [Gridsome](https://gridsome.org)     |             |         |
+| [Ghost](https://ghost.org)           |             |         |
+| [Hygraph](https://hygraph.com)       |             |         |
+| [Dato](https://datocms.com)          |             |         |
+| [Tina](https://tina.io)              |             |         |
+| [Squidex](https://squidex.io)        |             |         |
+| [Cosmic](https://cosmicjs.com)       |             |         |
 
 ## Text Editors
 
 | Name                                 | Description | Pricing |
 | ------------------------------------ | ----------- | ------- |
 | [TinyMCE](https://tiny.cloud)        |             |         |
-| [CK Editor](https://ckeditor.com)    |             |         |
+| [CKEditor](https://ckeditor.com)     |             |         |
 | [Quill](https://quilljs.com)         |             |         |
 | [Tiptap](https://tiptap.dev)         |             |         |
 | [Lexical](https://lexical.dev)       |             |         |
 | [Blocknote](https://blocknotejs.org) |             |         |
+| [Editor](https://editorjs.io)        |             |         |
+| [Novel](https://novel.sh)            |             |         |
 
 ## Feedback
 
