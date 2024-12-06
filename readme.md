@@ -3,8 +3,8 @@
 ## Introduction
 
 This is a curated list of essential resources for web developers and indie-hackers trying
-to build and scale their websites or products. It prioritizes **free** and **freemium**
-options and excludes resources without free tiers.
+to build and scale their products, websites, or apps. It prioritizes **free** and **freemium**
+options and excludes resources without **free tiers**.
 
 ## Table of Contents
 
@@ -37,13 +37,13 @@ options and excludes resources without free tiers.
 | [Firebase](https://firebase.google.com) |             |         |
 | [MongoDB](https://mongodb.com)          |             |         |
 | [Redis](https://redis.io)               |             |         |
+| [Neon](https://neon.tech)               |             |         |
 | [Fauna](https://fauna.com)              |             |         |
 | [Edge](https://edgedb.com)              |             |         |
+| [Xata](https://xata.io)                 |             |         |
 | [Surreal](https://surrealdb.com)        |             |         |
 | [Upstash](https://upstash.com)          |             |         |
 | [Convex](https://convex.dev)            |             |         |
-| [Neon](https://neon.tech)               |             |         |
-| [Xata](https://xata.io)                 |             |         |
 | [Turso](https://turso.tech)             |             |         |
 | [Cockroach](https://cockroachlabs.com)  |             |         |
 
@@ -56,9 +56,9 @@ options and excludes resources without free tiers.
 | [Kinde](https://kinde.com)             |             |         |
 | [Hanko](https://hanko.io)              |             |         |
 | [Logto](https://logto.io)              |             |         |
-| [Better Auth](https://better-auth.com) |             |         |
 | [Ory](https://ory.sh)                  |             |         |
 | [Stytch](https://stytch.com)           |             |         |
+| [Better-Auth](https://better-auth.com) |             |         |
 
 ## Testing
 
@@ -91,6 +91,7 @@ options and excludes resources without free tiers.
 | [Splitbee](https://splitbee.io)                  |             |         |
 | [Openpanel](https://openpanel.dev)               |             |         |
 | [Umami](https://umami.is)                        |             |         |
+| [Google Analytics](https://analytics.google.com) |             |         |
 | [Simple Analytics](https://simpleanalytics.com)  |             |         |
 | [Beam Analytics](https://beamanalytics.io)       |             |         |
 | [Posthog](https://posthog.com)                   |             |         |
@@ -98,20 +99,19 @@ options and excludes resources without free tiers.
 | [Tinybird](https://tinybird.co)                  |             |         |
 | [Mixpanel](https://mixpanel.com)                 |             |         |
 | [Pirsch](https://pirsch.io)                      |             |         |
-| [Google Analytics](https://analytics.google.com) |             |         |
 
 ## Payments
 
 | Name                                      | Description | Pricing |
 | ----------------------------------------- | ----------- | ------- |
 | [Stripe](https://stripe.com)              |             |         |
+| [Paypal](https://paypal.com)              |             |         |
 | [Paddle](https://paddle.com)              |             |         |
 | [Lemon Squeezy](https://lemonsqueezy.com) |             |         |
 | [Polar](https://polar.sh)                 |             |         |
 | [Creem](https://creem.io)                 |             |         |
 | [Snipcart](https://snipcart.com)          |             |         |
 | [Fast Spring](https://fastspring.com)     |             |         |
-| [2Checkout](https://2checkout.com)        |             |         |
 | [RevenueCat](https://revenuecat.com)      |             |         |
 
 ## Headless CMS
@@ -159,8 +159,9 @@ if you have any feedback, suggestions, questions, or future requests.
 
 If you have discovered any useful and valuable resources or have suggestions for others,
 feel free to check the [**contributing file**](./contributing.md) for more information.
+Thank you for your suggestion and have a nice day.
 
 ## License
 
 This repository is licensed under the terms of the [**MIT License**](./license).
-You can use, modify, and distribute this list under the license.
+You can use, modify, and distribute this project under the license.
