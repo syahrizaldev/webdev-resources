@@ -47,9 +47,12 @@ options and excludes resources without **free tiers**.
 
 | Name                                    | Description | Pricing |
 | --------------------------------------- | ----------- | ------- |
+| [Postgres](https://postgresql.org)      |             |         |
+| [MySQL](https://mysql.com)              |             |         |
+| [MongoDB](https://mongodb.com)          |             |         |
 | [Supabase](https://supabase.com)        |             |         |
 | [Firebase](https://firebase.google.com) |             |         |
-| [MongoDB](https://mongodb.com)          |             |         |
+| [Appwrite](https://appwrite.io)         |             |         |
 | [Redis](https://redis.io)               |             |         |
 | [Neon](https://neon.tech)               |             |         |
 | [Fauna](https://fauna.com)              |             |         |
@@ -59,7 +62,14 @@ options and excludes resources without **free tiers**.
 | [Upstash](https://upstash.com)          |             |         |
 | [Convex](https://convex.dev)            |             |         |
 | [Turso](https://turso.tech)             |             |         |
+| [Pocketbase](https://pocketbase.io)     |             |         |
 | [Cockroach](https://cockroachlabs.com)  |             |         |
+| [Timescale](https://timescale.com)      |             |         |
+| [Planetscale](https://planetscale.com)  |             |         |
+| [Nhost](https://nhost.io)               |             |         |
+| [Duck](https://duckdb.org)              |             |         |
+| [Minds](https://mindsdb.com)            |             |         |
+| [Electric](https://electric-sql.com)    |             |         |
 
 ## Authentication
 
