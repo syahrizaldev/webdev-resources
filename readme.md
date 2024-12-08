@@ -28,6 +28,20 @@ options and excludes resources without **free tiers**.
 | [Amplify](https://aws.amazon.com/amplify)        |             |         |
 | [Digital Ocean](https://digitalocean.com)        |             |         |
 | [Cloudflare Pages](https://pages.cloudflare.com) |             |         |
+| [Railway](https://railway.app)                   |             |         |
+| [Platform](https://platform.sh)                  |             |         |
+| [Northflank](https://northflank.com)             |             |         |
+| [Koyeb](https://koyeb.com)                       |             |         |
+| [Flyio](https://fly.io)                          |             |         |
+| [Elestio](https://elest.io)                      |             |         |
+| [Coherence](https://withcoherence.com)           |             |         |
+| [Alwaysdata](https://alwaysdata.com)             |             |         |
+| [Stormkit](https://stormkit.io)                  |             |         |
+| [Flight Control](https://flightcontrol.dev)      |             |         |
+| [Cleavr](https://cleavr.io)                      |             |         |
+| [Adaptable](https://adaptable.io)                |             |         |
+| [Coolify](https://coolify.io)                    |             |         |
+| [Dokploy](https://dokploy.com)                   |             |         |
 
 ## Databases
 
