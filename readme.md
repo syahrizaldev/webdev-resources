@@ -11,12 +11,13 @@ options and excludes resources without **free tiers**.
 - [Hosting](#hosting)
 - [Databases](#databases)
 - [Authentication](#authentication)
+- [Headless CMS](#headless-cms)
 - [Testing](#testing)
 - [Search](#search)
 - [Analytics](#analytics)
 - [Payments](#payments)
-- [Headless CMS](#headless-cms)
 - [Text Editors](#text-editors)
+- [Charts](#charts)
 
 ## Hosting
 
@@ -84,6 +85,27 @@ options and excludes resources without **free tiers**.
 | [Stytch](https://stytch.com)           |             |         |
 | [Better-Auth](https://better-auth.com) |             |         |
 
+## Headless CMS
+
+| Name                                 | Description | Pricing |
+| ------------------------------------ | ----------- | ------- |
+| [Strapi](https://strapi.io)          |             |         |
+| [Sanity](https://sanity.io)          |             |         |
+| [Payload](https://payloadcms.com)    |             |         |
+| [Keystatic](https://keystatic.com)   |             |         |
+| [Keystone](https://keystonejs.com)   |             |         |
+| [Storyblok](https://storyblok.com)   |             |         |
+| [Contentful](https://contentful.com) |             |         |
+| [Prismic](https://prismic.io)        |             |         |
+| [Agility](https://agilitycms.com)    |             |         |
+| [Gridsome](https://gridsome.org)     |             |         |
+| [Ghost](https://ghost.org)           |             |         |
+| [Hygraph](https://hygraph.com)       |             |         |
+| [Dato](https://datocms.com)          |             |         |
+| [Tina](https://tina.io)              |             |         |
+| [Squidex](https://squidex.io)        |             |         |
+| [Cosmic](https://cosmicjs.com)       |             |         |
+
 ## Testing
 
 | Name                                           | Description | Pricing |
@@ -138,27 +160,6 @@ options and excludes resources without **free tiers**.
 | [Fast Spring](https://fastspring.com)     |             |         |
 | [RevenueCat](https://revenuecat.com)      |             |         |
 
-## Headless CMS
-
-| Name                                 | Description | Pricing |
-| ------------------------------------ | ----------- | ------- |
-| [Strapi](https://strapi.io)          |             |         |
-| [Sanity](https://sanity.io)          |             |         |
-| [Payload](https://payloadcms.com)    |             |         |
-| [Keystatic](https://keystatic.com)   |             |         |
-| [Keystone](https://keystonejs.com)   |             |         |
-| [Storyblok](https://storyblok.com)   |             |         |
-| [Contentful](https://contentful.com) |             |         |
-| [Prismic](https://prismic.io)        |             |         |
-| [Agility](https://agilitycms.com)    |             |         |
-| [Gridsome](https://gridsome.org)     |             |         |
-| [Ghost](https://ghost.org)           |             |         |
-| [Hygraph](https://hygraph.com)       |             |         |
-| [Dato](https://datocms.com)          |             |         |
-| [Tina](https://tina.io)              |             |         |
-| [Squidex](https://squidex.io)        |             |         |
-| [Cosmic](https://cosmicjs.com)       |             |         |
-
 ## Text Editors
 
 | Name                                 | Description | Pricing |
@@ -171,6 +172,19 @@ options and excludes resources without **free tiers**.
 | [Blocknote](https://blocknotejs.org) |             |         |
 | [Editor](https://editorjs.io)        |             |         |
 | [Novel](https://novel.sh)            |             |         |
+
+## Charts
+
+| Name                                    | Description | Pricing |
+| --------------------------------------- | ----------- | ------- |
+| [D3](https://d3js.org)                  |             |         |
+| [Chart](https://chartjs.org)            |             |         |
+| [Apexcharts](https://apexcharts.com)    |             |         |
+| [Amcharts](https://amcharts.com)        |             |         |
+| [Anychart](https://anychart.com)        |             |         |
+| [Highcharts](https://highcharts.com)    |             |         |
+| [Echarts](https://echarts.apache.org)   |             |         |
+| [Superset](https://superset.apache.org) |             |         |
 
 ## Feedback
 
