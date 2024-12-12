@@ -29,6 +29,7 @@ options and excludes resources without **free tiers**.
 | [Amplify](https://aws.amazon.com/amplify)        |             |         |
 | [Digital Ocean](https://digitalocean.com)        |             |         |
 | [Cloudflare Pages](https://pages.cloudflare.com) |             |         |
+| [GitHub Pages](https://pages.github.com)         |             |         |
 | [Railway](https://railway.app)                   |             |         |
 | [Platform](https://platform.sh)                  |             |         |
 | [Northflank](https://northflank.com)             |             |         |
@@ -67,9 +68,11 @@ options and excludes resources without **free tiers**.
 | [Cockroach](https://cockroachlabs.com)  |             |         |
 | [Timescale](https://timescale.com)      |             |         |
 | [Planetscale](https://planetscale.com)  |             |         |
+| [Dragonfly](https://dragonflydb.io)     |             |         |
 | [Nhost](https://nhost.io)               |             |         |
 | [Duck](https://duckdb.org)              |             |         |
 | [Minds](https://mindsdb.com)            |             |         |
+| [Nile](https://thenile.dev)             |             |         |
 | [Electric](https://electric-sql.com)    |             |         |
 
 ## Authentication
