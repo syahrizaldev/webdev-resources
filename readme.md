@@ -39,41 +39,43 @@ options and excludes resources without **free tiers**.
 | [Coherence](https://withcoherence.com)           |             |         |
 | [Alwaysdata](https://alwaysdata.com)             |             |         |
 | [Stormkit](https://stormkit.io)                  |             |         |
-| [Flight Control](https://flightcontrol.dev)      |             |         |
 | [Cleavr](https://cleavr.io)                      |             |         |
 | [Adaptable](https://adaptable.io)                |             |         |
 | [Coolify](https://coolify.io)                    |             |         |
 | [Dokploy](https://dokploy.com)                   |             |         |
+| [Flight Control](https://flightcontrol.dev)      |             |         |
 
 ## Databases
 
-| Name                                    | Description | Pricing |
-| --------------------------------------- | ----------- | ------- |
-| [Postgres](https://postgresql.org)      |             |         |
-| [MySQL](https://mysql.com)              |             |         |
-| [MongoDB](https://mongodb.com)          |             |         |
-| [Supabase](https://supabase.com)        |             |         |
-| [Firebase](https://firebase.google.com) |             |         |
-| [Appwrite](https://appwrite.io)         |             |         |
-| [Redis](https://redis.io)               |             |         |
-| [Neon](https://neon.tech)               |             |         |
-| [Fauna](https://fauna.com)              |             |         |
-| [Edge](https://edgedb.com)              |             |         |
-| [Xata](https://xata.io)                 |             |         |
-| [Surreal](https://surrealdb.com)        |             |         |
-| [Upstash](https://upstash.com)          |             |         |
-| [Convex](https://convex.dev)            |             |         |
-| [Turso](https://turso.tech)             |             |         |
-| [Pocketbase](https://pocketbase.io)     |             |         |
-| [Cockroach](https://cockroachlabs.com)  |             |         |
-| [Timescale](https://timescale.com)      |             |         |
-| [Planetscale](https://planetscale.com)  |             |         |
-| [Dragonfly](https://dragonflydb.io)     |             |         |
-| [Nhost](https://nhost.io)               |             |         |
-| [Duck](https://duckdb.org)              |             |         |
-| [Minds](https://mindsdb.com)            |             |         |
-| [Nile](https://thenile.dev)             |             |         |
-| [Electric](https://electric-sql.com)    |             |         |
+| Name                                                  | Description | Pricing |
+| ----------------------------------------------------- | ----------- | ------- |
+| [Postgres](https://postgresql.org)                    |             |         |
+| [MySQL](https://mysql.com)                            |             |         |
+| [MongoDB](https://mongodb.com)                        |             |         |
+| [Supabase](https://supabase.com)                      |             |         |
+| [Firebase](https://firebase.google.com)               |             |         |
+| [Appwrite](https://appwrite.io)                       |             |         |
+| [Redis](https://redis.io)                             |             |         |
+| [Neon](https://neon.tech)                             |             |         |
+| [Fauna](https://fauna.com)                            |             |         |
+| [Edge](https://edgedb.com)                            |             |         |
+| [Xata](https://xata.io)                               |             |         |
+| [Surreal](https://surrealdb.com)                      |             |         |
+| [Upstash](https://upstash.com)                        |             |         |
+| [Convex](https://convex.dev)                          |             |         |
+| [Turso](https://turso.tech)                           |             |         |
+| [Pocketbase](https://pocketbase.io)                   |             |         |
+| [Cockroach](https://cockroachlabs.com)                |             |         |
+| [Timescale](https://timescale.com)                    |             |         |
+| [Planetscale](https://planetscale.com)                |             |         |
+| [Dragonfly](https://dragonflydb.io)                   |             |         |
+| [Cloudflare D1](https://developers.cloudflare.com/d1) |             |         |
+| [Nhost](https://nhost.io)                             |             |         |
+| [Duck](https://duckdb.org)                            |             |         |
+| [Minds](https://mindsdb.com)                          |             |         |
+| [Nile](https://thenile.dev)                           |             |         |
+| [Electric](https://electric-sql.com)                  |             |         |
+| [Oriole](https://orioledb.com)                        |             |         |
 
 ## Authentication
 
