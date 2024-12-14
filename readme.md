@@ -150,6 +150,7 @@ options and excludes resources without **free tiers**.
 | [Tinybird](https://tinybird.co)                  |             |         |
 | [Mixpanel](https://mixpanel.com)                 |             |         |
 | [Pirsch](https://pirsch.io)                      |             |         |
+| [Sprig](https://sprig.com)                       |             |         |
 
 ## Payments
 
