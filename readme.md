@@ -68,14 +68,14 @@ options and excludes resources without **free tiers**.
 | [Cockroach](https://cockroachlabs.com)                |             |         |
 | [Timescale](https://timescale.com)                    |             |         |
 | [Planetscale](https://planetscale.com)                |             |         |
-| [Dragonfly](https://dragonflydb.io)                   |             |         |
-| [Cloudflare D1](https://developers.cloudflare.com/d1) |             |         |
 | [Nhost](https://nhost.io)                             |             |         |
-| [Duck](https://duckdb.org)                            |             |         |
 | [Minds](https://mindsdb.com)                          |             |         |
+| [Duck](https://duckdb.org)                            |             |         |
 | [Nile](https://thenile.dev)                           |             |         |
+| [Dragonfly](https://dragonflydb.io)                   |             |         |
 | [Electric](https://electric-sql.com)                  |             |         |
 | [Oriole](https://orioledb.com)                        |             |         |
+| [Cloudflare D1](https://developers.cloudflare.com/d1) |             |         |
 
 ## Authentication
 
@@ -84,11 +84,11 @@ options and excludes resources without **free tiers**.
 | [Auth](https://authjs.dev)             |             |         |
 | [Clerk](https://clerk.dev)             |             |         |
 | [Kinde](https://kinde.com)             |             |         |
+| [Ory](https://ory.sh)                  |             |         |
 | [Hanko](https://hanko.io)              |             |         |
 | [Logto](https://logto.io)              |             |         |
-| [Ory](https://ory.sh)                  |             |         |
 | [Stytch](https://stytch.com)           |             |         |
-| [Better-Auth](https://better-auth.com) |             |         |
+| [Better Auth](https://better-auth.com) |             |         |
 
 ## Headless CMS
 
@@ -105,9 +105,9 @@ options and excludes resources without **free tiers**.
 | [Agility](https://agilitycms.com)    |             |         |
 | [Gridsome](https://gridsome.org)     |             |         |
 | [Ghost](https://ghost.org)           |             |         |
-| [Hygraph](https://hygraph.com)       |             |         |
 | [Dato](https://datocms.com)          |             |         |
 | [Tina](https://tina.io)              |             |         |
+| [Hygraph](https://hygraph.com)       |             |         |
 | [Squidex](https://squidex.io)        |             |         |
 | [Cosmic](https://cosmicjs.com)       |             |         |
 
@@ -151,6 +151,8 @@ options and excludes resources without **free tiers**.
 | [Mixpanel](https://mixpanel.com)                 |             |         |
 | [Pirsch](https://pirsch.io)                      |             |         |
 | [Sprig](https://sprig.com)                       |             |         |
+| [Loglib](https://loglib.io)                      |             |         |
+| [Datadog](https://datadoghq.com)                 |             |         |
 
 ## Payments
 
