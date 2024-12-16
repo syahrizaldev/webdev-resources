@@ -1,10 +1,10 @@
 ![Web Dev Resources](./banner.png)
 
-## Introduction
+## Web Dev Resources
 
-This is a curated list of essential resources for web developers and indie-hackers trying
-to build and scale their products, websites, or apps. It prioritizes **free** and **freemium**
-options and excludes resources without **free tiers**.
+This is a curated list of essential resources for web designers, developers, freelancers, and indie-hackers
+trying to build and scale their websites, apps, or products. It prioritizes **free** and **freemium** options
+and excludes resources without **free tiers**.
 
 ## Table of Contents
 
@@ -205,7 +205,6 @@ if you have any feedback, suggestions, questions, or future requests.
 
 If you have discovered any useful and valuable resources or have suggestions for others,
 feel free to check the [**contributing file**](./contributing.md) for more information.
-Thank you for your suggestion and have a nice day.
 
 ## License
 
