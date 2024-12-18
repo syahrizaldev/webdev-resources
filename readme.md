@@ -36,46 +36,44 @@ and excludes resources without **free tiers**.
 | [Koyeb](https://koyeb.com)                       |             |         |
 | [Flyio](https://fly.io)                          |             |         |
 | [Elestio](https://elest.io)                      |             |         |
+| [Flight Control](https://flightcontrol.dev)      |             |         |
 | [Coherence](https://withcoherence.com)           |             |         |
 | [Alwaysdata](https://alwaysdata.com)             |             |         |
 | [Stormkit](https://stormkit.io)                  |             |         |
 | [Cleavr](https://cleavr.io)                      |             |         |
 | [Adaptable](https://adaptable.io)                |             |         |
+| [Fastly](https://fastly.com)                     |             |         |
 | [Coolify](https://coolify.io)                    |             |         |
 | [Dokploy](https://dokploy.com)                   |             |         |
-| [Flight Control](https://flightcontrol.dev)      |             |         |
 
 ## Databases
 
-| Name                                                  | Description | Pricing |
-| ----------------------------------------------------- | ----------- | ------- |
-| [Postgres](https://postgresql.org)                    |             |         |
-| [MySQL](https://mysql.com)                            |             |         |
-| [MongoDB](https://mongodb.com)                        |             |         |
-| [Supabase](https://supabase.com)                      |             |         |
-| [Firebase](https://firebase.google.com)               |             |         |
-| [Appwrite](https://appwrite.io)                       |             |         |
-| [Redis](https://redis.io)                             |             |         |
-| [Neon](https://neon.tech)                             |             |         |
-| [Fauna](https://fauna.com)                            |             |         |
-| [Edge](https://edgedb.com)                            |             |         |
-| [Xata](https://xata.io)                               |             |         |
-| [Surreal](https://surrealdb.com)                      |             |         |
-| [Upstash](https://upstash.com)                        |             |         |
-| [Convex](https://convex.dev)                          |             |         |
-| [Turso](https://turso.tech)                           |             |         |
-| [Pocketbase](https://pocketbase.io)                   |             |         |
-| [Cockroach](https://cockroachlabs.com)                |             |         |
-| [Timescale](https://timescale.com)                    |             |         |
-| [Planetscale](https://planetscale.com)                |             |         |
-| [Nhost](https://nhost.io)                             |             |         |
-| [Minds](https://mindsdb.com)                          |             |         |
-| [Duck](https://duckdb.org)                            |             |         |
-| [Nile](https://thenile.dev)                           |             |         |
-| [Dragonfly](https://dragonflydb.io)                   |             |         |
-| [Electric](https://electric-sql.com)                  |             |         |
-| [Oriole](https://orioledb.com)                        |             |         |
-| [Cloudflare D1](https://developers.cloudflare.com/d1) |             |         |
+| Name                                    | Description | Pricing |
+| --------------------------------------- | ----------- | ------- |
+| [Firebase](https://firebase.google.com) |             |         |
+| [Supabase](https://supabase.com)        |             |         |
+| [MongoDB](https://mongodb.com)          |             |         |
+| [Appwrite](https://appwrite.io)         |             |         |
+| [Redis](https://redis.io)               |             |         |
+| [Neon](https://neon.tech)               |             |         |
+| [Fauna](https://fauna.com)              |             |         |
+| [Edge](https://edgedb.com)              |             |         |
+| [Xata](https://xata.io)                 |             |         |
+| [Surreal](https://surrealdb.com)        |             |         |
+| [Upstash](https://upstash.com)          |             |         |
+| [Convex](https://convex.dev)            |             |         |
+| [Turso](https://turso.tech)             |             |         |
+| [Pocketbase](https://pocketbase.io)     |             |         |
+| [Cockroach](https://cockroachlabs.com)  |             |         |
+| [Timescale](https://timescale.com)      |             |         |
+| [Planetscale](https://planetscale.com)  |             |         |
+| [Nhost](https://nhost.io)               |             |         |
+| [Minds](https://mindsdb.com)            |             |         |
+| [Duck](https://duckdb.org)              |             |         |
+| [Nile](https://thenile.dev)             |             |         |
+| [Dragonfly](https://dragonflydb.io)     |             |         |
+| [Electric](https://electric-sql.com)    |             |         |
+| [Oriole](https://orioledb.com)          |             |         |
 
 ## Authentication
 
@@ -110,6 +108,7 @@ and excludes resources without **free tiers**.
 | [Hygraph](https://hygraph.com)       |             |         |
 | [Squidex](https://squidex.io)        |             |         |
 | [Cosmic](https://cosmicjs.com)       |             |         |
+| [Butter](https://buttercms.com)      |             |         |
 
 ## Testing
 
@@ -142,11 +141,12 @@ and excludes resources without **free tiers**.
 | [Splitbee](https://splitbee.io)                  |             |         |
 | [Openpanel](https://openpanel.dev)               |             |         |
 | [Umami](https://umami.is)                        |             |         |
+| [Motomo](https://matomo.org)                     |             |         |
 | [Google Analytics](https://analytics.google.com) |             |         |
 | [Simple Analytics](https://simpleanalytics.com)  |             |         |
 | [Beam Analytics](https://beamanalytics.io)       |             |         |
-| [Posthog](https://posthog.com)                   |             |         |
 | [Lite Analytics](https://liteanalytics.com)      |             |         |
+| [Posthog](https://posthog.com)                   |             |         |
 | [Tinybird](https://tinybird.co)                  |             |         |
 | [Mixpanel](https://mixpanel.com)                 |             |         |
 | [Pirsch](https://pirsch.io)                      |             |         |
