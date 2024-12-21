@@ -3,7 +3,7 @@
 ## Web Dev Resources
 
 This is a curated list of essential resources for web developers, freelancers, and indie-hackers
-trying to build and scale their websites, apps, or products. This list prioritizes **free** and **freemium**
+trying to build and scale their websites, apps, or products. It prioritizes **free** and **freemium**
 options and excludes resources without any **free tiers**.
 
 ## Table of Contents
@@ -18,6 +18,7 @@ options and excludes resources without any **free tiers**.
 - [Payments](#payments)
 - [Text Editors](#text-editors)
 - [Charts](#charts)
+- [UI Libraries](#ui-libraries)
 
 ## Hosting
 
@@ -74,6 +75,7 @@ options and excludes resources without any **free tiers**.
 | [Dragonfly](https://dragonflydb.io)     |             |         |
 | [Electric](https://electric-sql.com)    |             |         |
 | [Oriole](https://orioledb.com)          |             |         |
+| [Astra](https://astra.datastax.com)     |             |         |
 
 ## Authentication
 
@@ -86,7 +88,7 @@ options and excludes resources without any **free tiers**.
 | [Hanko](https://hanko.io)              |             |         |
 | [Logto](https://logto.io)              |             |         |
 | [Stytch](https://stytch.com)           |             |         |
-| [Better Auth](https://better-auth.com) |             |         |
+| [Better-Auth](https://better-auth.com) |             |         |
 
 ## Headless CMS
 
@@ -119,7 +121,7 @@ options and excludes resources without any **free tiers**.
 | [Vitest](https://vitest.dev)                   |             |         |
 | [Cypress](https://cypress.io)                  |             |         |
 | [Playwright](https://playwright.dev)           |             |         |
-| [Testing Library](https://testing-library.com) |             |         |
+| [Testing-Library](https://testing-library.com) |             |         |
 
 ## Search
 
@@ -193,6 +195,21 @@ options and excludes resources without any **free tiers**.
 | [Highcharts](https://highcharts.com)    |             |         |
 | [Echarts](https://echarts.apache.org)   |             |         |
 | [Superset](https://superset.apache.org) |             |         |
+
+## UI Libraries
+
+| Name                                  | Description | Pricing |
+| ------------------------------------- | ----------- | ------- |
+| [Bootstrap](https://getbootstrap.com) |             |         |
+| [Tailwind](https://tailwindcss.com)   |             |         |
+| [Radix](https://radix-ui.com)         |             |         |
+| [Shadcn UI](https://ui.shadcn.com)    |             |         |
+| [Material](https://mui.com)           |             |         |
+| [Chakra](https://chakra-ui.com)       |             |         |
+| [Mantine](https://mantine.dev)        |             |         |
+| [Ant Design](https://ant.design)      |             |         |
+| [Vuetify](https://vuetifyjs.com)      |             |         |
+| [Next UI](https://nextui.org)         |             |         |
 
 ## Feedback
 
