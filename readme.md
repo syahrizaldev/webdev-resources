@@ -76,6 +76,7 @@ options and excluding resources without any **free tiers**.
 | [Electric](https://electric-sql.com)    |             |         |
 | [Oriole](https://orioledb.com)          |             |         |
 | [Astra](https://astra.datastax.com)     |             |         |
+| [ScyllaDB](https://scylladb.com)        |             |         |
 | [Tinybase](https://tinybase.org)        |             |         |
 
 ## Authentication
