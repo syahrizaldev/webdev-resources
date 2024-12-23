@@ -3,8 +3,8 @@
 ## Web Dev Resources
 
 This is a curated list of essential resources for web developers, freelancers, and indie-hackers
-trying to build and scale their websites, apps, or products. It prioritizes **free** and **freemium**
-options and excludes resources without any **free tiers**.
+trying to build and scale their websites, apps, or products. Prioritizing **free** and **freemium**
+options and excluding resources without any **free tiers**.
 
 ## Table of Contents
 
@@ -76,6 +76,7 @@ options and excludes resources without any **free tiers**.
 | [Electric](https://electric-sql.com)    |             |         |
 | [Oriole](https://orioledb.com)          |             |         |
 | [Astra](https://astra.datastax.com)     |             |         |
+| [Tinybase](https://tinybase.org)        |             |         |
 
 ## Authentication
 
@@ -111,6 +112,7 @@ options and excludes resources without any **free tiers**.
 | [Squidex](https://squidex.io)        |             |         |
 | [Cosmic](https://cosmicjs.com)       |             |         |
 | [Butter](https://buttercms.com)      |             |         |
+| [Zenblog](https://zenblog.com)       |             |         |
 
 ## Testing
 
