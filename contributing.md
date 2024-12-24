@@ -26,7 +26,7 @@ Please make sure your pull request adheres to the following guidelines:
 - Double-check if the suggestion is truly free, freemium, or has free tiers.
 - Thank you for your contributions and have a nice day.
 
-## How to contributing to this project
+## How to Contribute to This Project
 
 - Fork the repository.
 - Clone the repository to your local machine.
@@ -56,4 +56,4 @@ Please make sure your pull request adheres to the following guidelines:
    git push -u origin <new branch-name>
    ```
 - Open for a pull request.
-- Finish.
+- Finish and congratulations.
