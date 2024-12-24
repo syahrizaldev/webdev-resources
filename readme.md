@@ -11,14 +11,14 @@ options and excluding resources without any **free tiers**.
 - [Hosting](#hosting)
 - [Databases](#databases)
 - [Authentication](#authentication)
-- [Headless CMS](#headless-cms)
 - [Testing](#testing)
 - [Search](#search)
 - [Analytics](#analytics)
 - [Payments](#payments)
+- [UI Libraries](#ui-libraries)
+- [Headless CMS](#headless-cms)
 - [Text Editors](#text-editors)
 - [Charts](#charts)
-- [UI Libraries](#ui-libraries)
 
 ## Hosting
 
@@ -92,29 +92,6 @@ options and excluding resources without any **free tiers**.
 | [Stytch](https://stytch.com)           |             |         |
 | [Better-Auth](https://better-auth.com) |             |         |
 
-## Headless CMS
-
-| Name                                 | Description | Pricing |
-| ------------------------------------ | ----------- | ------- |
-| [Strapi](https://strapi.io)          |             |         |
-| [Sanity](https://sanity.io)          |             |         |
-| [Payload](https://payloadcms.com)    |             |         |
-| [Keystatic](https://keystatic.com)   |             |         |
-| [Keystone](https://keystonejs.com)   |             |         |
-| [Storyblok](https://storyblok.com)   |             |         |
-| [Contentful](https://contentful.com) |             |         |
-| [Prismic](https://prismic.io)        |             |         |
-| [Agility](https://agilitycms.com)    |             |         |
-| [Gridsome](https://gridsome.org)     |             |         |
-| [Ghost](https://ghost.org)           |             |         |
-| [Dato](https://datocms.com)          |             |         |
-| [Tina](https://tina.io)              |             |         |
-| [Hygraph](https://hygraph.com)       |             |         |
-| [Squidex](https://squidex.io)        |             |         |
-| [Cosmic](https://cosmicjs.com)       |             |         |
-| [Butter](https://buttercms.com)      |             |         |
-| [Zenblog](https://zenblog.com)       |             |         |
-
 ## Testing
 
 | Name                                           | Description | Pricing |
@@ -173,6 +150,44 @@ options and excluding resources without any **free tiers**.
 | [Fast Spring](https://fastspring.com)     |             |         |
 | [RevenueCat](https://revenuecat.com)      |             |         |
 
+## UI Libraries
+
+| Name                                  | Description | Pricing |
+| ------------------------------------- | ----------- | ------- |
+| [Bootstrap](https://getbootstrap.com) |             |         |
+| [Tailwind](https://tailwindcss.com)   |             |         |
+| [Radix](https://radix-ui.com)         |             |         |
+| [Shadcn UI](https://ui.shadcn.com)    |             |         |
+| [Material](https://mui.com)           |             |         |
+| [Chakra](https://chakra-ui.com)       |             |         |
+| [Mantine](https://mantine.dev)        |             |         |
+| [Ant Design](https://ant.design)      |             |         |
+| [Vuetify](https://vuetifyjs.com)      |             |         |
+| [Next UI](https://nextui.org)         |             |         |
+
+## Headless CMS
+
+| Name                                 | Description | Pricing |
+| ------------------------------------ | ----------- | ------- |
+| [Strapi](https://strapi.io)          |             |         |
+| [Sanity](https://sanity.io)          |             |         |
+| [Payload](https://payloadcms.com)    |             |         |
+| [Keystatic](https://keystatic.com)   |             |         |
+| [Keystone](https://keystonejs.com)   |             |         |
+| [Storyblok](https://storyblok.com)   |             |         |
+| [Contentful](https://contentful.com) |             |         |
+| [Prismic](https://prismic.io)        |             |         |
+| [Agility](https://agilitycms.com)    |             |         |
+| [Gridsome](https://gridsome.org)     |             |         |
+| [Ghost](https://ghost.org)           |             |         |
+| [Dato](https://datocms.com)          |             |         |
+| [Tina](https://tina.io)              |             |         |
+| [Hygraph](https://hygraph.com)       |             |         |
+| [Squidex](https://squidex.io)        |             |         |
+| [Cosmic](https://cosmicjs.com)       |             |         |
+| [Butter](https://buttercms.com)      |             |         |
+| [Zenblog](https://zenblog.com)       |             |         |
+
 ## Text Editors
 
 | Name                                 | Description | Pricing |
@@ -199,27 +214,12 @@ options and excluding resources without any **free tiers**.
 | [Echarts](https://echarts.apache.org)   |             |         |
 | [Superset](https://superset.apache.org) |             |         |
 
-## UI Libraries
-
-| Name                                  | Description | Pricing |
-| ------------------------------------- | ----------- | ------- |
-| [Bootstrap](https://getbootstrap.com) |             |         |
-| [Tailwind](https://tailwindcss.com)   |             |         |
-| [Radix](https://radix-ui.com)         |             |         |
-| [Shadcn UI](https://ui.shadcn.com)    |             |         |
-| [Material](https://mui.com)           |             |         |
-| [Chakra](https://chakra-ui.com)       |             |         |
-| [Mantine](https://mantine.dev)        |             |         |
-| [Ant Design](https://ant.design)      |             |         |
-| [Vuetify](https://vuetifyjs.com)      |             |         |
-| [Next UI](https://nextui.org)         |             |         |
-
 ## Feedback
 
-This repository is actively under improvement and development.
+This project is actively under improvement and development.
 Please open an [**issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
-if you have any feedback, suggestions, questions, or future requests.
+if you have any suggestions, feedback, questions, or future requests.
 
 ## Contributing
 
@@ -228,5 +228,5 @@ feel free to check the [**contributing**](./contributing.md) file for more infor
 
 ## License
 
-This repository is licensed under the terms of the [**MIT License**](./license).
+This project is licensed under the terms of the [**MIT License**](./license).
 You can use, modify, and distribute this project under the license.
