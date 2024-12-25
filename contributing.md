@@ -3,17 +3,15 @@
 Please make sure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be duplicated.
-- Make an individual pull request for each suggestion for easier review.
 - Additions should be added to the bottom of the relevant category.
+- Make an individual pull request for each suggestion for easier review.
 - Pull request title should be in the following format:
    ```text
    'add netlify to hosting'
-   'add strapi to headless cms'
    ```
 - Provide a link to the submitted suggestion in the pull request comment section.
    ```text
    'netlify: https://netlify.com'
-   'strapi: https://strapi.io'
    ```
 - Keep descriptions short and simple, but descriptive.
    ```text
@@ -36,6 +34,10 @@ Please make sure your pull request adheres to the following guidelines:
 - Create an upstream.
    ```bash
    git remote add upstream <original repository address>
+   ```
+- Install the packages.
+   ```bash
+   pnpm install
    ```
 - Create a new branch.
    ```bash
