@@ -37,6 +37,7 @@ options and excluding resources without any **free tiers**.
 | [Koyeb](https://koyeb.com)                       |             |         |
 | [Flyio](https://fly.io)                          |             |         |
 | [Elestio](https://elest.io)                      |             |         |
+| [Sevalla](https://sevalla.com)                   |             |         |
 | [Flight Control](https://flightcontrol.dev)      |             |         |
 | [Coherence](https://withcoherence.com)           |             |         |
 | [Alwaysdata](https://alwaysdata.com)             |             |         |
@@ -76,8 +77,8 @@ options and excluding resources without any **free tiers**.
 | [Electric](https://electric-sql.com)    |             |         |
 | [Oriole](https://orioledb.com)          |             |         |
 | [Astra](https://astra.datastax.com)     |             |         |
-| [ScyllaDB](https://scylladb.com)        |             |         |
 | [Tinybase](https://tinybase.org)        |             |         |
+| [ScyllaDB](https://scylladb.com)        |             |         |
 
 ## Authentication
 
@@ -152,18 +153,30 @@ options and excluding resources without any **free tiers**.
 
 ## UI Libraries
 
-| Name                                  | Description | Pricing |
-| ------------------------------------- | ----------- | ------- |
-| [Bootstrap](https://getbootstrap.com) |             |         |
-| [Tailwind](https://tailwindcss.com)   |             |         |
-| [Radix](https://radix-ui.com)         |             |         |
-| [Shadcn UI](https://ui.shadcn.com)    |             |         |
-| [Material](https://mui.com)           |             |         |
-| [Chakra](https://chakra-ui.com)       |             |         |
-| [Mantine](https://mantine.dev)        |             |         |
-| [Ant Design](https://ant.design)      |             |         |
-| [Vuetify](https://vuetifyjs.com)      |             |         |
-| [Next UI](https://nextui.org)         |             |         |
+| Name                                    | Description | Pricing |
+| --------------------------------------- | ----------- | ------- |
+| [Bootstrap](https://getbootstrap.com)   |             |         |
+| [Bulma](https://bulma.io)               |             |         |
+| [UIKit](https://getuikit.com)           |             |         |
+| [Semantic](https://semantic-ui.com)     |             |         |
+| [Tailwind](https://tailwindcss.com)     |             |         |
+| [Radix](https://radix-ui.com)           |             |         |
+| [Material](https://mui.com)             |             |         |
+| [Mantine](https://mantine.dev)          |             |         |
+| [Shadcn](https://ui.shadcn.com)         |             |         |
+| [Ant Design](https://ant.design)        |             |         |
+| [Chakra](https://chakra-ui.com)         |             |         |
+| [Vuetify](https://vuetifyjs.com)        |             |         |
+| [Headless](https://headlessui.com)      |             |         |
+| [Next](https://nextui.org)              |             |         |
+| [Daisy](https://daisyui.com)            |             |         |
+| [Ark](https://ark-ui.com)               |             |         |
+| [Base](https://base-ui.com)             |             |         |
+| [Meraki](https://merakiui.com)          |             |         |
+| [Draft](https://draft-ui.com)           |             |         |
+| [Magic](https://magicui.design)         |             |         |
+| [Flowbite](https://flowbite.com)        |             |         |
+| [Aceternity](https://ui.aceternity.com) |             |         |
 
 ## Headless CMS
 
