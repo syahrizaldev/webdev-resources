@@ -15,8 +15,8 @@ options and excluding resources without any **free tiers**.
 - [Search](#search)
 - [Analytics](#analytics)
 - [Payments](#payments)
-- [UI Libraries](#ui-libraries)
 - [Headless CMS](#headless-cms)
+- [UI Frameworks](#ui-frameworks)
 - [Text Editors](#text-editors)
 - [Charts](#charts)
 
@@ -151,33 +151,6 @@ options and excluding resources without any **free tiers**.
 | [Fast Spring](https://fastspring.com)     |             |         |
 | [RevenueCat](https://revenuecat.com)      |             |         |
 
-## UI Libraries
-
-| Name                                    | Description | Pricing |
-| --------------------------------------- | ----------- | ------- |
-| [Bootstrap](https://getbootstrap.com)   |             |         |
-| [Bulma](https://bulma.io)               |             |         |
-| [UIKit](https://getuikit.com)           |             |         |
-| [Semantic](https://semantic-ui.com)     |             |         |
-| [Tailwind](https://tailwindcss.com)     |             |         |
-| [Radix](https://radix-ui.com)           |             |         |
-| [Material](https://mui.com)             |             |         |
-| [Mantine](https://mantine.dev)          |             |         |
-| [Shadcn](https://ui.shadcn.com)         |             |         |
-| [Ant Design](https://ant.design)        |             |         |
-| [Chakra](https://chakra-ui.com)         |             |         |
-| [Vuetify](https://vuetifyjs.com)        |             |         |
-| [Headless](https://headlessui.com)      |             |         |
-| [Next](https://nextui.org)              |             |         |
-| [Daisy](https://daisyui.com)            |             |         |
-| [Ark](https://ark-ui.com)               |             |         |
-| [Base](https://base-ui.com)             |             |         |
-| [Meraki](https://merakiui.com)          |             |         |
-| [Draft](https://draft-ui.com)           |             |         |
-| [Magic](https://magicui.design)         |             |         |
-| [Flowbite](https://flowbite.com)        |             |         |
-| [Aceternity](https://ui.aceternity.com) |             |         |
-
 ## Headless CMS
 
 | Name                                 | Description | Pricing |
@@ -200,6 +173,36 @@ options and excluding resources without any **free tiers**.
 | [Cosmic](https://cosmicjs.com)       |             |         |
 | [Butter](https://buttercms.com)      |             |         |
 | [Zenblog](https://zenblog.com)       |             |         |
+
+## UI Frameworks
+
+| Name                                    | Description | Pricing |
+| --------------------------------------- | ----------- | ------- |
+| [Bootstrap](https://getbootstrap.com)   |             |         |
+| [Bulma](https://bulma.io)               |             |         |
+| [UIKit](https://getuikit.com)           |             |         |
+| [Semantic](https://semantic-ui.com)     |             |         |
+| [Milligram](https://milligram.io)       |             |         |
+| [Foundation](https://get.foundation)    |             |         |
+| [Tailwind](https://tailwindcss.com)     |             |         |
+| [Radix](https://radix-ui.com)           |             |         |
+| [Material](https://mui.com)             |             |         |
+| [Mantine](https://mantine.dev)          |             |         |
+| [Shadcn](https://ui.shadcn.com)         |             |         |
+| [Ant Design](https://ant.design)        |             |         |
+| [Chakra](https://chakra-ui.com)         |             |         |
+| [Vuetify](https://vuetifyjs.com)        |             |         |
+| [Headless](https://headlessui.com)      |             |         |
+| [Next](https://nextui.org)              |             |         |
+| [Daisy](https://daisyui.com)            |             |         |
+| [Ark](https://ark-ui.com)               |             |         |
+| [Base](https://base-ui.com)             |             |         |
+| [Meraki](https://merakiui.com)          |             |         |
+| [Draft](https://draft-ui.com)           |             |         |
+| [Magic](https://magicui.design)         |             |         |
+| [Flowbite](https://flowbite.com)        |             |         |
+| [Aceternity](https://ui.aceternity.com) |             |         |
+| [Kendo](https://telerik.com/kendo-ui)   |             |         |
 
 ## Text Editors
 
