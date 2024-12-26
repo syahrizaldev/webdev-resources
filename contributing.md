@@ -13,6 +13,8 @@ Please make sure your pull request adheres to the following guidelines:
    ```text
    'netlify: https://netlify.com'
    ```
+- For an open-source project on github, the repository should have
+  at least 100 stars and actively maintained.
 - Keep descriptions short and simple, but descriptive.
    ```text
    - The description should start with a capital.
@@ -59,3 +61,10 @@ Please make sure your pull request adheres to the following guidelines:
    ```
 - Open for a pull request.
 - Finish and congratulations.
+
+## Updating Your Pull Request
+
+Making a pull request to adhere to the standards above can be difficult.
+If the maintainers notice anything that we would like changed due to spelling errors
+or because your pull request did not match the guidelines, we will ask you to edit
+your pull request before we merge it.
