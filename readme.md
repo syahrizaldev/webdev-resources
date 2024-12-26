@@ -241,6 +241,9 @@ if you have any suggestions, feedback, questions, or future requests.
 
 ## Contributing
 
+This project is released with a [Contributor Code of Conduct](code-of-conduct.md).
+By participating in this project you agree to abide by its terms.
+
 If you have discovered any useful and valuable resources or have suggestions for others,
 feel free to check the [**contributing**](./contributing.md) file for more information.
 
