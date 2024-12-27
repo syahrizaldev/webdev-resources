@@ -235,17 +235,14 @@
 ## Feedback
 
 This project is actively under improvement and development.
-Please open an [**issue**](https://github.com/syahrizaldev/webdev-resources/issues)
-or start a [**discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
+Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
+or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any suggestions, feedback, questions, or future requests.
 
 ## Contributing
 
-This project is released with a [Contributor Code of Conduct](code-of-conduct.md).
-By participating in this project you agree to abide by its terms.
-
 If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**contributing**](./contributing.md) file for more information.
+feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
 
 ## License
 
