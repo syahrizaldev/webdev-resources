@@ -1,6 +1,6 @@
 {
    "name": "webdev-resources",
-   "description": "Curated list of resources for web developers and indie-hackers.",
+   "description": "Curated list of resources for web developers and indie hackers.",
    "version": "1.0.0",
    "license": "MIT",
    "type": "commonjs",
@@ -15,13 +15,13 @@
       "name": "Syahrizal"
    },
    "keywords": [
-      "toolkits",
       "resources",
       "curated-list",
       "awesome-list",
+      "dev-resources",
       "indie-hackers",
-      "developer-tools",
-      "webdev-resources"
+      "web-development",
+      "development-tools"
    ],
    "repository": {
       "type": "git",
