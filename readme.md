@@ -150,6 +150,7 @@
 | [Polar](https://polar.sh)                 |             |         |
 | [Creem](https://creem.io)                 |             |         |
 | [Snipcart](https://snipcart.com)          |             |         |
+| [Verifone](https://2checkout.com)         |             |         |
 | [Fast Spring](https://fastspring.com)     |             |         |
 | [RevenueCat](https://revenuecat.com)      |             |         |
 
@@ -218,6 +219,8 @@
 | [Blocknote](https://blocknotejs.org) |             |         |
 | [Editor](https://editorjs.io)        |             |         |
 | [Novel](https://novel.sh)            |             |         |
+| [Slate](https://slatejs.org)         |             |         |
+| [Froala](https://froala.com)         |             |         |
 
 ## Charts
 
