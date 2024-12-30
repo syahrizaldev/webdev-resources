@@ -224,16 +224,16 @@
 
 ## Charts
 
-| Name                                    | Description | Pricing |
-| --------------------------------------- | ----------- | ------- |
-| [D3](https://d3js.org)                  |             |         |
-| [Chart](https://chartjs.org)            |             |         |
-| [Apexcharts](https://apexcharts.com)    |             |         |
-| [Amcharts](https://amcharts.com)        |             |         |
-| [Anychart](https://anychart.com)        |             |         |
-| [Highcharts](https://highcharts.com)    |             |         |
-| [Echarts](https://echarts.apache.org)   |             |         |
-| [Superset](https://superset.apache.org) |             |         |
+| Name                                    | Description | Pricing                      |
+| --------------------------------------- | ----------- | ---------------------------- |
+| [D3](https://d3js.org)                  |             | Free / Open source           |
+| [Chart](https://chartjs.org)            |             | Free / Open source           |
+| [Apexcharts](https://apexcharts.com)    |             | Free / Open source           |
+| [Echarts](https://echarts.apache.org)   |             | Free / Open source           |
+| [Superset](https://superset.apache.org) |             | Free / Open source           |
+| [Anychart](https://anychart.com)        |             | Free / $49 per license       |
+| [Highcharts](https://highcharts.com)    |             | Free / $168 per seat anually |
+| [Amcharts](https://amcharts.com)        |             | Free / $180 per seat anually |
 
 ## Feedback
 
