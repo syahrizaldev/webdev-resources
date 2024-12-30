@@ -209,18 +209,18 @@
 
 ## Text Editors
 
-| Name                                 | Description | Pricing |
-| ------------------------------------ | ----------- | ------- |
-| [TinyMCE](https://tiny.cloud)        |             |         |
-| [CKEditor](https://ckeditor.com)     |             |         |
-| [Quill](https://quilljs.com)         |             |         |
-| [Tiptap](https://tiptap.dev)         |             |         |
-| [Lexical](https://lexical.dev)       |             |         |
-| [Blocknote](https://blocknotejs.org) |             |         |
-| [Editor](https://editorjs.io)        |             |         |
-| [Novel](https://novel.sh)            |             |         |
-| [Slate](https://slatejs.org)         |             |         |
-| [Froala](https://froala.com)         |             |         |
+| Name                                 | Description | Pricing               |
+| ------------------------------------ | ----------- | --------------------- |
+| [Quill](https://quilljs.com)         |             | Free / Open source    |
+| [Lexical](https://lexical.dev)       |             | Free / Open source    |
+| [Editor](https://editorjs.io)        |             | Free / Open source    |
+| [Novel](https://novel.sh)            |             | Free / Open source    |
+| [Slate](https://slatejs.org)         |             | Free / Open source    |
+| [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
+| [Tiptap](https://tiptap.dev)         |             | Free / $149 per month |
+| [CKEditor](https://ckeditor.com)     |             | Free / $160 per month |
+| [Blocknote](https://blocknotejs.org) |             | Free / $90 per month  |
+| [Froala](https://froala.com)         |             | Free / $719 per year  |
 
 ## Charts
 
