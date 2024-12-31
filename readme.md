@@ -84,16 +84,19 @@
 
 ## Authentication
 
-| Name                                   | Description | Pricing |
-| -------------------------------------- | ----------- | ------- |
-| [Auth](https://authjs.dev)             |             |         |
-| [Clerk](https://clerk.dev)             |             |         |
-| [Kinde](https://kinde.com)             |             |         |
-| [Ory](https://ory.sh)                  |             |         |
-| [Hanko](https://hanko.io)              |             |         |
-| [Logto](https://logto.io)              |             |         |
-| [Stytch](https://stytch.com)           |             |         |
-| [Better-Auth](https://better-auth.com) |             |         |
+| Name                                      | Description | Pricing              |
+| ----------------------------------------- | ----------- | -------------------- |
+| [Auth](https://authjs.dev)                |             | Free / Open source   |
+| [Clerk](https://clerk.dev)                |             | Free / $25 per month |
+| [Kinde](https://kinde.com)                |             | Free / $25 per month |
+| [Ory](https://ory.sh)                     |             | Free / $70 per month |
+| [Hanko](https://hanko.io)                 |             | Free / $29 per month |
+| [Logto](https://logto.io)                 |             | Free / $16 per month |
+| [Stytch](https://stytch.com)              |             | Free / Pay as you go |
+| [Better Auth](https://better-auth.com)    |             | Free / Open source   |
+| [Auth0](https://auth0.com)                |             | Free / $35 per month |
+| [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
+| [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
 
 ## Testing
 
@@ -104,7 +107,7 @@
 | [Vitest](https://vitest.dev)                   |             |         |
 | [Cypress](https://cypress.io)                  |             |         |
 | [Playwright](https://playwright.dev)           |             |         |
-| [Testing-Library](https://testing-library.com) |             |         |
+| [Testing Library](https://testing-library.com) |             |         |
 
 ## Search
 
