@@ -21,6 +21,7 @@
 - [UI Frameworks](#ui-frameworks)
 - [Text Editors](#text-editors)
 - [Charts](#charts)
+- [Marketing Tools](#marketing-tools)
 
 ## Hosting
 
@@ -234,6 +235,12 @@
 | [Highcharts](https://highcharts.com)    |             |         |
 | [Echarts](https://echarts.apache.org)   |             |         |
 | [Superset](https://superset.apache.org) |             |         |
+
+## Marketing Tools
+
+| Name | Description | Pricing |
+| ---- | ----------- | ------- |
+| []() |             |         |
 
 ## Feedback
 
