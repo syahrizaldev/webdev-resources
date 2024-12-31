@@ -210,6 +210,7 @@
 | [Next](https://nextui.org)              |             |         |
 | [Daisy](https://daisyui.com)            |             |         |
 | [Ark](https://ark-ui.com)               |             |         |
+| [Zag](https://zagjs.com)                |             |         |
 | [Base](https://base-ui.com)             |             |         |
 | [Meraki](https://merakiui.com)          |             |         |
 | [Draft](https://draft-ui.com)           |             |         |
@@ -235,16 +236,16 @@
 
 ## Charts
 
-| Name                                    | Description | Pricing                      |
-| --------------------------------------- | ----------- | ---------------------------- |
-| [D3](https://d3js.org)                  |             | Free / Open source           |
-| [Chart](https://chartjs.org)            |             | Free / Open source           |
-| [Apexcharts](https://apexcharts.com)    |             | Free / Open source           |
-| [Anychart](https://anychart.com)        |             | Free / $49 per license       |
-| [Highcharts](https://highcharts.com)    |             | Free / $168 per seat anually |
-| [Amcharts](https://amcharts.com)        |             | Free / $180 per seat anually |
-| [Echarts](https://echarts.apache.org)   |             | Free / Open source           |
-| [Superset](https://superset.apache.org) |             | Free / Open source           |
+| Name                                    | Description | Pricing                |
+| --------------------------------------- | ----------- | ---------------------- |
+| [D3](https://d3js.org)                  |             | Free / Open source     |
+| [Chart](https://chartjs.org)            |             | Free / Open source     |
+| [Apexcharts](https://apexcharts.com)    |             | Free / Open source     |
+| [Highcharts](https://highcharts.com)    |             | Free / $168 per year   |
+| [Amcharts](https://amcharts.com)        |             | Free / $180 per year   |
+| [Echarts](https://echarts.apache.org)   |             | Free / Open source     |
+| [Superset](https://superset.apache.org) |             | Free / Open source     |
+| [Anychart](https://anychart.com)        |             | Free / $49 per license |
 
 ## Feedback
 
