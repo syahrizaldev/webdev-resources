@@ -108,15 +108,18 @@
 
 ## Search
 
-| Name                                     | Description | Pricing |
-| ---------------------------------------- | ----------- | ------- |
-| [Algolia](https://algolia.com)           |             |         |
-| [Elastic](https://elastic.co)            |             |         |
-| [Meilisearch](https://meilisearch.com)   |             |         |
-| [Typesense](https://typesense.org)       |             |         |
-| [Orama](https://oramasearch.com)         |             |         |
-| [Pagefind](https://pagefind.app)         |             |         |
-| [Manticore](https://manticoresearch.com) |             |         |
+| Name                                     | Description | Pricing              |
+| ---------------------------------------- | ----------- | -------------------- |
+| [Algolia](https://algolia.com)           |             | Free / Pay as you go |
+| [Elastic](https://elastic.co)            |             | Free / $95 per month |
+| [Typesense](https://typesense.org)       |             | Free / Open source   |
+| [Meilisearch](https://meilisearch.com)   |             | Free / $30 per month |
+| [Opensearch](https://opensearch.org)     |             | Free / Open source   |
+| [Orama](https://oramasearch.com)         |             | Free / $49 per month |
+| [Manticore](https://manticoresearch.com) |             | Free / Open source   |
+| [Quickwit](https://quickwit.io)          |             | Free / Open source   |
+| [Pagefind](https://pagefind.app)         |             | Free / Open source   |
+| [Sphinx](https://sphinxsearch.com)       |             | Free / Open source   |
 
 ## Analytics
 
@@ -211,16 +214,16 @@
 
 | Name                                 | Description | Pricing               |
 | ------------------------------------ | ----------- | --------------------- |
+| [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
+| [CKEditor](https://ckeditor.com)     |             | Free / $160 per month |
 | [Quill](https://quilljs.com)         |             | Free / Open source    |
+| [Tiptap](https://tiptap.dev)         |             | Free / $149 per month |
 | [Lexical](https://lexical.dev)       |             | Free / Open source    |
+| [Blocknote](https://blocknotejs.org) |             | Free / $90 per month  |
 | [Editor](https://editorjs.io)        |             | Free / Open source    |
 | [Novel](https://novel.sh)            |             | Free / Open source    |
-| [Slate](https://slatejs.org)         |             | Free / Open source    |
-| [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
-| [Tiptap](https://tiptap.dev)         |             | Free / $149 per month |
-| [CKEditor](https://ckeditor.com)     |             | Free / $160 per month |
-| [Blocknote](https://blocknotejs.org) |             | Free / $90 per month  |
 | [Froala](https://froala.com)         |             | Free / $719 per year  |
+| [Slate](https://slatejs.org)         |             | Free / Open source    |
 
 ## Charts
 
@@ -229,11 +232,11 @@
 | [D3](https://d3js.org)                  |             | Free / Open source           |
 | [Chart](https://chartjs.org)            |             | Free / Open source           |
 | [Apexcharts](https://apexcharts.com)    |             | Free / Open source           |
-| [Echarts](https://echarts.apache.org)   |             | Free / Open source           |
-| [Superset](https://superset.apache.org) |             | Free / Open source           |
 | [Anychart](https://anychart.com)        |             | Free / $49 per license       |
 | [Highcharts](https://highcharts.com)    |             | Free / $168 per seat anually |
 | [Amcharts](https://amcharts.com)        |             | Free / $180 per seat anually |
+| [Echarts](https://echarts.apache.org)   |             | Free / Open source           |
+| [Superset](https://superset.apache.org) |             | Free / Open source           |
 
 ## Feedback
 
