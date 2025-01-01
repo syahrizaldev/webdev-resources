@@ -24,6 +24,8 @@
 
 ## Hosting
 
+> Category detail information.
+
 | Name                                             | Description | Pricing |
 | ------------------------------------------------ | ----------- | ------- |
 | [Vercel](https://vercel.com)                     |             |         |
@@ -51,6 +53,8 @@
 | [Dokploy](https://dokploy.com)                   |             |         |
 
 ## Databases
+
+> Category detail information.
 
 | Name                                    | Description | Pricing |
 | --------------------------------------- | ----------- | ------- |
@@ -84,6 +88,8 @@
 
 ## Authentication
 
+> Category detail information.
+
 | Name                                      | Description | Pricing              |
 | ----------------------------------------- | ----------- | -------------------- |
 | [Auth](https://authjs.dev)                |             | Free / Open source   |
@@ -99,6 +105,8 @@
 | [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
 
 ## Testing
+
+> Category detail information.
 
 | Name                                           | Description | Pricing            |
 | ---------------------------------------------- | ----------- | ------------------ |
@@ -116,6 +124,8 @@
 
 ## Search
 
+> Category detail information.
+
 | Name                                     | Description | Pricing              |
 | ---------------------------------------- | ----------- | -------------------- |
 | [Algolia](https://algolia.com)           |             | Free / Pay as you go |
@@ -130,6 +140,8 @@
 | [Sphinx](https://sphinxsearch.com)       |             | Free / Open source   |
 
 ## Analytics
+
+> Category detail information.
 
 | Name                                             | Description | Pricing                   |
 | ------------------------------------------------ | ----------- | ------------------------- |
@@ -154,6 +166,8 @@
 
 ## Payments
 
+> Category detail information.
+
 | Name                                      | Description | Pricing |
 | ----------------------------------------- | ----------- | ------- |
 | [Stripe](https://stripe.com)              |             |         |
@@ -168,6 +182,8 @@
 | [RevenueCat](https://revenuecat.com)      |             |         |
 
 ## Headless CMS
+
+> Category detail information.
 
 | Name                                 | Description | Pricing                    |
 | ------------------------------------ | ----------- | -------------------------- |
@@ -190,6 +206,8 @@
 | [Zenblog](https://zenblog.com)       |             | Free / $6 per month        |
 
 ## UI Frameworks
+
+> Category detail information.
 
 | Name                                    | Description | Pricing |
 | --------------------------------------- | ----------- | ------- |
@@ -222,6 +240,8 @@
 
 ## Text Editors
 
+> Category detail information.
+
 | Name                                 | Description | Pricing               |
 | ------------------------------------ | ----------- | --------------------- |
 | [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
@@ -236,6 +256,8 @@
 | [Slate](https://slatejs.org)         |             | Free / Open source    |
 
 ## Charts
+
+> Category detail information.
 
 | Name                                    | Description | Pricing                |
 | --------------------------------------- | ----------- | ---------------------- |
