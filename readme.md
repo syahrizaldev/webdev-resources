@@ -248,18 +248,18 @@
 | [Superset](https://superset.apache.org) |             | Free / Open source     |
 | [Anychart](https://anychart.com)        |             | Free / $49 per license |
 
+## Contributing
+
+If you have discovered any useful and valuable resources or have suggestions for others,
+feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
+
 ## Feedback
 
 This project is actively under improvement and development.
 Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any suggestions, feedback, questions, or future requests.
-If you found this list helpful, please consider giving it a **star** and **watch** the repository.
-
-## Contributing
-
-If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
+If you found this list helpful, please consider giving it a **star** and **watching** the repository.
 
 ## License
 
