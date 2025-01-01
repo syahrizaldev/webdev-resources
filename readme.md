@@ -169,26 +169,25 @@
 
 ## Headless CMS
 
-| Name                                 | Description | Pricing |
-| ------------------------------------ | ----------- | ------- |
-| [Strapi](https://strapi.io)          |             |         |
-| [Sanity](https://sanity.io)          |             |         |
-| [Payload](https://payloadcms.com)    |             |         |
-| [Keystatic](https://keystatic.com)   |             |         |
-| [Keystone](https://keystonejs.com)   |             |         |
-| [Storyblok](https://storyblok.com)   |             |         |
-| [Contentful](https://contentful.com) |             |         |
-| [Prismic](https://prismic.io)        |             |         |
-| [Agility](https://agilitycms.com)    |             |         |
-| [Gridsome](https://gridsome.org)     |             |         |
-| [Ghost](https://ghost.org)           |             |         |
-| [Dato](https://datocms.com)          |             |         |
-| [Tina](https://tina.io)              |             |         |
-| [Hygraph](https://hygraph.com)       |             |         |
-| [Squidex](https://squidex.io)        |             |         |
-| [Cosmic](https://cosmicjs.com)       |             |         |
-| [Butter](https://buttercms.com)      |             |         |
-| [Zenblog](https://zenblog.com)       |             |         |
+| Name                                 | Description | Pricing                    |
+| ------------------------------------ | ----------- | -------------------------- |
+| [Strapi](https://strapi.io)          |             | Free / $15 per month       |
+| [Sanity](https://sanity.io)          |             | Free / $15 per month       |
+| [Payload](https://payloadcms.com)    |             | Free / $35 per month       |
+| [Keystatic](https://keystatic.com)   |             | Free / Open source         |
+| [Keystone](https://keystonejs.com)   |             | Free / Open source         |
+| [Storyblok](https://storyblok.com)   |             | Free / $103 per month      |
+| [Contentful](https://contentful.com) |             | Free / $300 per month      |
+| [Prismic](https://prismic.io)        |             | Free / $150 per month      |
+| [Gridsome](https://gridsome.org)     |             | Free / Open source         |
+| [Ghost](https://ghost.org)           |             | Free trial / $9 per month  |
+| [Dato](https://datocms.com)          |             | Free / $154 per month      |
+| [Tina](https://tina.io)              |             | Free / $29 per month       |
+| [Hygraph](https://hygraph.com)       |             | Free / $199 per month      |
+| [Squidex](https://squidex.io)        |             | Free / $20 per month       |
+| [Cosmic](https://cosmicjs.com)       |             | Free / $299 per month      |
+| [Butter](https://buttercms.com)      |             | Free trial / $99 per month |
+| [Zenblog](https://zenblog.com)       |             | Free / $6 per month        |
 
 ## UI Frameworks
 
