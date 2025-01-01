@@ -254,6 +254,7 @@ This project is actively under improvement and development.
 Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any suggestions, feedback, questions, or future requests.
+If you found this list helpful, please consider giving it a **star** and **watch** the repository.
 
 ## Contributing
 
