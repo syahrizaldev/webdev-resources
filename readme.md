@@ -131,24 +131,26 @@
 
 ## Analytics
 
-| Name                                             | Description | Pricing |
-| ------------------------------------------------ | ----------- | ------- |
-| [Plausible](https://plausible.io)                |             |         |
-| [Splitbee](https://splitbee.io)                  |             |         |
-| [Openpanel](https://openpanel.dev)               |             |         |
-| [Umami](https://umami.is)                        |             |         |
-| [Motomo](https://matomo.org)                     |             |         |
-| [Google Analytics](https://analytics.google.com) |             |         |
-| [Simple Analytics](https://simpleanalytics.com)  |             |         |
-| [Beam Analytics](https://beamanalytics.io)       |             |         |
-| [Lite Analytics](https://liteanalytics.com)      |             |         |
-| [Posthog](https://posthog.com)                   |             |         |
-| [Tinybird](https://tinybird.co)                  |             |         |
-| [Mixpanel](https://mixpanel.com)                 |             |         |
-| [Pirsch](https://pirsch.io)                      |             |         |
-| [Sprig](https://sprig.com)                       |             |         |
-| [Loglib](https://loglib.io)                      |             |         |
-| [Datadog](https://datadoghq.com)                 |             |         |
+| Name                                             | Description | Pricing                   |
+| ------------------------------------------------ | ----------- | ------------------------- |
+| [Google Analytics](https://analytics.google.com) |             | Free                      |
+| [Plausible](https://plausible.io)                |             | Free trial / $9 per month |
+| [Splitbee](https://splitbee.io)                  |             | Free / $14 per month      |
+| [Openpanel](https://openpanel.dev)               |             | Free / Pay as you go      |
+| [Umami](https://umami.is)                        |             | Free / $20 per month      |
+| [Motomo](https://matomo.org)                     |             | Free / $23 per month      |
+| [Simple Analytics](https://simpleanalytics.com)  |             | Free / $15 per month      |
+| [Beam Analytics](https://beamanalytics.io)       |             | Free / $11 per month      |
+| [Lite Analytics](https://liteanalytics.com)      |             | Free / $9 per month       |
+| [Posthog](https://posthog.com)                   |             | Free / Usage-based price  |
+| [Tinybird](https://tinybird.co)                  |             | Free / Pay as you go      |
+| [Mixpanel](https://mixpanel.com)                 |             | Free / $24 per month      |
+| [Amplitude](https://amplitude.com)               |             | Free / $61 per month      |
+| [Pirsch](https://pirsch.io)                      |             | Free trial / $6 per month |
+| [Sprig](https://sprig.com)                       |             | Free / $175 per month     |
+| [Loglib](https://loglib.io)                      |             | Free / $9 per month       |
+| [Piwik Pro](https://piwik.pro)                   |             | Free / $75 per month      |
+| [Hotjar](https://hotjar.com)                     |             | Free / $32 per month      |
 
 ## Payments
 
