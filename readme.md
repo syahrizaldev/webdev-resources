@@ -249,11 +249,6 @@
 | [Superset](https://superset.apache.org) |             | Free / Open source     |
 | [Anychart](https://anychart.com)        |             | Free / $49 per license |
 
-## Contributing
-
-If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
-
 ## Marketing Tools
 
 | Name                                | Description | Pricing |
@@ -265,6 +260,11 @@ feel free to check the [**Contributing Guidelines**](./contributing.md) for more
 | [Mailgun](https://mailgun.com)      |             |         |
 | [Mailtrap](https://mailtrap.io)     |             |         |
 | [Postmark](https://postmarkapp.com) |             |         |
+
+## Contributing
+
+If you have discovered any useful and valuable resources or have suggestions for others,
+feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
 
 ## Feedback
 
