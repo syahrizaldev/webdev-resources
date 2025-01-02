@@ -238,9 +238,15 @@
 
 ## Marketing Tools
 
-| Name | Description | Pricing |
-| ---- | ----------- | ------- |
-| []() |             |         |
+| Name                                | Description | Pricing |
+| ----------------------------------- | ----------- | ------- |
+| [Resend](https://resend.com)        |             |         |
+| [Loops](https://loops.so)           |             |         |
+| [Plunk](https://useplunk.com)       |             |         |
+| [Uninbox](https://uninbox.com)      |             |         |
+| [Mailgun](https://mailgun.com)      |             |         |
+| [Mailtrap](https://mailtrap.io)     |             |         |
+| [Postmark](https://postmarkapp.com) |             |         |
 
 ## Feedback
 
