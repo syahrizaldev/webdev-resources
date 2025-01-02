@@ -21,6 +21,7 @@
 - [UI Frameworks](#ui-frameworks)
 - [Text Editors](#text-editors)
 - [Charts](#charts)
+- [Marketing Tools](#marketing-tools)
 
 ## Hosting
 
@@ -252,6 +253,18 @@
 
 If you have discovered any useful and valuable resources or have suggestions for others,
 feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
+
+## Marketing Tools
+
+| Name                                | Description | Pricing |
+| ----------------------------------- | ----------- | ------- |
+| [Resend](https://resend.com)        |             |         |
+| [Loops](https://loops.so)           |             |         |
+| [Plunk](https://useplunk.com)       |             |         |
+| [Uninbox](https://uninbox.com)      |             |         |
+| [Mailgun](https://mailgun.com)      |             |         |
+| [Mailtrap](https://mailtrap.io)     |             |         |
+| [Postmark](https://postmarkapp.com) |             |         |
 
 ## Feedback
 
