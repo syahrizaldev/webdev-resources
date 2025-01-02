@@ -238,16 +238,20 @@
 
 ## Charts
 
-| Name                                    | Description | Pricing                |
-| --------------------------------------- | ----------- | ---------------------- |
-| [D3](https://d3js.org)                  |             | Free / Open source     |
-| [Chart](https://chartjs.org)            |             | Free / Open source     |
-| [Apexcharts](https://apexcharts.com)    |             | Free / Open source     |
-| [Highcharts](https://highcharts.com)    |             | Free / $168 per year   |
-| [Amcharts](https://amcharts.com)        |             | Free / $180 per year   |
-| [Echarts](https://echarts.apache.org)   |             | Free / Open source     |
-| [Superset](https://superset.apache.org) |             | Free / Open source     |
-| [Anychart](https://anychart.com)        |             | Free / $49 per license |
+| Name                                                | Description | Pricing                |
+| --------------------------------------------------- | ----------- | ---------------------- |
+| [D3](https://d3js.org)                              |             | Free / Open source     |
+| [Chart](https://chartjs.org)                        |             | Free / Open source     |
+| [Apexcharts](https://apexcharts.com)                |             | Free / Open source     |
+| [Highcharts](https://highcharts.com)                |             | Free / $168 per year   |
+| [Amcharts](https://amcharts.com)                    |             | Free / $180 per year   |
+| [Echarts](https://echarts.apache.org)               |             | Free / Open source     |
+| [Superset](https://superset.apache.org)             |             | Free / Open source     |
+| [Anychart](https://anychart.com)                    |             | Free / $49 per license |
+| [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
+| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
+| [Chartist](https://chartist.dev)                    |             | Free / Open source     |
+| [Pixi](https://pixijs.com)                          |             | Free / Open source     |
 
 ## Marketing Tools
 
