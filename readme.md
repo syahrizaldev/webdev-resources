@@ -94,7 +94,7 @@
 | [Hanko](https://hanko.io)                 |             | Free / $29 per month |
 | [Logto](https://logto.io)                 |             | Free / $16 per month |
 | [Stytch](https://stytch.com)              |             | Free / Pay as you go |
-| [Better-Auth](https://better-auth.com)    |             | Free / Open source   |
+| [Better Auth](https://better-auth.com)    |             | Free / Open source   |
 | [Auth0](https://auth0.com)                |             | Free / $35 per month |
 | [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
 | [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
@@ -109,7 +109,7 @@
 | [Cypress](https://cypress.io)                  |             | Free / Open source |
 | [Jasmine](https://jasmine.github.io)           |             | Free / Open source |
 | [Playwright](https://playwright.dev)           |             | Free / Open source |
-| [Testing-Library](https://testing-library.com) |             | Free / Open source |
+| [Testing Library](https://testing-library.com) |             | Free / Open source |
 | [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
 | [Webdriver](https://webdriver.io)              |             | Free / Open source |
 | [Ava](https://github.com/avajs/ava)            |             | Free / Open source |
