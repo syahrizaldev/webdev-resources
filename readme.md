@@ -53,35 +53,34 @@
 
 ## Databases
 
-| Name                                    | Description | Pricing |
-| --------------------------------------- | ----------- | ------- |
-| [Firebase](https://firebase.google.com) |             |         |
-| [Supabase](https://supabase.com)        |             |         |
-| [MongoDB](https://mongodb.com)          |             |         |
-| [Appwrite](https://appwrite.io)         |             |         |
-| [Redis](https://redis.io)               |             |         |
-| [Neon](https://neon.tech)               |             |         |
-| [Fauna](https://fauna.com)              |             |         |
-| [Edge](https://edgedb.com)              |             |         |
-| [Xata](https://xata.io)                 |             |         |
-| [Surreal](https://surrealdb.com)        |             |         |
-| [Upstash](https://upstash.com)          |             |         |
-| [Convex](https://convex.dev)            |             |         |
-| [Turso](https://turso.tech)             |             |         |
-| [Pocketbase](https://pocketbase.io)     |             |         |
-| [Cockroach](https://cockroachlabs.com)  |             |         |
-| [Timescale](https://timescale.com)      |             |         |
-| [Planetscale](https://planetscale.com)  |             |         |
-| [Nhost](https://nhost.io)               |             |         |
-| [Minds](https://mindsdb.com)            |             |         |
-| [Duck](https://duckdb.org)              |             |         |
-| [Nile](https://thenile.dev)             |             |         |
-| [Dragonfly](https://dragonflydb.io)     |             |         |
-| [Electric](https://electric-sql.com)    |             |         |
-| [Oriole](https://orioledb.com)          |             |         |
-| [Astra](https://astra.datastax.com)     |             |         |
-| [Tinybase](https://tinybase.org)        |             |         |
-| [ScyllaDB](https://scylladb.com)        |             |         |
+| Name                                      | Description | Pricing                    |
+| ----------------------------------------- | ----------- | -------------------------- |
+| [Firebase](https://firebase.google.com)   |             | Free / Pay as you go       |
+| [Supabase](https://supabase.com)          |             | Free / $25 per month       |
+| [MongoDB](https://mongodb.com)            |             | Free / Pay as you go       |
+| [Appwrite](https://appwrite.io)           |             | Free / $15 per month       |
+| [Redis](https://redis.io)                 |             | Free / Pay as you go       |
+| [Neon](https://neon.tech)                 |             | Free / $19 per month       |
+| [Fauna](https://fauna.com)                |             | Free / $150 per month      |
+| [Edge](https://edgedb.com)                |             | Free / $39 per month       |
+| [Xata](https://xata.io)                   |             | Free / $20 per month       |
+| [Surreal](https://surrealdb.com)          |             | Free / $23 per month       |
+| [Upstash](https://upstash.com)            |             | Free / Pay as you go       |
+| [Convex](https://convex.dev)              |             | Free / $25 per month       |
+| [Turso](https://turso.tech)               |             | Free / $9 per month        |
+| [Pocketbase](https://pocketbase.io)       |             | Free / Open source         |
+| [Cockroach](https://cockroachlabs.com)    |             | Free / Pay as you go       |
+| [Timescale](https://timescale.com)        |             | Free trial / Pay as you go |
+| [Nhost](https://nhost.io)                 |             | Free / $25 per month       |
+| [Minds](https://mindsdb.com)              |             | Free / Open source         |
+| [Duck](https://duckdb.org)                |             | Free / Open source         |
+| [Nile](https://thenile.dev)               |             | Free / $15 per month       |
+| [Dragonfly](https://dragonflydb.io)       |             | Free / Pay as you go       |
+| [Electric](https://electric-sql.com)      |             | Free / Open source         |
+| [Oriole](https://orioledb.com)            |             | Free / Open source         |
+| [Dynamo](https://aws.amazon.com/dynamodb) |             | Free / Pay as you go       |
+| [Astra](https://astra.datastax.com)       |             | Free / Pay as you go       |
+| [Scylla](https://scylladb.com)            |             | Free / Pay as you go       |
 
 ## Authentication
 
