@@ -25,31 +25,29 @@
 
 ## Hosting
 
-| Name                                             | Description | Pricing |
-| ------------------------------------------------ | ----------- | ------- |
-| [Vercel](https://vercel.com)                     |             |         |
-| [Netlify](https://netlify.com)                   |             |         |
-| [Render](https://render.com)                     |             |         |
-| [Amplify](https://aws.amazon.com/amplify)        |             |         |
-| [Digital Ocean](https://digitalocean.com)        |             |         |
-| [Cloudflare Pages](https://pages.cloudflare.com) |             |         |
-| [GitHub Pages](https://pages.github.com)         |             |         |
-| [Railway](https://railway.app)                   |             |         |
-| [Platform](https://platform.sh)                  |             |         |
-| [Northflank](https://northflank.com)             |             |         |
-| [Koyeb](https://koyeb.com)                       |             |         |
-| [Flyio](https://fly.io)                          |             |         |
-| [Elestio](https://elest.io)                      |             |         |
-| [Sevalla](https://sevalla.com)                   |             |         |
-| [Flight Control](https://flightcontrol.dev)      |             |         |
-| [Coherence](https://withcoherence.com)           |             |         |
-| [Alwaysdata](https://alwaysdata.com)             |             |         |
-| [Stormkit](https://stormkit.io)                  |             |         |
-| [Cleavr](https://cleavr.io)                      |             |         |
-| [Adaptable](https://adaptable.io)                |             |         |
-| [Fastly](https://fastly.com)                     |             |         |
-| [Coolify](https://coolify.io)                    |             |         |
-| [Dokploy](https://dokploy.com)                   |             |         |
+| Name                                             | Description | Pricing                    |
+| ------------------------------------------------ | ----------- | -------------------------- |
+| [Vercel](https://vercel.com)                     |             | Free / $20 per month       |
+| [Netlify](https://netlify.com)                   |             | Free / $19 per month       |
+| [Render](https://render.com)                     |             | Free / $19 per month       |
+| [Amplify](https://aws.amazon.com/amplify)        |             | Free / $15 per month       |
+| [Digital Ocean](https://digitalocean.com)        |             | Free / $5 per month        |
+| [Cloudflare Pages](https://pages.cloudflare.com) |             | Free / $20 per month       |
+| [Railway](https://railway.app)                   |             | Free trial / $5 per month  |
+| [Platform](https://platform.sh)                  |             | Free trial / $13 per month |
+| [Northflank](https://northflank.com)             |             | Free / Pay as you go       |
+| [Koyeb](https://koyeb.com)                       |             | Free / $29 per month       |
+| [Flyio](https://fly.io)                          |             | Free / Pay as you go       |
+| [Elestio](https://elest.io)                      |             | Free trial / $10 per month |
+| [Sevalla](https://sevalla.com)                   |             | Free / $5 per month        |
+| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
+| [Coherence](https://withcoherence.com)           |             | Free / $35 per month       |
+| [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
+| [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
+| [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
+| [Fastly](https://fastly.com)                     |             | Free / $50 per month       |
+| [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
+| [Dokploy](https://dokploy.com)                   |             | Free / $4.5 per month      |
 
 ## Databases
 
