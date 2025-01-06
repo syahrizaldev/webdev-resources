@@ -21,70 +21,68 @@
 - [UI Frameworks](#ui-frameworks)
 - [Text Editors](#text-editors)
 - [Charts](#charts)
+- [Marketing Tools](#marketing-tools)
 
 ## Hosting
 
 > Category detail information.
 
-| Name                                             | Description | Pricing |
-| ------------------------------------------------ | ----------- | ------- |
-| [Vercel](https://vercel.com)                     |             |         |
-| [Netlify](https://netlify.com)                   |             |         |
-| [Render](https://render.com)                     |             |         |
-| [Amplify](https://aws.amazon.com/amplify)        |             |         |
-| [Digital Ocean](https://digitalocean.com)        |             |         |
-| [Cloudflare Pages](https://pages.cloudflare.com) |             |         |
-| [GitHub Pages](https://pages.github.com)         |             |         |
-| [Railway](https://railway.app)                   |             |         |
-| [Platform](https://platform.sh)                  |             |         |
-| [Northflank](https://northflank.com)             |             |         |
-| [Koyeb](https://koyeb.com)                       |             |         |
-| [Flyio](https://fly.io)                          |             |         |
-| [Elestio](https://elest.io)                      |             |         |
-| [Sevalla](https://sevalla.com)                   |             |         |
-| [Flight Control](https://flightcontrol.dev)      |             |         |
-| [Coherence](https://withcoherence.com)           |             |         |
-| [Alwaysdata](https://alwaysdata.com)             |             |         |
-| [Stormkit](https://stormkit.io)                  |             |         |
-| [Cleavr](https://cleavr.io)                      |             |         |
-| [Adaptable](https://adaptable.io)                |             |         |
-| [Fastly](https://fastly.com)                     |             |         |
-| [Coolify](https://coolify.io)                    |             |         |
-| [Dokploy](https://dokploy.com)                   |             |         |
+| Name                                             | Description | Pricing                    |
+| ------------------------------------------------ | ----------- | -------------------------- |
+| [Vercel](https://vercel.com)                     |             | Free / $20 per month       |
+| [Netlify](https://netlify.com)                   |             | Free / $19 per month       |
+| [Render](https://render.com)                     |             | Free / $19 per month       |
+| [Amplify](https://aws.amazon.com/amplify)        |             | Free / $15 per month       |
+| [Digital Ocean](https://digitalocean.com)        |             | Free / $5 per month        |
+| [Cloudflare Pages](https://pages.cloudflare.com) |             | Free / $20 per month       |
+| [Railway](https://railway.app)                   |             | Free trial / $5 per month  |
+| [Platform](https://platform.sh)                  |             | Free trial / $13 per month |
+| [Northflank](https://northflank.com)             |             | Free / Pay as you go       |
+| [Koyeb](https://koyeb.com)                       |             | Free / $29 per month       |
+| [Flyio](https://fly.io)                          |             | Free / Pay as you go       |
+| [Elestio](https://elest.io)                      |             | Free trial / $10 per month |
+| [Sevalla](https://sevalla.com)                   |             | Free / $5 per month        |
+| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
+| [Coherence](https://withcoherence.com)           |             | Free / $35 per month       |
+| [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
+| [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
+| [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
+| [Fastly](https://fastly.com)                     |             | Free / $50 per month       |
+| [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
+| [Dokploy](https://dokploy.com)                   |             | Free / $4.5 per month      |
 
 ## Databases
 
 > Category detail information.
 
-| Name                                    | Description | Pricing |
-| --------------------------------------- | ----------- | ------- |
-| [Firebase](https://firebase.google.com) |             |         |
-| [Supabase](https://supabase.com)        |             |         |
-| [MongoDB](https://mongodb.com)          |             |         |
-| [Appwrite](https://appwrite.io)         |             |         |
-| [Redis](https://redis.io)               |             |         |
-| [Neon](https://neon.tech)               |             |         |
-| [Fauna](https://fauna.com)              |             |         |
-| [Edge](https://edgedb.com)              |             |         |
-| [Xata](https://xata.io)                 |             |         |
-| [Surreal](https://surrealdb.com)        |             |         |
-| [Upstash](https://upstash.com)          |             |         |
-| [Convex](https://convex.dev)            |             |         |
-| [Turso](https://turso.tech)             |             |         |
-| [Pocketbase](https://pocketbase.io)     |             |         |
-| [Cockroach](https://cockroachlabs.com)  |             |         |
-| [Timescale](https://timescale.com)      |             |         |
-| [Planetscale](https://planetscale.com)  |             |         |
-| [Nhost](https://nhost.io)               |             |         |
-| [Minds](https://mindsdb.com)            |             |         |
-| [Duck](https://duckdb.org)              |             |         |
-| [Nile](https://thenile.dev)             |             |         |
-| [Dragonfly](https://dragonflydb.io)     |             |         |
-| [Electric](https://electric-sql.com)    |             |         |
-| [Oriole](https://orioledb.com)          |             |         |
-| [Astra](https://astra.datastax.com)     |             |         |
-| [Tinybase](https://tinybase.org)        |             |         |
-| [ScyllaDB](https://scylladb.com)        |             |         |
+| Name                                      | Description | Pricing                    |
+| ----------------------------------------- | ----------- | -------------------------- |
+| [Firebase](https://firebase.google.com)   |             | Free / Pay as you go       |
+| [Supabase](https://supabase.com)          |             | Free / $25 per month       |
+| [MongoDB](https://mongodb.com)            |             | Free / Pay as you go       |
+| [Appwrite](https://appwrite.io)           |             | Free / $15 per month       |
+| [Redis](https://redis.io)                 |             | Free / Pay as you go       |
+| [Neon](https://neon.tech)                 |             | Free / $19 per month       |
+| [Fauna](https://fauna.com)                |             | Free / $150 per month      |
+| [Edge](https://edgedb.com)                |             | Free / $39 per month       |
+| [Xata](https://xata.io)                   |             | Free / $20 per month       |
+| [Surreal](https://surrealdb.com)          |             | Free / $23 per month       |
+| [Upstash](https://upstash.com)            |             | Free / Pay as you go       |
+| [Convex](https://convex.dev)              |             | Free / $25 per month       |
+| [Turso](https://turso.tech)               |             | Free / $9 per month        |
+| [Pocketbase](https://pocketbase.io)       |             | Free / Open source         |
+| [Cockroach](https://cockroachlabs.com)    |             | Free / Pay as you go       |
+| [Timescale](https://timescale.com)        |             | Free trial / Pay as you go |
+| [Nhost](https://nhost.io)                 |             | Free / $25 per month       |
+| [Minds](https://mindsdb.com)              |             | Free / Open source         |
+| [Duck](https://duckdb.org)                |             | Free / Open source         |
+| [Nile](https://thenile.dev)               |             | Free / $15 per month       |
+| [Dragonfly](https://dragonflydb.io)       |             | Free / Pay as you go       |
+| [Electric](https://electric-sql.com)      |             | Free / Open source         |
+| [Oriole](https://orioledb.com)            |             | Free / Open source         |
+| [Dynamo](https://aws.amazon.com/dynamodb) |             | Free / Pay as you go       |
+| [Astra](https://astra.datastax.com)       |             | Free / Pay as you go       |
+| [Scylla](https://scylladb.com)            |             | Free / Pay as you go       |
 
 ## Authentication
 
@@ -99,7 +97,7 @@
 | [Hanko](https://hanko.io)                 |             | Free / $29 per month |
 | [Logto](https://logto.io)                 |             | Free / $16 per month |
 | [Stytch](https://stytch.com)              |             | Free / Pay as you go |
-| [Better-Auth](https://better-auth.com)    |             | Free / Open source   |
+| [Better Auth](https://better-auth.com)    |             | Free / Open source   |
 | [Auth0](https://auth0.com)                |             | Free / $35 per month |
 | [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
 | [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
@@ -116,7 +114,7 @@
 | [Cypress](https://cypress.io)                  |             | Free / Open source |
 | [Jasmine](https://jasmine.github.io)           |             | Free / Open source |
 | [Playwright](https://playwright.dev)           |             | Free / Open source |
-| [Testing-Library](https://testing-library.com) |             | Free / Open source |
+| [Testing Library](https://testing-library.com) |             | Free / Open source |
 | [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
 | [Webdriver](https://webdriver.io)              |             | Free / Open source |
 | [Ava](https://github.com/avajs/ava)            |             | Free / Open source |
@@ -259,16 +257,39 @@
 
 > Category detail information.
 
-| Name                                    | Description | Pricing                |
-| --------------------------------------- | ----------- | ---------------------- |
-| [D3](https://d3js.org)                  |             | Free / Open source     |
-| [Chart](https://chartjs.org)            |             | Free / Open source     |
-| [Apexcharts](https://apexcharts.com)    |             | Free / Open source     |
-| [Highcharts](https://highcharts.com)    |             | Free / $168 per year   |
-| [Amcharts](https://amcharts.com)        |             | Free / $180 per year   |
-| [Echarts](https://echarts.apache.org)   |             | Free / Open source     |
-| [Superset](https://superset.apache.org) |             | Free / Open source     |
-| [Anychart](https://anychart.com)        |             | Free / $49 per license |
+| Name                                                | Description | Pricing                |
+| --------------------------------------------------- | ----------- | ---------------------- |
+| [D3](https://d3js.org)                              |             | Free / Open source     |
+| [Chart](https://chartjs.org)                        |             | Free / Open source     |
+| [Apexcharts](https://apexcharts.com)                |             | Free / Open source     |
+| [Highcharts](https://highcharts.com)                |             | Free / $168 per year   |
+| [Amcharts](https://amcharts.com)                    |             | Free / $180 per year   |
+| [Echarts](https://echarts.apache.org)               |             | Free / Open source     |
+| [Superset](https://superset.apache.org)             |             | Free / Open source     |
+| [Anychart](https://anychart.com)                    |             | Free / $49 per license |
+| [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
+| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
+| [Chartist](https://chartist.dev)                    |             | Free / Open source     |
+| [Pixi](https://pixijs.com)                          |             | Free / Open source     |
+
+## Marketing Tools
+
+> Category detail information.
+
+| Name                                | Description | Pricing |
+| ----------------------------------- | ----------- | ------- |
+| [Resend](https://resend.com)        |             |         |
+| [Loops](https://loops.so)           |             |         |
+| [Plunk](https://useplunk.com)       |             |         |
+| [Uninbox](https://uninbox.com)      |             |         |
+| [Mailgun](https://mailgun.com)      |             |         |
+| [Mailtrap](https://mailtrap.io)     |             |         |
+| [Postmark](https://postmarkapp.com) |             |         |
+
+## Contributing
+
+If you have discovered any useful and valuable resources or have suggestions for others,
+feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
 
 ## Feedback
 
@@ -276,12 +297,7 @@ This project is actively under improvement and development.
 Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any suggestions, feedback, questions, or future requests.
-If you found this list helpful, please consider giving it a **star** and **watch** the repository.
-
-## Contributing
-
-If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
+If you found this list helpful, please consider giving it a **star** and **watching** the repository.
 
 ## License
 
