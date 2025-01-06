@@ -100,6 +100,9 @@
 | [Better Auth](https://better-auth.com)    |             | Free / Open source   |
 | [Auth0](https://auth0.com)                |             | Free / $35 per month |
 | [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
+| [Authentik](https://goauthentik.io)       |             | Free / Pay as you go |
+| [Super Tokens](https://supertokens.com)   |             | Free / Pay as you go |
+| [Stack Auth](https://stack-auth.com)      |             | Free / $49 per month |
 | [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
 
 ## Testing
