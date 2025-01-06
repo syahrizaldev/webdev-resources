@@ -26,6 +26,6 @@ Please make sure your pull request adheres to the following guidelines:
 ## Updating Your Pull Request
 
 Making a pull request to adhere to the standards above can be difficult.
-If the maintainers notice anything that we would like changed due to spelling errors
-or because your pull request did not match the guidelines, we will ask you to edit
-your pull request before we merge it.
+If the maintainers notice anything that we would like changed due to merge conflicts,
+spelling errors, or because your pull request did not match the guidelines,
+we will ask you to edit your pull request before we merge it.
