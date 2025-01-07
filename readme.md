@@ -169,18 +169,15 @@
 
 > Category detail information.
 
-| Name                                      | Description | Pricing |
-| ----------------------------------------- | ----------- | ------- |
-| [Stripe](https://stripe.com)              |             |         |
-| [Paypal](https://paypal.com)              |             |         |
-| [Paddle](https://paddle.com)              |             |         |
-| [Lemon Squeezy](https://lemonsqueezy.com) |             |         |
-| [Polar](https://polar.sh)                 |             |         |
-| [Creem](https://creem.io)                 |             |         |
-| [Snipcart](https://snipcart.com)          |             |         |
-| [Verifone](https://2checkout.com)         |             |         |
-| [Fast Spring](https://fastspring.com)     |             |         |
-| [RevenueCat](https://revenuecat.com)      |             |         |
+| Name                                      | Description | Pricing                    |
+| ----------------------------------------- | ----------- | -------------------------- |
+| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction |
+| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction   |
+| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction   |
+| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction   |
+| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction |
+| [Verifone](https://2checkout.com)         |             | 3.5% + 35¢ per transaction |
+| [RevenueCat](https://revenuecat.com)      |             | 1% per monthly revenue     |
 
 ## Headless CMS
 
