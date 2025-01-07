@@ -176,7 +176,7 @@
 | [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction   |
 | [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction   |
 | [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction |
-| [Verifone](https://2checkout.com)         |             | 3.5% + 35¢ per transaction |
+| [2checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction |
 | [RevenueCat](https://revenuecat.com)      |             | 1% per monthly revenue     |
 
 ## Headless CMS
