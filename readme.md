@@ -276,15 +276,27 @@
 
 > Category detail information.
 
-| Name                                | Description | Pricing |
-| ----------------------------------- | ----------- | ------- |
-| [Resend](https://resend.com)        |             |         |
-| [Loops](https://loops.so)           |             |         |
-| [Plunk](https://useplunk.com)       |             |         |
-| [Uninbox](https://uninbox.com)      |             |         |
-| [Mailgun](https://mailgun.com)      |             |         |
-| [Mailtrap](https://mailtrap.io)     |             |         |
-| [Postmark](https://postmarkapp.com) |             |         |
+| Name                                  | Description | Pricing |
+| ------------------------------------- | ----------- | ------- |
+| [Dub](https://dub.co)                 |             |         |
+| [Kit](https://kit.com)                |             |         |
+| [Resend](https://resend.com)          |             |         |
+| [Loops](https://loops.so)             |             |         |
+| [Plunk](https://useplunk.com)         |             |         |
+| [Uninbox](https://uninbox.com)        |             |         |
+| [Mailgun](https://mailgun.com)        |             |         |
+| [Mailtrap](https://mailtrap.io)       |             |         |
+| [Postmark](https://postmarkapp.com)   |             |         |
+| [Listmonk](https://listmonk.app)      |             |         |
+| [Inboxzero](https://getinboxzero.com) |             |         |
+| [Keila](https://keila.io)             |             |         |
+| [Unsend](https://unsend.dev)          |             |         |
+| [Dittofeed](https://dittofeed.com)    |             |         |
+| [Mailcoach](https://mailcoach.app)    |             |         |
+| [Erxes](https://erxes.io)             |             |         |
+| [Mailchimp](https://mailchimp.com)    |             |         |
+| [Lemlist](https://lemlist.com)        |             |         |
+| [Mailerlite](https://mailerlite.com)  |             |         |
 
 ## Contributing
 
