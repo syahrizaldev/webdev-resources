@@ -296,6 +296,8 @@
 | [Mailchimp](https://mailchimp.com)    |             | Free / $13 per month       |
 | [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
+| [Brevo](https://brevo.com)            |             | Free / $8 per month        |
+| [Calcom](https://cal.com)             |             | Free / $15 per month       |
 
 ## Contributing
 
