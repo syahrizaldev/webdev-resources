@@ -5,7 +5,7 @@
 > [!IMPORTANT]
 > This is a curated list of essential resources for **web developers, freelancers, and indie hackers**
 > trying to build and scale their web apps or products. While not exhaustive, this list is a carefully
-> selected resource that was found most useful and valuable. Prioritizing **free**, **freemium**, and
+> selected resource that was found most useful and valuable. Prioritizing **free**, **freemium**, or
 > **open source** options and excluding resources without any **free tiers**.
 
 ## Table of Contents
