@@ -276,27 +276,26 @@
 
 > Category detail information.
 
-| Name                                  | Description | Pricing |
-| ------------------------------------- | ----------- | ------- |
-| [Dub](https://dub.co)                 |             |         |
-| [Kit](https://kit.com)                |             |         |
-| [Resend](https://resend.com)          |             |         |
-| [Loops](https://loops.so)             |             |         |
-| [Plunk](https://useplunk.com)         |             |         |
-| [Uninbox](https://uninbox.com)        |             |         |
-| [Mailgun](https://mailgun.com)        |             |         |
-| [Mailtrap](https://mailtrap.io)       |             |         |
-| [Postmark](https://postmarkapp.com)   |             |         |
-| [Listmonk](https://listmonk.app)      |             |         |
-| [Inboxzero](https://getinboxzero.com) |             |         |
-| [Keila](https://keila.io)             |             |         |
-| [Unsend](https://unsend.dev)          |             |         |
-| [Dittofeed](https://dittofeed.com)    |             |         |
-| [Mailcoach](https://mailcoach.app)    |             |         |
-| [Erxes](https://erxes.io)             |             |         |
-| [Mailchimp](https://mailchimp.com)    |             |         |
-| [Lemlist](https://lemlist.com)        |             |         |
-| [Mailerlite](https://mailerlite.com)  |             |         |
+| Name                                  | Description | Pricing                    |
+| ------------------------------------- | ----------- | -------------------------- |
+| [Kit](https://kit.com)                |             | Free / $9 per month        |
+| [Dub](https://dub.co)                 |             | Free / $19 per month       |
+| [Resend](https://resend.com)          |             | Free / $20 per month       |
+| [Loops](https://loops.so)             |             | Free / $49 per month       |
+| [Plunk](https://useplunk.com)         |             | Free / Pay as you go       |
+| [Uninbox](https://uninbox.com)        |             | Free / $12 per month       |
+| [Mailgun](https://mailgun.com)        |             | Free / $15 per month       |
+| [Mailtrap](https://mailtrap.io)       |             | Free / $15 per month       |
+| [Postmark](https://postmarkapp.com)   |             | Free trial / $15 per month |
+| [Inboxzero](https://getinboxzero.com) |             | Free / $6 per month        |
+| [Unsend](https://unsend.dev)          |             | Free / Open source         |
+| [Listmonk](https://listmonk.app)      |             | Free / Open source         |
+| [Dittofeed](https://dittofeed.com)    |             | Free / $75 per month       |
+| [Mailcoach](https://mailcoach.app)    |             | Free trial / $10 per month |
+| [Erxes](https://erxes.io)             |             | Free / $11 per month       |
+| [Mailchimp](https://mailchimp.com)    |             | Free / $13 per month       |
+| [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
+| [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 
 ## Contributing
 
