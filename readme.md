@@ -5,8 +5,8 @@
 > [!IMPORTANT]
 > This is a curated list of essential resources for **web developers, freelancers, and indie hackers**
 > trying to build and scale their web apps or products. While not exhaustive, this list is a carefully
-> selected resource that was found most useful and valuable. Prioritizing **free**, **freemium**, or
-> **open source** options and excluding resources without any **free tiers**.
+> selected resource that was found most useful and valuable. Prioritizing **free** and **freemium**
+> options and excluding resources without any **free tiers**.
 
 ## Table of Contents
 
@@ -207,34 +207,48 @@
 
 > Category detail information.
 
-| Name                                    | Description | Pricing |
-| --------------------------------------- | ----------- | ------- |
-| [Tailwind](https://tailwindcss.com)     |             |         |
-| [Bootstrap](https://getbootstrap.com)   |             |         |
-| [Bulma](https://bulma.io)               |             |         |
-| [UIKit](https://getuikit.com)           |             |         |
-| [Semantic](https://semantic-ui.com)     |             |         |
-| [Foundation](https://get.foundation)    |             |         |
-| [Milligram](https://milligram.io)       |             |         |
-| [Radix](https://radix-ui.com)           |             |         |
-| [Material](https://mui.com)             |             |         |
-| [Mantine](https://mantine.dev)          |             |         |
-| [Shadcn](https://ui.shadcn.com)         |             |         |
-| [Ant Design](https://ant.design)        |             |         |
-| [Chakra](https://chakra-ui.com)         |             |         |
-| [Vuetify](https://vuetifyjs.com)        |             |         |
-| [Headless](https://headlessui.com)      |             |         |
-| [Next](https://nextui.org)              |             |         |
-| [Daisy](https://daisyui.com)            |             |         |
-| [Ark](https://ark-ui.com)               |             |         |
-| [Zag](https://zagjs.com)                |             |         |
-| [Base](https://base-ui.com)             |             |         |
-| [Meraki](https://merakiui.com)          |             |         |
-| [Draft](https://draft-ui.com)           |             |         |
-| [Magic](https://magicui.design)         |             |         |
-| [Flowbite](https://flowbite.com)        |             |         |
-| [Aceternity](https://ui.aceternity.com) |             |         |
-| [Kendo](https://telerik.com/kendo-ui)   |             |         |
+| Name                                       | Description | Pricing |
+| ------------------------------------------ | ----------- | ------- |
+| [Tailwind](https://tailwindcss.com)        |             |         |
+| [Bootstrap](https://getbootstrap.com)      |             |         |
+| [Bulma](https://bulma.io)                  |             |         |
+| [UIKit](https://getuikit.com)              |             |         |
+| [Semantic](https://semantic-ui.com)        |             |         |
+| [Radix](https://radix-ui.com)              |             |         |
+| [Material](https://mui.com)                |             |         |
+| [Mantine](https://mantine.dev)             |             |         |
+| [Shadcn](https://ui.shadcn.com)            |             |         |
+| [Ant Design](https://ant.design)           |             |         |
+| [Chakra](https://chakra-ui.com)            |             |         |
+| [Vuetify](https://vuetifyjs.com)           |             |         |
+| [Headless](https://headlessui.com)         |             |         |
+| [Next](https://nextui.org)                 |             |         |
+| [Daisy](https://daisyui.com)               |             |         |
+| [Ark](https://ark-ui.com)                  |             |         |
+| [Zag](https://zagjs.com)                   |             |         |
+| [Base](https://base-ui.com)                |             |         |
+| [Meraki](https://merakiui.com)             |             |         |
+| [Draft](https://draft-ui.com)              |             |         |
+| [Magic](https://magicui.design)            |             |         |
+| [Flowbite](https://flowbite.com)           |             |         |
+| [Aceternity](https://ui.aceternity.com)    |             |         |
+| [Panda](https://panda-css.com)             |             |         |
+| [Uno](https://unocss.dev)                  |             |         |
+| [Prime React](https://primereact.org)      |             |         |
+| [Origin](https://originui.com)             |             |         |
+| [Prime Vue](https://primevue.org)          |             |         |
+| [Radix Vue](https://radix-vue.com)         |             |         |
+| [Shadcn Vue](https://shadcn-vue.com)       |             |         |
+| [Inspira](https://inspira-ui.com)          |             |         |
+| [Vuestic](https://ui.vuestic.dev)          |             |         |
+| [Element Plus](https://element-plus.org)   |             |         |
+| [Naive](https://naiveui.com)               |             |         |
+| [SvelteUI](https://svelteui.dev)           |             |         |
+| [Melt](https://melt-ui.com)                |             |         |
+| [Skeleton](https://skeleton.dev)           |             |         |
+| [Bits](https://bits-ui.com)                |             |         |
+| [Shadcn Svelte](https://shadcn-svelte.com) |             |         |
+| [Agnostic](https://agnosticui.com)         |             |         |
 
 ## Text Editors
 
