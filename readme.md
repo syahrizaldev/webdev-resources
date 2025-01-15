@@ -169,15 +169,19 @@
 
 > Category detail information.
 
-| Name                                      | Description | Pricing                    |
-| ----------------------------------------- | ----------- | -------------------------- |
-| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction |
-| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction   |
-| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction   |
-| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction   |
-| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction |
-| [2checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction |
-| [RevenueCat](https://revenuecat.com)      |             | 1% per monthly revenue     |
+| Name                                      | Description | Pricing                      |
+| ----------------------------------------- | ----------- | ---------------------------- |
+| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction   |
+| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction     |
+| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction     |
+| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction     |
+| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction   |
+| [Braintree](https://braintreegateway.com) |             | 2.89% + 29¢ per transaction  |
+| [2checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction   |
+| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway |
+| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue           |
+| [Chargebee](https://chargebee.com)        |             | 0.75% monthly all billing    |
+| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing      |
 
 ## Headless CMS
 
@@ -193,6 +197,7 @@
 | [Storyblok](https://storyblok.com)   |             | Free / $103 per month      |
 | [Contentful](https://contentful.com) |             | Free / $300 per month      |
 | [Prismic](https://prismic.io)        |             | Free / $150 per month      |
+| [Directus](https://directus.io)      |             | Free / $15 per month       |
 | [Gridsome](https://gridsome.org)     |             | Free / Open source         |
 | [Ghost](https://ghost.org)           |             | Free trial / $9 per month  |
 | [Dato](https://datocms.com)          |             | Free / $154 per month      |
@@ -222,7 +227,7 @@
 | [Chakra](https://chakra-ui.com)            |             |         |
 | [Vuetify](https://vuetifyjs.com)           |             |         |
 | [Headless](https://headlessui.com)         |             |         |
-| [Next](https://nextui.org)                 |             |         |
+| [Next UI](https://nextui.org)              |             |         |
 | [Daisy](https://daisyui.com)               |             |         |
 | [Ark](https://ark-ui.com)                  |             |         |
 | [Zag](https://zagjs.com)                   |             |         |
@@ -243,7 +248,7 @@
 | [Vuestic](https://ui.vuestic.dev)          |             |         |
 | [Element Plus](https://element-plus.org)   |             |         |
 | [Naive](https://naiveui.com)               |             |         |
-| [SvelteUI](https://svelteui.dev)           |             |         |
+| [Svelte UI](https://svelteui.dev)          |             |         |
 | [Melt](https://melt-ui.com)                |             |         |
 | [Skeleton](https://skeleton.dev)           |             |         |
 | [Bits](https://bits-ui.com)                |             |         |
