@@ -22,6 +22,7 @@
 - [Text Editors](#text-editors)
 - [Charts](#charts)
 - [Marketing Tools](#marketing-tools)
+- [Productivity Tools](#productivity-tools)
 
 ## Hosting
 
@@ -317,6 +318,14 @@
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
 | [Calcom](https://cal.com)             |             | Free / $15 per month       |
+
+## Productivity Tools
+
+> Category detail information.
+
+| Name | Description | Pricing |
+| ---- | ----------- | ------- |
+|      |             |         |
 
 ## Contributing
 
