@@ -2,7 +2,7 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
+We as members, contributors, and leaders pledge to participate in our
 community a harassment-free experience for everyone, regardless of age, body
 size, visible or invisible disability, ethnicity, sex characteristics, gender
 identity and expression, level of experience, education, socio-economic status,
@@ -15,7 +15,7 @@ diverse, inclusive, and healthy community.
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our
-community include:
+community includes:
 
 - Demonstrating empathy and kindness toward other people
 - Being respectful of differing opinions, viewpoints, and experiences
@@ -33,7 +33,7 @@ Examples of unacceptable behavior include:
 - Public or private harassment
 - Publishing others' private information, such as a physical or email address,
   without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
+- Other conduct that could reasonably be considered inappropriate in a
   professional setting
 
 ## Enforcement Responsibilities
@@ -50,7 +50,7 @@ decisions when appropriate.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when
+This Code of Conduct applies within all community spaces and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official email address,
 posting via an official social media account, or acting as an appointed
@@ -60,9 +60,9 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-[maintener's twitter account](https://twitter.com/syahrizaldev).
+[maintener's account](https://twitter.com/syahrizaldev).
 All complaints will be reviewed and investigated promptly and fairly.
-All community leaders are obligated to respect the privacy and security of the
+All community leaders must respect the privacy and security of the
 reporter of any incident.
 
 ## Enforcement Guidelines
@@ -86,8 +86,8 @@ actions.
 
 **Consequence**: A warning with consequences for continued behavior. No
 interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
+those enforcing the Code of Conduct, for a specified period. This
+includes avoiding interactions in community spaces and external channels
 like social media. Violating these terms may lead to a temporary or permanent
 ban.
 
@@ -97,7 +97,7 @@ ban.
 sustained inappropriate behavior.
 
 **Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
+communication with the community for a specified period. No public or
 private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
@@ -113,13 +113,11 @@ community.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+- This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.1.
-
-Community Impact Guidelines were inspired by
+- Community Impact Guidelines were inspired by
 [Mozilla's code of conduct enforcement ladder][mozilla-coc].
-
-For answers to common questions about this code of conduct,
+- For answers to questions about this code of conduct,
 please see the [Frequently Asked Questions][faq] section.
 
 [homepage]: https://contributor-covenant.org
