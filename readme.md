@@ -228,7 +228,7 @@
 | [Chakra](https://chakra-ui.com)            |             |         |
 | [Vuetify](https://vuetifyjs.com)           |             |         |
 | [Headless](https://headlessui.com)         |             |         |
-| [Next UI](https://nextui.org)              |             |         |
+| [Hero](https://heroui.com)                 |             |         |
 | [Daisy](https://daisyui.com)               |             |         |
 | [Ark](https://ark-ui.com)                  |             |         |
 | [Zag](https://zagjs.com)                   |             |         |
@@ -249,7 +249,7 @@
 | [Vuestic](https://ui.vuestic.dev)          |             |         |
 | [Element Plus](https://element-plus.org)   |             |         |
 | [Naive](https://naiveui.com)               |             |         |
-| [Svelte UI](https://svelteui.dev)          |             |         |
+| [SvelteUI](https://svelteui.dev)           |             |         |
 | [Melt](https://melt-ui.com)                |             |         |
 | [Skeleton](https://skeleton.dev)           |             |         |
 | [Bits](https://bits-ui.com)                |             |         |
@@ -291,6 +291,7 @@
 | [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
 | [Chartist](https://chartist.dev)                    |             | Free / Open source     |
 | [Pixi](https://pixijs.com)                          |             | Free / Open source     |
+| [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
 
 ## Marketing Tools
 
@@ -317,15 +318,14 @@
 | [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
-| [Calcom](https://cal.com)             |             | Free / $15 per month       |
 
 ## Productivity Tools
 
 > Category detail information.
 
-| Name | Description | Pricing |
-| ---- | ----------- | ------- |
-|      |             |         |
+| Name                      | Description | Pricing              |
+| ------------------------- | ----------- | -------------------- |
+| [Calcom](https://cal.com) |             | Free / $15 per month |
 
 ## Contributing
 
