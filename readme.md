@@ -208,6 +208,9 @@
 | [Cosmic](https://cosmicjs.com)       |             | Free / $299 per month      |
 | [Butter](https://buttercms.com)      |             | Free trial / $99 per month |
 | [Zenblog](https://zenblog.com)       |             | Free / $6 per month        |
+| [Statamic](https://statamic.com)     |             | Free / $275 per site       |
+| [Craft](https://craftcms.com)        |             | Free / $279 per project    |
+| [Twill](https://twillcms.com)        |             | Free / Open source         |
 
 ## UI Frameworks
 
