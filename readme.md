@@ -141,6 +141,43 @@
 | [Pagefind](https://pagefind.app)         |             | Free / Open source   |
 | [Sphinx](https://sphinxsearch.com)       |             | Free / Open source   |
 
+## Charts
+
+> Category detail information.
+
+| Name                                                | Description | Pricing                |
+| --------------------------------------------------- | ----------- | ---------------------- |
+| [D3](https://d3js.org)                              |             | Free / Open source     |
+| [Chart](https://chartjs.org)                        |             | Free / Open source     |
+| [Apexcharts](https://apexcharts.com)                |             | Free / Open source     |
+| [Highcharts](https://highcharts.com)                |             | Free / $168 per year   |
+| [Amcharts](https://amcharts.com)                    |             | Free / $180 per year   |
+| [Echarts](https://echarts.apache.org)               |             | Free / Open source     |
+| [Superset](https://superset.apache.org)             |             | Free / Open source     |
+| [Anychart](https://anychart.com)                    |             | Free / $49 per license |
+| [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
+| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
+| [Chartist](https://chartist.dev)                    |             | Free / Open source     |
+| [Pixi](https://pixijs.com)                          |             | Free / Open source     |
+| [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
+
+## Text Editors
+
+> Category detail information.
+
+| Name                                 | Description | Pricing               |
+| ------------------------------------ | ----------- | --------------------- |
+| [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
+| [CKEditor](https://ckeditor.com)     |             | Free / $160 per month |
+| [Quill](https://quilljs.com)         |             | Free / Open source    |
+| [Tiptap](https://tiptap.dev)         |             | Free / $149 per month |
+| [Lexical](https://lexical.dev)       |             | Free / Open source    |
+| [Blocknote](https://blocknotejs.org) |             | Free / $90 per month  |
+| [Editor](https://editorjs.io)        |             | Free / Open source    |
+| [Novel](https://novel.sh)            |             | Free / Open source    |
+| [Froala](https://froala.com)         |             | Free / $719 per year  |
+| [Slate](https://slatejs.org)         |             | Free / Open source    |
+
 ## Analytics
 
 > Category detail information.
@@ -258,43 +295,6 @@
 | [Bits](https://bits-ui.com)                |             |         |
 | [Shadcn Svelte](https://shadcn-svelte.com) |             |         |
 | [Agnostic](https://agnosticui.com)         |             |         |
-
-## Text Editors
-
-> Category detail information.
-
-| Name                                 | Description | Pricing               |
-| ------------------------------------ | ----------- | --------------------- |
-| [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
-| [CKEditor](https://ckeditor.com)     |             | Free / $160 per month |
-| [Quill](https://quilljs.com)         |             | Free / Open source    |
-| [Tiptap](https://tiptap.dev)         |             | Free / $149 per month |
-| [Lexical](https://lexical.dev)       |             | Free / Open source    |
-| [Blocknote](https://blocknotejs.org) |             | Free / $90 per month  |
-| [Editor](https://editorjs.io)        |             | Free / Open source    |
-| [Novel](https://novel.sh)            |             | Free / Open source    |
-| [Froala](https://froala.com)         |             | Free / $719 per year  |
-| [Slate](https://slatejs.org)         |             | Free / Open source    |
-
-## Charts
-
-> Category detail information.
-
-| Name                                                | Description | Pricing                |
-| --------------------------------------------------- | ----------- | ---------------------- |
-| [D3](https://d3js.org)                              |             | Free / Open source     |
-| [Chart](https://chartjs.org)                        |             | Free / Open source     |
-| [Apexcharts](https://apexcharts.com)                |             | Free / Open source     |
-| [Highcharts](https://highcharts.com)                |             | Free / $168 per year   |
-| [Amcharts](https://amcharts.com)                    |             | Free / $180 per year   |
-| [Echarts](https://echarts.apache.org)               |             | Free / Open source     |
-| [Superset](https://superset.apache.org)             |             | Free / Open source     |
-| [Anychart](https://anychart.com)                    |             | Free / $49 per license |
-| [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
-| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
-| [Chartist](https://chartist.dev)                    |             | Free / Open source     |
-| [Pixi](https://pixijs.com)                          |             | Free / Open source     |
-| [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
 
 ## Marketing Tools
 
