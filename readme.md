@@ -1,4 +1,4 @@
-![Web Dev Resources](./banner.png)
+[![Web Dev Resources](./banner.png)](https://git.new/webdev-resources)
 
 ## Web Dev Resources
 
@@ -15,12 +15,12 @@
 - [Authentication](#authentication)
 - [Testing](#testing)
 - [Search](#search)
+- [Charts](#charts)
+- [Text Editors](#text-editors)
 - [Analytics](#analytics)
 - [Payments](#payments)
 - [Headless CMS](#headless-cms)
 - [UI Frameworks](#ui-frameworks)
-- [Text Editors](#text-editors)
-- [Charts](#charts)
 - [Marketing Tools](#marketing-tools)
 - [Productivity Tools](#productivity-tools)
 
