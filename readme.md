@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 > This is a curated list of essential resources for **web developers, freelancers, and indie hackers**
-> trying to build and scale their web apps or products. While not exhaustive, this list is a carefully
+> trying to build and scale their products or applications. While not exhaustive, this list is a carefully
 > selected resource that was found most useful and valuable. Prioritizing **free** and **freemium**
 > options and excluding resources without any **free tiers**.
 
@@ -22,7 +22,7 @@
 - [Headless CMS](#headless-cms)
 - [UI Frameworks](#ui-frameworks)
 - [Marketing Tools](#marketing-tools)
-- [Productivity Tools](#productivity-tools)
+- [Project Management](#project-management)
 
 ## Hosting
 
@@ -324,13 +324,13 @@
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
 
-## Productivity Tools
+## Project Management
 
 > Category detail information.
 
 | Name                      | Description | Pricing              |
 | ------------------------- | ----------- | -------------------- |
-| [Calcom](https://cal.com) |             | Free / $15 per month |
+| [Canny](https://canny.io) |             | Free / $79 per month |
 
 ## Contributing
 
