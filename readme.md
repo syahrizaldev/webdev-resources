@@ -84,6 +84,7 @@
 | [Dynamo](https://aws.amazon.com/dynamodb) |             | Free / Pay as you go       |
 | [Astra](https://astra.datastax.com)       |             | Free / Pay as you go       |
 | [Scylla](https://scylladb.com)            |             | Free / Pay as you go       |
+| [Milvus](https://milvus.io)               |             | Free / Open source         |
 
 ## Authentication
 
@@ -295,6 +296,7 @@
 | [Bits](https://bits-ui.com)                |             |         |
 | [Shadcn Svelte](https://shadcn-svelte.com) |             |         |
 | [Agnostic](https://agnosticui.com)         |             |         |
+| [React Bits](https://reactbits.dev)        |             |         |
 
 ## Marketing Tools
 
