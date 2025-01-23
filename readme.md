@@ -4,9 +4,9 @@
 
 > [!IMPORTANT]
 > This is a curated list of essential resources for **web developers, freelancers, and indie hackers**
-> trying to build and scale their products or applications. While not exhaustive, this list is a carefully
-> selected resource that was found most useful and valuable. Prioritizing **free** and **freemium**
-> options and excluding resources without any **free tiers**.
+> trying to build and scale their products and applications. While not exhaustive, this list is a carefully
+> selected resource that was found most useful and valuable. Prioritizing **free** and **freemium** options
+> and excluding resources without any **free tiers**.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@
 
 ## Hosting
 
-> Category detail information.
+> A curated list of hosting and deployment platforms to scale products and applications.
 
 | Name                                             | Description | Pricing                    |
 | ------------------------------------------------ | ----------- | -------------------------- |
@@ -54,7 +54,7 @@
 
 ## Databases
 
-> Category detail information.
+> A curated list of databases and backend management providers to handle data requirements.
 
 | Name                                      | Description | Pricing                    |
 | ----------------------------------------- | ----------- | -------------------------- |
@@ -88,7 +88,7 @@
 
 ## Authentication
 
-> Category detail information.
+> A curated list of authentication and authorization solutions to secure applications.
 
 | Name                                      | Description | Pricing              |
 | ----------------------------------------- | ----------- | -------------------- |
@@ -109,7 +109,7 @@
 
 ## Testing
 
-> Category detail information.
+> A curated list of testing and debugging frameworks to write and run tests for applications.
 
 | Name                                           | Description | Pricing            |
 | ---------------------------------------------- | ----------- | ------------------ |
@@ -127,7 +127,7 @@
 
 ## Search
 
-> Category detail information.
+> A curated list of search engine services to add search functionality into applications.
 
 | Name                                     | Description | Pricing              |
 | ---------------------------------------- | ----------- | -------------------- |
@@ -144,7 +144,7 @@
 
 ## Charts
 
-> Category detail information.
+> A curated list of charting libraries for creating interfaces and data visualizations.
 
 | Name                                                | Description | Pricing                |
 | --------------------------------------------------- | ----------- | ---------------------- |
@@ -164,7 +164,7 @@
 
 ## Text Editors
 
-> Category detail information.
+> A curated list of rich text editor libraries for writing content directly into applications.
 
 | Name                                 | Description | Pricing               |
 | ------------------------------------ | ----------- | --------------------- |
@@ -181,7 +181,7 @@
 
 ## Analytics
 
-> Category detail information.
+> A curated list of analytics and monitoring tools for analyzing performance and traffic.
 
 | Name                                             | Description | Pricing                   |
 | ------------------------------------------------ | ----------- | ------------------------- |
@@ -206,7 +206,7 @@
 
 ## Payments
 
-> Category detail information.
+> A curated list of payment and billing solutions to manage transactions, subscriptions, and invoices.
 
 | Name                                      | Description | Pricing                      |
 | ----------------------------------------- | ----------- | ---------------------------- |
@@ -224,7 +224,7 @@
 
 ## Headless CMS
 
-> Category detail information.
+> A curated list of headless content management systems (CMS) for handling content in applications.
 
 | Name                                 | Description | Pricing                    |
 | ------------------------------------ | ----------- | -------------------------- |
@@ -252,7 +252,7 @@
 
 ## UI Frameworks
 
-> Category detail information.
+> A curated list of UI libraries, components, and frameworks for building applications efficiently.
 
 | Name                                       | Description | Pricing |
 | ------------------------------------------ | ----------- | ------- |
@@ -300,7 +300,7 @@
 
 ## Marketing Tools
 
-> Category detail information.
+> A curated list of marketing tools to promote products and applications to help growing audiences.
 
 | Name                                  | Description | Pricing                    |
 | ------------------------------------- | ----------- | -------------------------- |
@@ -326,7 +326,7 @@
 
 ## Project Management
 
-> Category detail information.
+> A curated list of project management tools to organize, track, and manage projects effectively.
 
 | Name                      | Description | Pricing              |
 | ------------------------- | ----------- | -------------------- |
