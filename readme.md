@@ -300,7 +300,7 @@
 
 ## Marketing Tools
 
-> List of marketing tools to promote products and applications to help grow audiences.
+> List of marketing tools for promoting products and services to grow audiences.
 
 | Name                                  | Description | Pricing                    |
 | ------------------------------------- | ----------- | -------------------------- |
