@@ -300,7 +300,7 @@
 
 ## Marketing Tools
 
-> List of marketing tools for promoting products and services to grow audiences.
+> List of marketing tools for promoting products to help grow audiences.
 
 | Name                                  | Description | Pricing                    |
 | ------------------------------------- | ----------- | -------------------------- |
@@ -330,7 +330,7 @@
 
 ## Project Management
 
-> List of project management tools to organize, track, and manage projects effectively.
+> List of project management tools to organize, track, and manage projects or products effectively.
 
 | Name                                     | Description | Pricing |
 | ---------------------------------------- | ----------- | ------- |
@@ -365,8 +365,6 @@
 | [Orgnise](https://orgnise.in)            |             |         |
 | [Paymo](https://paymoapp.com)            |             |         |
 | [Operately](https://operately.com)       |             |         |
-| [Ganttpro](https://ganttpro.com)         |             |         |
-| [Teamgantt](https://teamgantt.com)       |             |         |
 
 ## Contributing
 
