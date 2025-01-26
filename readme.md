@@ -328,9 +328,41 @@
 
 > List of project management tools to organize, track, and manage projects effectively.
 
-| Name                      | Description | Pricing              |
-| ------------------------- | ----------- | -------------------- |
-| [Canny](https://canny.io) |             | Free / $79 per month |
+| Name                                     | Description | Pricing |
+| ---------------------------------------- | ----------- | ------- |
+| [Notion](https://notion.com)             |             |         |
+| [Asana](https://asana.com)               |             |         |
+| [Jira](https://jira.atlassian.com)       |             |         |
+| [Canny](https://canny.io)                |             |         |
+| [ClickUp](https://clickup.com)           |             |         |
+| [Monday](https://monday.com)             |             |         |
+| [Wrike](https://wrike.com)               |             |         |
+| [Trello](https://trello.com)             |             |         |
+| [Teamwork](https://teamwork.com)         |             |         |
+| [Basecamp](https://basecamp.com)         |             |         |
+| [Linear](https://linear.app)             |             |         |
+| [Plaky](https://plaky.com)               |             |         |
+| [Miro](https://miro.com)                 |             |         |
+| [Eraser](https://eraser.io)              |             |         |
+| [Obsidian](https://obsidian.md)          |             |         |
+| [Acreom](https://acreom.com)             |             |         |
+| [Plane](https://plane.so)                |             |         |
+| [Canny](https://canny.io)                |             |         |
+| [Featurebase](https://featurebase.app)   |             |         |
+| [Release Notes](https://releasenotes.io) |             |         |
+| [Appflowy](https://appflowy.io)          |             |         |
+| [Focalboard](https://focalboard.com)     |             |         |
+| [Huly](https://huly.io)                  |             |         |
+| [Nifty](https://niftypm.com)             |             |         |
+| [Height](https://height.app)             |             |         |
+| [Open Project](https://openproject.org)  |             |         |
+| [Tegon](https://tegon.ai)                |             |         |
+| [Zenhub](https://zenhub.co)              |             |         |
+| [Orgnise](https://orgnise.in)            |             |         |
+| [Paymo](https://paymoapp.com)            |             |         |
+| [Operately](https://operately.com)       |             |         |
+| [Ganttpro](https://ganttpro.com)         |             |         |
+| [Teamgantt](https://teamgantt.com)       |             |         |
 
 ## Contributing
 
