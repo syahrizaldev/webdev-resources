@@ -324,9 +324,6 @@
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
 | [Novu](https://novu.co)               |             |                            |
-| [Crisp](https://crisp.chat)           |             |                            |
-| [Chatwoot](https://chatwoot.com)      |             |                            |
-| [Chatbase](https://chatbase.co)       |             |                            |
 
 ## Project Management
 
