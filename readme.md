@@ -203,6 +203,11 @@
 | [Loglib](https://loglib.io)                      |             | Free / $9 per month       |
 | [Piwik Pro](https://piwik.pro)                   |             | Free / $75 per month      |
 | [Hotjar](https://hotjar.com)                     |             | Free / $32 per month      |
+| [Countly](https://countly.com)                   |             | Free / Pay as you go      |
+| [Trench](https://trench.dev)                     |             | Free / Pay as you go      |
+| [Aptabase](https://aptabase.com)                 |             | Free / $10 per month      |
+| [Open Replay](https://openreplay.com)            |             | Free / $6 per month       |
+| [Swetrix](https://swetrix.com)                   |             | Free trial / $5 per month |
 
 ## Payments
 
@@ -327,7 +332,7 @@
 
 ## Project Management
 
-> List of project management tools to organize, track, and manage projects or products effectively.
+> List of project management tools to organize, track, and manage projects effectively.
 
 | Name                                     | Description | Pricing |
 | ---------------------------------------- | ----------- | ------- |
@@ -349,7 +354,10 @@
 | [Acreom](https://acreom.com)             |             |         |
 | [Plane](https://plane.so)                |             |         |
 | [Canny](https://canny.io)                |             |         |
+| [Upvoty](https://upvoty.com)             |             |         |
+| [Frill](https://frill.co)                |             |         |
 | [Featurebase](https://featurebase.app)   |             |         |
+| [Userjot](https://userjot.com)           |             |         |
 | [Release Notes](https://releasenotes.io) |             |         |
 | [Appflowy](https://appflowy.io)          |             |         |
 | [Focalboard](https://focalboard.com)     |             |         |
