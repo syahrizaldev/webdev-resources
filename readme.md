@@ -3,8 +3,8 @@
 ## Web Dev Resources
 
 > [!IMPORTANT]
-> This is a curated list of essential resources for **web developers, freelancers, and indie hackers**
-> trying to build and scale their products and applications. While not exhaustive, this list is a carefully
+> This is a curated list of essential resources for **web developers, indie hackers, and freelancers**
+> trying to build and scale their products or web apps. While not exhaustive, this list is a carefully
 > selected resource that was found most useful and valuable. Prioritizing **free** and **freemium** options
 > and excluding resources without any **free tiers**.
 
@@ -26,7 +26,7 @@
 
 ## Hosting
 
-> List of hosting and deployment platforms to scale products and applications.
+> List of hosting and deployment solutions to help scale products and applications.
 
 | Name                                             | Description | Pricing                    |
 | ------------------------------------------------ | ----------- | -------------------------- |
@@ -54,7 +54,7 @@
 
 ## Databases
 
-> List of databases and backend management solutions to handle data requirements.
+> List of databases and backend management platforms to help handle data requirements.
 
 | Name                                      | Description | Pricing                    |
 | ----------------------------------------- | ----------- | -------------------------- |
@@ -88,7 +88,7 @@
 
 ## Authentication
 
-> List of authentication and authorization providers to secure applications.
+> List of authentication and authorization providers to help secure applications.
 
 | Name                                      | Description | Pricing              |
 | ----------------------------------------- | ----------- | -------------------- |
@@ -144,7 +144,7 @@
 
 ## Charts
 
-> List of charting libraries for creating data visualization interfaces.
+> List of charting libraries for creating data interfaces and visualization.
 
 | Name                                                | Description | Pricing                |
 | --------------------------------------------------- | ----------- | ---------------------- |
@@ -181,7 +181,7 @@
 
 ## Analytics
 
-> List of analytics and monitoring tools for analyzing performance and traffic.
+> List of analytics and monitoring tools for analyzing the traffic or performances.
 
 | Name                                             | Description | Pricing                   |
 | ------------------------------------------------ | ----------- | ------------------------- |
@@ -211,7 +211,7 @@
 
 ## Payments
 
-> List of payment and billing solutions to manage transactions, subscriptions, and invoices.
+> List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
 
 | Name                                      | Description | Pricing                      |
 | ----------------------------------------- | ----------- | ---------------------------- |
@@ -229,7 +229,7 @@
 
 ## Headless CMS
 
-> List of headless content management systems (CMS) for handling content in applications.
+> List of headless content management systems (CMS) to help handle content in applications.
 
 | Name                                 | Description | Pricing                    |
 | ------------------------------------ | ----------- | -------------------------- |
@@ -257,7 +257,7 @@
 
 ## UI Frameworks
 
-> List of UI frameworks, components, and libraries for building applications efficiently.
+> List of UI frameworks, libraries, and components for building applications efficiently.
 
 | Name                                       | Description | Pricing |
 | ------------------------------------------ | ----------- | ------- |
@@ -266,10 +266,10 @@
 | [Bulma](https://bulma.io)                  |             |         |
 | [UIKit](https://getuikit.com)              |             |         |
 | [Semantic](https://semantic-ui.com)        |             |         |
-| [Radix](https://radix-ui.com)              |             |         |
+| [Radix UI](https://radix-ui.com)           |             |         |
 | [Material](https://mui.com)                |             |         |
 | [Mantine](https://mantine.dev)             |             |         |
-| [Shadcn](https://ui.shadcn.com)            |             |         |
+| [Shadcn UI](https://ui.shadcn.com)         |             |         |
 | [Ant Design](https://ant.design)           |             |         |
 | [Chakra](https://chakra-ui.com)            |             |         |
 | [Vuetify](https://vuetifyjs.com)           |             |         |
@@ -295,7 +295,7 @@
 | [Vuestic](https://ui.vuestic.dev)          |             |         |
 | [Element Plus](https://element-plus.org)   |             |         |
 | [Naive](https://naiveui.com)               |             |         |
-| [SvelteUI](https://svelteui.dev)           |             |         |
+| [Svelte UI](https://svelteui.dev)          |             |         |
 | [Melt](https://melt-ui.com)                |             |         |
 | [Skeleton](https://skeleton.dev)           |             |         |
 | [Bits](https://bits-ui.com)                |             |         |
@@ -305,7 +305,7 @@
 
 ## Marketing Tools
 
-> List of marketing tools for promoting products to help grow audiences.
+> List of marketing tools for enhancing and promoting products to help grow audiences.
 
 | Name                                  | Description | Pricing                    |
 | ------------------------------------- | ----------- | -------------------------- |
@@ -328,11 +328,11 @@
 | [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
-| [Novu](https://novu.co)               |             |                            |
+| [Novu](https://novu.co)               |             | Free / $250 per month      |
 
 ## Project Management
 
-> List of project management tools to organize, track, and manage projects effectively.
+> List of project management tools to help organize, track, and manage projects effectively.
 
 | Name                                     | Description | Pricing |
 | ---------------------------------------- | ----------- | ------- |
