@@ -334,42 +334,41 @@
 
 > List of project management tools to help organize, track, and manage projects effectively.
 
-| Name                                     | Description | Pricing |
-| ---------------------------------------- | ----------- | ------- |
-| [Notion](https://notion.com)             |             |         |
-| [Asana](https://asana.com)               |             |         |
-| [Jira](https://jira.atlassian.com)       |             |         |
-| [Canny](https://canny.io)                |             |         |
-| [ClickUp](https://clickup.com)           |             |         |
-| [Monday](https://monday.com)             |             |         |
-| [Wrike](https://wrike.com)               |             |         |
-| [Trello](https://trello.com)             |             |         |
-| [Teamwork](https://teamwork.com)         |             |         |
-| [Basecamp](https://basecamp.com)         |             |         |
-| [Linear](https://linear.app)             |             |         |
-| [Plaky](https://plaky.com)               |             |         |
-| [Miro](https://miro.com)                 |             |         |
-| [Eraser](https://eraser.io)              |             |         |
-| [Obsidian](https://obsidian.md)          |             |         |
-| [Acreom](https://acreom.com)             |             |         |
-| [Plane](https://plane.so)                |             |         |
-| [Canny](https://canny.io)                |             |         |
-| [Upvoty](https://upvoty.com)             |             |         |
-| [Frill](https://frill.co)                |             |         |
-| [Featurebase](https://featurebase.app)   |             |         |
-| [Userjot](https://userjot.com)           |             |         |
-| [Release Notes](https://releasenotes.io) |             |         |
-| [Appflowy](https://appflowy.io)          |             |         |
-| [Focalboard](https://focalboard.com)     |             |         |
-| [Huly](https://huly.io)                  |             |         |
-| [Nifty](https://niftypm.com)             |             |         |
-| [Height](https://height.app)             |             |         |
-| [Open Project](https://openproject.org)  |             |         |
-| [Tegon](https://tegon.ai)                |             |         |
-| [Zenhub](https://zenhub.co)              |             |         |
-| [Orgnise](https://orgnise.in)            |             |         |
-| [Paymo](https://paymoapp.com)            |             |         |
-| [Operately](https://operately.com)       |             |         |
+| Name                                     | Description | Pricing                |
+| ---------------------------------------- | ----------- | ---------------------- |
+| [Notion](https://notion.com)             |             | Free / $12 per month   |
+| [Asana](https://asana.com)               |             | Free / $11 per month   |
+| [Jira](https://jira.atlassian.com)       |             | Free / $8.60 per month |
+| [Canny](https://canny.io)                |             | Free / $99 per month   |
+| [ClickUp](https://clickup.com)           |             | Free / $10 per month   |
+| [Monday](https://monday.com)             |             | Free / $12 per month   |
+| [Wrike](https://wrike.com)               |             | Free / $10 per month   |
+| [Trello](https://trello.com)             |             | Free / $6 per month    |
+| [Teamwork](https://teamwork.com)         |             | Free / $14 per month   |
+| [Basecamp](https://basecamp.com)         |             | Free / $15 per month   |
+| [Linear](https://linear.app)             |             | Free / $10 per month   |
+| [Plaky](https://plaky.com)               |             | Free / $5 per month    |
+| [Miro](https://miro.com)                 |             | Free / $10 per month   |
+| [Eraser](https://eraser.io)              |             | Free / $12 per month   |
+| [Obsidian](https://obsidian.md)          |             | Free / $50 per year    |
+| [Acreom](https://acreom.com)             |             | Free / $8.50 per month |
+| [Plane](https://plane.so)                |             | Free / $8 per month    |
+| [Upvoty](https://upvoty.com)             |             |                        |
+| [Frill](https://frill.co)                |             |                        |
+| [Featurebase](https://featurebase.app)   |             |                        |
+| [Userjot](https://userjot.com)           |             |                        |
+| [Release Notes](https://releasenotes.io) |             |                        |
+| [Appflowy](https://appflowy.io)          |             |                        |
+| [Focalboard](https://focalboard.com)     |             |                        |
+| [Huly](https://huly.io)                  |             |                        |
+| [Nifty](https://niftypm.com)             |             |                        |
+| [Height](https://height.app)             |             |                        |
+| [Open Project](https://openproject.org)  |             |                        |
+| [Tegon](https://tegon.ai)                |             |                        |
+| [Zenhub](https://zenhub.co)              |             |                        |
+| [Orgnise](https://orgnise.in)            |             |                        |
+| [Paymo](https://paymoapp.com)            |             |                        |
+| [Operately](https://operately.com)       |             |                        |
 
 ## Contributing
 
