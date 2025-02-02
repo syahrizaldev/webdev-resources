@@ -359,11 +359,11 @@
 | [Userjot](https://userjot.com)           |             | Free / $29 per month       |
 | [Release Notes](https://releasenotes.io) |             | Free / $39 per month       |
 | [Appflowy](https://appflowy.io)          |             | Free / $12.5 per month     |
-| [Focalboard](https://focalboard.com)     |             |                            |
-| [Huly](https://huly.io)                  |             |                            |
-| [Nifty](https://niftypm.com)             |             |                            |
-| [Height](https://height.app)             |             |                            |
-| [Open Project](https://openproject.org)  |             |                            |
+| [Focalboard](https://focalboard.com)     |             | Free / Open source         |
+| [Huly](https://huly.io)                  |             | Free / $20 per month       |
+| [Nifty](https://niftypm.com)             |             | Free / $49 per month       |
+| [Height](https://height.app)             |             | Free / $19 per month       |
+| [Open Project](https://openproject.org)  |             | Free / $7.25 per month     |
 | [Tegon](https://tegon.ai)                |             |                            |
 | [Zenhub](https://zenhub.co)              |             |                            |
 | [Orgnise](https://orgnise.in)            |             |                            |
