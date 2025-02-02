@@ -334,41 +334,41 @@
 
 > List of project management tools to help organize, track, and manage projects effectively.
 
-| Name                                     | Description | Pricing                |
-| ---------------------------------------- | ----------- | ---------------------- |
-| [Notion](https://notion.com)             |             | Free / $12 per month   |
-| [Asana](https://asana.com)               |             | Free / $11 per month   |
-| [Jira](https://jira.atlassian.com)       |             | Free / $8.60 per month |
-| [Canny](https://canny.io)                |             | Free / $99 per month   |
-| [ClickUp](https://clickup.com)           |             | Free / $10 per month   |
-| [Monday](https://monday.com)             |             | Free / $12 per month   |
-| [Wrike](https://wrike.com)               |             | Free / $10 per month   |
-| [Trello](https://trello.com)             |             | Free / $6 per month    |
-| [Teamwork](https://teamwork.com)         |             | Free / $14 per month   |
-| [Basecamp](https://basecamp.com)         |             | Free / $15 per month   |
-| [Linear](https://linear.app)             |             | Free / $10 per month   |
-| [Plaky](https://plaky.com)               |             | Free / $5 per month    |
-| [Miro](https://miro.com)                 |             | Free / $10 per month   |
-| [Eraser](https://eraser.io)              |             | Free / $12 per month   |
-| [Obsidian](https://obsidian.md)          |             | Free / $50 per year    |
-| [Acreom](https://acreom.com)             |             | Free / $8.50 per month |
-| [Plane](https://plane.so)                |             | Free / $8 per month    |
-| [Upvoty](https://upvoty.com)             |             |                        |
-| [Frill](https://frill.co)                |             |                        |
-| [Featurebase](https://featurebase.app)   |             |                        |
-| [Userjot](https://userjot.com)           |             |                        |
-| [Release Notes](https://releasenotes.io) |             |                        |
-| [Appflowy](https://appflowy.io)          |             |                        |
-| [Focalboard](https://focalboard.com)     |             |                        |
-| [Huly](https://huly.io)                  |             |                        |
-| [Nifty](https://niftypm.com)             |             |                        |
-| [Height](https://height.app)             |             |                        |
-| [Open Project](https://openproject.org)  |             |                        |
-| [Tegon](https://tegon.ai)                |             |                        |
-| [Zenhub](https://zenhub.co)              |             |                        |
-| [Orgnise](https://orgnise.in)            |             |                        |
-| [Paymo](https://paymoapp.com)            |             |                        |
-| [Operately](https://operately.com)       |             |                        |
+| Name                                     | Description | Pricing                    |
+| ---------------------------------------- | ----------- | -------------------------- |
+| [Notion](https://notion.com)             |             | Free / $12 per month       |
+| [Asana](https://asana.com)               |             | Free / $11 per month       |
+| [Jira](https://jira.atlassian.com)       |             | Free / $8.6 per month      |
+| [Canny](https://canny.io)                |             | Free / $99 per month       |
+| [ClickUp](https://clickup.com)           |             | Free / $10 per month       |
+| [Monday](https://monday.com)             |             | Free / $12 per month       |
+| [Wrike](https://wrike.com)               |             | Free / $10 per month       |
+| [Trello](https://trello.com)             |             | Free / $6 per month        |
+| [Teamwork](https://teamwork.com)         |             | Free / $14 per month       |
+| [Basecamp](https://basecamp.com)         |             | Free / $15 per month       |
+| [Linear](https://linear.app)             |             | Free / $10 per month       |
+| [Plaky](https://plaky.com)               |             | Free / $5 per month        |
+| [Miro](https://miro.com)                 |             | Free / $10 per month       |
+| [Eraser](https://eraser.io)              |             | Free / $12 per month       |
+| [Obsidian](https://obsidian.md)          |             | Free / $50 per year        |
+| [Acreom](https://acreom.com)             |             | Free / $8.5 per month      |
+| [Plane](https://plane.so)                |             | Free / $8 per month        |
+| [Upvoty](https://upvoty.com)             |             | Free trial / $15 per month |
+| [Frill](https://frill.co)                |             | Free trial / $25 per month |
+| [Featurebase](https://featurebase.app)   |             | Free / $59 per month       |
+| [Userjot](https://userjot.com)           |             | Free / $29 per month       |
+| [Release Notes](https://releasenotes.io) |             | Free / $39 per month       |
+| [Appflowy](https://appflowy.io)          |             | Free / $12.5 per month     |
+| [Focalboard](https://focalboard.com)     |             | Free / Open source         |
+| [Huly](https://huly.io)                  |             | Free / $20 per month       |
+| [Nifty](https://niftypm.com)             |             | Free / $49 per month       |
+| [Height](https://height.app)             |             | Free / $19 per month       |
+| [Open Project](https://openproject.org)  |             | Free / $7.25 per month     |
+| [Tegon](https://tegon.ai)                |             | Free / Open source         |
+| [Zenhub](https://zenhub.com)             |             | Free / $12.5 per month     |
+| [Orgnise](https://orgnise.in)            |             | Free / $24 per month       |
+| [Paymo](https://paymoapp.com)            |             | Free / $10 per month       |
+| [Operately](https://operately.com)       |             |                            |
 
 ## Contributing
 
