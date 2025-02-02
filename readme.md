@@ -346,7 +346,7 @@
 | [Asana](https://asana.com)               |             | Free / $11 per month       |
 | [Jira](https://jira.atlassian.com)       |             | Free / $8.6 per month      |
 | [Canny](https://canny.io)                |             | Free / $99 per month       |
-| [ClickUp](https://clickup.com)           |             | Free / $10 per month       |
+| [Clickup](https://clickup.com)           |             | Free / $10 per month       |
 | [Monday](https://monday.com)             |             | Free / $12 per month       |
 | [Wrike](https://wrike.com)               |             | Free / $10 per month       |
 | [Trello](https://trello.com)             |             | Free / $6 per month        |
