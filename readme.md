@@ -325,10 +325,13 @@
 | [Mailcoach](https://mailcoach.app)    |             | Free trial / $10 per month |
 | [Erxes](https://erxes.io)             |             | Free / $11 per month       |
 | [Mailchimp](https://mailchimp.com)    |             | Free / $13 per month       |
+| [Klaviyo](https://klaviyo.com)        |             | Free / $20 per month       |
+| [Aftership](https://aftership.com)    |             | Free / $11 per month       |
 | [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
 | [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
 | [Novu](https://novu.co)               |             | Free / $250 per month      |
+| [Rewardful](https://rewardful.com)    |             | Free / $49 per month       |
 
 ## Project Management
 
