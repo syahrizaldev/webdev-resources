@@ -364,10 +364,10 @@
 | [Nifty](https://niftypm.com)             |             | Free / $49 per month       |
 | [Height](https://height.app)             |             | Free / $19 per month       |
 | [Open Project](https://openproject.org)  |             | Free / $7.25 per month     |
-| [Tegon](https://tegon.ai)                |             |                            |
-| [Zenhub](https://zenhub.co)              |             |                            |
-| [Orgnise](https://orgnise.in)            |             |                            |
-| [Paymo](https://paymoapp.com)            |             |                            |
+| [Tegon](https://tegon.ai)                |             | Free / Open source         |
+| [Zenhub](https://zenhub.com)             |             | Free / $12.5 per month     |
+| [Orgnise](https://orgnise.in)            |             | Free / $24 per month       |
+| [Paymo](https://paymoapp.com)            |             | Free / $10 per month       |
 | [Operately](https://operately.com)       |             |                            |
 
 ## Contributing
