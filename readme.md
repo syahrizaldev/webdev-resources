@@ -308,6 +308,17 @@
 | [Shadcn Svelte](https://shadcn-svelte.com) |             |         |
 | [Agnostic](https://agnosticui.com)         |             |         |
 | [React Bits](https://reactbits.dev)        |             |         |
+| [Flux](https://fluxui.dev)                 |             |         |
+| [Bladewind](https://bladewindui.com)       |             |         |
+| [Mary](https://mary-ui.com)                |             |         |
+| [Penguin](https://penguinui.com)           |             |         |
+| [Turbine](https://turbineui.com)           |             |         |
+| [Razor](https://razorui.com)               |             |         |
+| [Wire](https://wireui.dev)                 |             |         |
+| [Pines](https://devdojo.com/pines)         |             |         |
+| [Tallstack](https://tallstackui.com)       |             |         |
+| [Blade UIKit](https://blade-ui-kit.com)    |             |         |
+| [Luvi](https://laravel-luvi.com)           |             |         |
 
 ## Marketing Tools
 
