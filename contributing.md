@@ -29,3 +29,5 @@ Making a pull request following to the standards above can be difficult.
 If the maintainers notice anything that we would like changed due to merge conflicts,
 spelling errors, or because your pull request did not match the guidelines,
 we will ask you to edit your pull request before we merge it.
+If you would like to learn how to contribute to open-source projects,
+please visit [**this link**](https://dub.sh/contributing-guide) for more information.
