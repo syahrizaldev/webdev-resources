@@ -226,7 +226,7 @@
 | [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction     |
 | [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction   |
 | [Braintree](https://braintreegateway.com) |             | 2.89% + 29¢ per transaction  |
-| [2checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction   |
+| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction   |
 | [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway |
 | [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue           |
 | [Chargebee](https://chargebee.com)        |             | 0.75% monthly all billing    |
