@@ -110,8 +110,8 @@
 | [Passport](https://passportjs.org)        |             | Free / Open source   |
 | [Authkit](https://authkit.com)            |             | Free / Open source   |
 | [OpenAuth](https://openauth.js.org)       |             | Free / Open source   |
-| [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
 | [Super Tokens](https://supertokens.com)   |             | Free / Pay as you go |
+| [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
 
 ## Testing
 
@@ -128,7 +128,6 @@
 | [Testing Library](https://testing-library.com) |             | Free / Open source |
 | [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
 | [Webdriver](https://webdriver.io)              |             | Free / Open source |
-| [Ava](https://github.com/avajs/ava)            |             | Free / Open source |
 | [Storybook](https://storybook.js.org)          |             | Free / Open source |
 
 ## Search
@@ -250,16 +249,17 @@
 | [Directus](https://directus.io)      |             | Free / $15 per month       |
 | [Gridsome](https://gridsome.org)     |             | Free / Open source         |
 | [Ghost](https://ghost.org)           |             | Free trial / $9 per month  |
+| [Butter](https://buttercms.com)      |             | Free trial / $99 per month |
 | [Dato](https://datocms.com)          |             | Free / $154 per month      |
 | [Tina](https://tina.io)              |             | Free / $29 per month       |
 | [Hygraph](https://hygraph.com)       |             | Free / $199 per month      |
 | [Squidex](https://squidex.io)        |             | Free / $20 per month       |
 | [Cosmic](https://cosmicjs.com)       |             | Free / $299 per month      |
-| [Butter](https://buttercms.com)      |             | Free trial / $99 per month |
 | [Zenblog](https://zenblog.com)       |             | Free / $6 per month        |
 | [Statamic](https://statamic.com)     |             | Free / $275 per site       |
 | [Craft](https://craftcms.com)        |             | Free / $279 per project    |
 | [Twill](https://twillcms.com)        |             | Free / Open source         |
+| [Pages](https://pagescms.org)        |             | Free / Open source         |
 
 ## UI Frameworks
 
