@@ -268,60 +268,60 @@
 
 > List of UI frameworks, libraries, and components for building applications efficiently.
 
-| Name                                       | Description | Pricing |
-| ------------------------------------------ | ----------- | ------- |
-| [Tailwind](https://tailwindcss.com)        |             |         |
-| [Bootstrap](https://getbootstrap.com)      |             |         |
-| [Bulma](https://bulma.io)                  |             |         |
-| [UIKit](https://getuikit.com)              |             |         |
-| [Semantic](https://semantic-ui.com)        |             |         |
-| [Radix UI](https://radix-ui.com)           |             |         |
-| [Material](https://mui.com)                |             |         |
-| [Mantine](https://mantine.dev)             |             |         |
-| [Shadcn UI](https://ui.shadcn.com)         |             |         |
-| [Ant Design](https://ant.design)           |             |         |
-| [Chakra](https://chakra-ui.com)            |             |         |
-| [Vuetify](https://vuetifyjs.com)           |             |         |
-| [Headless](https://headlessui.com)         |             |         |
-| [Hero](https://heroui.com)                 |             |         |
-| [Daisy](https://daisyui.com)               |             |         |
-| [Ark](https://ark-ui.com)                  |             |         |
-| [Zag](https://zagjs.com)                   |             |         |
-| [Base](https://base-ui.com)                |             |         |
-| [Meraki](https://merakiui.com)             |             |         |
-| [Draft](https://draft-ui.com)              |             |         |
-| [Magic](https://magicui.design)            |             |         |
-| [Flowbite](https://flowbite.com)           |             |         |
-| [Aceternity](https://ui.aceternity.com)    |             |         |
-| [Panda](https://panda-css.com)             |             |         |
-| [Uno](https://unocss.dev)                  |             |         |
-| [Prime React](https://primereact.org)      |             |         |
-| [Origin](https://originui.com)             |             |         |
-| [Prime Vue](https://primevue.org)          |             |         |
-| [Radix Vue](https://radix-vue.com)         |             |         |
-| [Shadcn Vue](https://shadcn-vue.com)       |             |         |
-| [Inspira](https://inspira-ui.com)          |             |         |
-| [Vuestic](https://ui.vuestic.dev)          |             |         |
-| [Element Plus](https://element-plus.org)   |             |         |
-| [Naive](https://naiveui.com)               |             |         |
-| [Svelte UI](https://svelteui.dev)          |             |         |
-| [Melt](https://melt-ui.com)                |             |         |
-| [Skeleton](https://skeleton.dev)           |             |         |
-| [Bits](https://bits-ui.com)                |             |         |
-| [Shadcn Svelte](https://shadcn-svelte.com) |             |         |
-| [Agnostic](https://agnosticui.com)         |             |         |
-| [React Bits](https://reactbits.dev)        |             |         |
-| [Flux](https://fluxui.dev)                 |             |         |
-| [Bladewind](https://bladewindui.com)       |             |         |
-| [Mary](https://mary-ui.com)                |             |         |
-| [Penguin](https://penguinui.com)           |             |         |
-| [Turbine](https://turbineui.com)           |             |         |
-| [Razor](https://razorui.com)               |             |         |
-| [Wire](https://wireui.dev)                 |             |         |
-| [Pines](https://devdojo.com/pines)         |             |         |
-| [Tallstack](https://tallstackui.com)       |             |         |
-| [Blade UIKit](https://blade-ui-kit.com)    |             |         |
-| [Luvi](https://laravel-luvi.com)           |             |         |
+| Name                                       | Description | Pricing            |
+| ------------------------------------------ | ----------- | ------------------ |
+| [Tailwind](https://tailwindcss.com)        |             | Free / Open source |
+| [Bootstrap](https://getbootstrap.com)      |             | Free / Open source |
+| [Bulma](https://bulma.io)                  |             | Free / Open source |
+| [UIKit](https://getuikit.com)              |             | Free / Open source |
+| [Semantic](https://semantic-ui.com)        |             | Free / Open source |
+| [Radix UI](https://radix-ui.com)           |             | Free / Open source |
+| [Material](https://mui.com)                |             | Free / Open source |
+| [Mantine](https://mantine.dev)             |             | Free / Open source |
+| [Shadcn UI](https://ui.shadcn.com)         |             | Free / Open source |
+| [Ant Design](https://ant.design)           |             | Free / Open source |
+| [Chakra](https://chakra-ui.com)            |             | Free / Open source |
+| [Vuetify](https://vuetifyjs.com)           |             | Free / Open source |
+| [Headless](https://headlessui.com)         |             | Free / Open source |
+| [Hero](https://heroui.com)                 |             | Free / Open source |
+| [Daisy](https://daisyui.com)               |             | Free / Open source |
+| [Ark](https://ark-ui.com)                  |             |                    |
+| [Zag](https://zagjs.com)                   |             |                    |
+| [Base](https://base-ui.com)                |             |                    |
+| [Meraki](https://merakiui.com)             |             |                    |
+| [Draft](https://draft-ui.com)              |             |                    |
+| [Magic](https://magicui.design)            |             |                    |
+| [Flowbite](https://flowbite.com)           |             |                    |
+| [Aceternity](https://ui.aceternity.com)    |             |                    |
+| [Panda](https://panda-css.com)             |             |                    |
+| [Uno](https://unocss.dev)                  |             |                    |
+| [Prime React](https://primereact.org)      |             |                    |
+| [Origin](https://originui.com)             |             |                    |
+| [Prime Vue](https://primevue.org)          |             |                    |
+| [Radix Vue](https://radix-vue.com)         |             |                    |
+| [Shadcn Vue](https://shadcn-vue.com)       |             |                    |
+| [Inspira](https://inspira-ui.com)          |             |                    |
+| [Vuestic](https://ui.vuestic.dev)          |             |                    |
+| [Element Plus](https://element-plus.org)   |             |                    |
+| [Naive](https://naiveui.com)               |             |                    |
+| [Svelte UI](https://svelteui.dev)          |             |                    |
+| [Melt](https://melt-ui.com)                |             |                    |
+| [Skeleton](https://skeleton.dev)           |             |                    |
+| [Bits](https://bits-ui.com)                |             |                    |
+| [Shadcn Svelte](https://shadcn-svelte.com) |             |                    |
+| [Agnostic](https://agnosticui.com)         |             |                    |
+| [React Bits](https://reactbits.dev)        |             |                    |
+| [Flux](https://fluxui.dev)                 |             |                    |
+| [Bladewind](https://bladewindui.com)       |             |                    |
+| [Mary](https://mary-ui.com)                |             |                    |
+| [Penguin](https://penguinui.com)           |             |                    |
+| [Turbine](https://turbineui.com)           |             |                    |
+| [Razor](https://razorui.com)               |             |                    |
+| [Wire](https://wireui.dev)                 |             |                    |
+| [Pines](https://devdojo.com/pines)         |             |                    |
+| [Tallstack](https://tallstackui.com)       |             |                    |
+| [Blade UIKit](https://blade-ui-kit.com)    |             |                    |
+| [Luvi](https://laravel-luvi.com)           |             |                    |
 
 ## Marketing Tools
 
