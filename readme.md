@@ -46,6 +46,7 @@
 | [Sevalla](https://sevalla.com)                   |             | Free / $5 per month        |
 | [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
 | [Coherence](https://withcoherence.com)           |             | Free / $35 per month       |
+| [Surge](https://surge.sh)                        |             | Free / $30 per month       |
 | [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
 | [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
 | [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
@@ -54,6 +55,7 @@
 | [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
 | [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
+| [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
 
 ## Databases
 
@@ -163,6 +165,7 @@
 | [Anychart](https://anychart.com)                    |             | Free / $49 per license |
 | [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
 | [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
+| [Mermaid](https://mermaid.js.org)                   |             | Free / Open source     |
 | [Chartist](https://chartist.dev)                    |             | Free / Open source     |
 | [Pixi](https://pixijs.com)                          |             | Free / Open source     |
 | [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
