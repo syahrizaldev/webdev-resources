@@ -304,6 +304,8 @@
 | [Vuestic](https://ui.vuestic.dev)          |             |                    |
 | [Element Plus](https://element-plus.org)   |             |                    |
 | [Naive](https://naiveui.com)               |             |                    |
+| [Vexip](https://vexipui.com)               |             |                    |
+| [Oku](https://oku-ui.com)                  |             |                    |
 | [Svelte UI](https://svelteui.dev)          |             |                    |
 | [Melt](https://melt-ui.com)                |             |                    |
 | [Skeleton](https://skeleton.dev)           |             |                    |
