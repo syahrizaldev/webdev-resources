@@ -286,42 +286,43 @@
 | [Hero](https://heroui.com)                 |             | Free / Open source |
 | [Daisy](https://daisyui.com)               |             | Free / Open source |
 | [Ark](https://ark-ui.com)                  |             |                    |
-| [Zag](https://zagjs.com)                   |             |                    |
-| [Base](https://base-ui.com)                |             |                    |
-| [Meraki](https://merakiui.com)             |             |                    |
-| [Draft](https://draft-ui.com)              |             |                    |
-| [Magic](https://magicui.design)            |             |                    |
+| [Zag](https://zagjs.com)                   |             | Free / Open source |
+| [Base](https://base-ui.com)                |             | Free / Open source |
+| [Meraki](https://merakiui.com)             |             | Free / Open source |
+| [Draft](https://draft-ui.com)              |             | Free / Open source |
+| [Magic](https://magicui.design)            |             | Free / Open source |
 | [Flowbite](https://flowbite.com)           |             |                    |
 | [Aceternity](https://ui.aceternity.com)    |             |                    |
-| [Panda](https://panda-css.com)             |             |                    |
-| [Uno](https://unocss.dev)                  |             |                    |
-| [Prime React](https://primereact.org)      |             |                    |
-| [Origin](https://originui.com)             |             |                    |
-| [Prime Vue](https://primevue.org)          |             |                    |
-| [Radix Vue](https://radix-vue.com)         |             |                    |
-| [Shadcn Vue](https://shadcn-vue.com)       |             |                    |
-| [Inspira](https://inspira-ui.com)          |             |                    |
-| [Vuestic](https://ui.vuestic.dev)          |             |                    |
-| [Element Plus](https://element-plus.org)   |             |                    |
-| [Naive](https://naiveui.com)               |             |                    |
-| [Svelte UI](https://svelteui.dev)          |             |                    |
-| [Melt](https://melt-ui.com)                |             |                    |
-| [Skeleton](https://skeleton.dev)           |             |                    |
-| [Bits](https://bits-ui.com)                |             |                    |
-| [Shadcn Svelte](https://shadcn-svelte.com) |             |                    |
-| [Agnostic](https://agnosticui.com)         |             |                    |
-| [React Bits](https://reactbits.dev)        |             |                    |
+| [Panda](https://panda-css.com)             |             | Free / Open source |
+| [Prime React](https://primereact.org)      |             | Free / Open source |
+| [Origin](https://originui.com)             |             | Free / Open source |
+| [Prime Vue](https://primevue.org)          |             | Free / Open source |
+| [Radix Vue](https://radix-vue.com)         |             | Free / Open source |
+| [Shadcn Vue](https://shadcn-vue.com)       |             | Free / Open source |
+| [Inspira](https://inspira-ui.com)          |             | Free / Open source |
+| [Vuestic](https://ui.vuestic.dev)          |             | Free / Open source |
+| [Element Plus](https://element-plus.org)   |             | Free / Open source |
+| [Naive](https://naiveui.com)               |             | Free / Open source |
+| [Vexip](https://vexipui.com)               |             | Free / Open source |
+| [Oku](https://oku-ui.com)                  |             | Free / Open source |
+| [Svelte UI](https://svelteui.dev)          |             | Free / Open source |
+| [Melt](https://melt-ui.com)                |             | Free / Open source |
+| [Skeleton](https://skeleton.dev)           |             | Free / Open source |
+| [Bits](https://bits-ui.com)                |             | Free / Open source |
+| [Shadcn Svelte](https://shadcn-svelte.com) |             | Free / Open source |
+| [Agnostic](https://agnosticui.com)         |             | Free / Open source |
+| [React Bits](https://reactbits.dev)        |             | Free / Open source |
 | [Flux](https://fluxui.dev)                 |             |                    |
-| [Bladewind](https://bladewindui.com)       |             |                    |
-| [Mary](https://mary-ui.com)                |             |                    |
-| [Penguin](https://penguinui.com)           |             |                    |
-| [Turbine](https://turbineui.com)           |             |                    |
+| [Bladewind](https://bladewindui.com)       |             | Free / Open source |
+| [Mary](https://mary-ui.com)                |             | Free / Open source |
+| [Penguin](https://penguinui.com)           |             | Free / Open source |
+| [Turbine](https://turbineui.com)           |             | Free / Open source |
 | [Razor](https://razorui.com)               |             |                    |
-| [Wire](https://wireui.dev)                 |             |                    |
-| [Pines](https://devdojo.com/pines)         |             |                    |
-| [Tallstack](https://tallstackui.com)       |             |                    |
-| [Blade UIKit](https://blade-ui-kit.com)    |             |                    |
-| [Luvi](https://laravel-luvi.com)           |             |                    |
+| [Wire](https://wireui.dev)                 |             | Free / Open source |
+| [Pines](https://devdojo.com/pines)         |             | Free / Open source |
+| [Tallstack](https://tallstackui.com)       |             | Free / Open source |
+| [Blade UIKit](https://blade-ui-kit.com)    |             | Free / Open source |
+| [Luvi](https://laravel-luvi.com)           |             | Free / Open source |
 
 ## Marketing Tools
 
