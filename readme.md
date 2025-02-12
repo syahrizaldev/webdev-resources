@@ -106,10 +106,11 @@
 | [Stytch](https://stytch.com)              |             | Free / Pay as you go |
 | [Better Auth](https://better-auth.com)    |             | Free / Open source   |
 | [Auth0](https://auth0.com)                |             | Free / $35 per month |
+| [Passport](https://passportjs.org)        |             | Free / Open source   |
+| [JSON Web Tokens](https://jwt.io)         |             | Free / Open source   |
 | [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
 | [Authentik](https://goauthentik.io)       |             | Free / Pay as you go |
 | [Stack Auth](https://stack-auth.com)      |             | Free / $49 per month |
-| [Passport](https://passportjs.org)        |             | Free / Open source   |
 | [Authkit](https://authkit.com)            |             | Free / Open source   |
 | [OpenAuth](https://openauth.js.org)       |             | Free / Open source   |
 | [Super Tokens](https://supertokens.com)   |             | Free / Pay as you go |
@@ -311,6 +312,7 @@
 | [Bits](https://bits-ui.com)                |             | Free / Open source |
 | [Shadcn Svelte](https://shadcn-svelte.com) |             | Free / Open source |
 | [Agnostic](https://agnosticui.com)         |             | Free / Open source |
+| [Kibo](https://kibo-ui.com)                |             | Free / Open source |
 | [React Bits](https://reactbits.dev)        |             | Free / Open source |
 | [Flux](https://fluxui.dev)                 |             |                    |
 | [Bladewind](https://bladewindui.com)       |             | Free / Open source |
