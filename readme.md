@@ -225,19 +225,23 @@
 
 > List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
 
-| Name                                      | Description | Pricing                      |
-| ----------------------------------------- | ----------- | ---------------------------- |
-| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction   |
-| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction     |
-| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction     |
-| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction     |
-| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction   |
-| [Braintree](https://braintreegateway.com) |             | 2.89% + 29¢ per transaction  |
-| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction   |
-| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway |
-| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue           |
-| [Chargebee](https://chargebee.com)        |             | 0.75% monthly all billing    |
-| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing      |
+| Name                                      | Description | Pricing                               |
+| ----------------------------------------- | ----------- | ------------------------------------- |
+| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction            |
+| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction              |
+| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction              |
+| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction              |
+| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction            |
+| [Paypal](https://paypal.com)              |             | 3.4% per transaction + fixed fee      |
+| [Braintree](https://braintreegateway.com) |             | 2.9% + 29¢ per transaction            |
+| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction            |
+| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway fee      |
+| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue                    |
+| [Chargebee](https://chargebee.com)        |             | 0.75% monthly all billing             |
+| [Adyen](https://adyen.com)                |             | 13¢ per transaction + payment fee     |
+| [Checkout](https://checkout.com)          |             | Flat-rate based pricing               |
+| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing               |
+| [Authorize](https://authorize.net)        |             | 10¢ per transaction + $25 monthly fee |
 
 ## Headless CMS
 
