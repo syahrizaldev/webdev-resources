@@ -79,9 +79,11 @@
 | [Pocketbase](https://pocketbase.io)       |             | Free / Open source         |
 | [Cockroach](https://cockroachlabs.com)    |             | Free / Pay as you go       |
 | [Timescale](https://timescale.com)        |             | Free trial / Pay as you go |
+| [Airtable](https://airtable.com)          |             | Free / $20 per month       |
 | [Nhost](https://nhost.io)                 |             | Free / $25 per month       |
 | [Minds](https://mindsdb.com)              |             | Free / Open source         |
 | [Duck](https://duckdb.org)                |             | Free / Open source         |
+| [Noco](https://nocodb.com)                |             | Free / Open source         |
 | [Nile](https://thenile.dev)               |             | Free / $15 per month       |
 | [Dragonfly](https://dragonflydb.io)       |             | Free / Pay as you go       |
 | [Electric](https://electric-sql.com)      |             | Free / Open source         |
@@ -107,7 +109,7 @@
 | [Better Auth](https://better-auth.com)    |             | Free / Open source   |
 | [Auth0](https://auth0.com)                |             | Free / $35 per month |
 | [Passport](https://passportjs.org)        |             | Free / Open source   |
-| [JSON Web Tokens](https://jwt.io)         |             | Free / Open source   |
+| [JWT](https://jwt.io)                     |             | Free / Open source   |
 | [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
 | [Authentik](https://goauthentik.io)       |             | Free / Pay as you go |
 | [Stack Auth](https://stack-auth.com)      |             | Free / $49 per month |
@@ -206,6 +208,7 @@
 | [Posthog](https://posthog.com)                   |             | Free / Usage-based price  |
 | [Tinybird](https://tinybird.co)                  |             | Free / Pay as you go      |
 | [Mixpanel](https://mixpanel.com)                 |             | Free / $24 per month      |
+| [Chart Mogul](https://chartmogul.com)            |             | Free / $99 per month      |
 | [Amplitude](https://amplitude.com)               |             | Free / $61 per month      |
 | [Pirsch](https://pirsch.io)                      |             | Free trial / $6 per month |
 | [Sprig](https://sprig.com)                       |             | Free / $175 per month     |
