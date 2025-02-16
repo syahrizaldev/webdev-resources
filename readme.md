@@ -88,10 +88,12 @@
 | [Dragonfly](https://dragonflydb.io)       |             | Free / Pay as you go       |
 | [Electric](https://electric-sql.com)      |             | Free / Open source         |
 | [Oriole](https://orioledb.com)            |             | Free / Open source         |
+| [Milvus](https://milvus.io)               |             | Free / Open source         |
+| [Bytebase](https://bytebase.com)          |             | Free / $20 per month       |
 | [Dynamo](https://aws.amazon.com/dynamodb) |             | Free / Pay as you go       |
 | [Astra](https://astra.datastax.com)       |             | Free / Pay as you go       |
 | [Scylla](https://scylladb.com)            |             | Free / Pay as you go       |
-| [Milvus](https://milvus.io)               |             | Free / Open source         |
+| [Oceanbase](https://en.oceanbase.com)     |             | Free / Pay as you go       |
 
 ## Authentication
 
@@ -220,6 +222,7 @@
 | [Aptabase](https://aptabase.com)                 |             | Free / $10 per month      |
 | [Open Replay](https://openreplay.com)            |             | Free / $6 per month       |
 | [Swetrix](https://swetrix.com)                   |             | Free trial / $5 per month |
+| [Ackee](https://ackee.electerious.com)           |             | Free / Open source        |
 
 ## Payments
 
@@ -276,62 +279,63 @@
 
 > List of UI frameworks, libraries, and components for building applications efficiently.
 
-| Name                                       | Description | Pricing            |
-| ------------------------------------------ | ----------- | ------------------ |
-| [Tailwind](https://tailwindcss.com)        |             | Free / Open source |
-| [Bootstrap](https://getbootstrap.com)      |             | Free / Open source |
-| [Bulma](https://bulma.io)                  |             | Free / Open source |
-| [UIKit](https://getuikit.com)              |             | Free / Open source |
-| [Semantic](https://semantic-ui.com)        |             | Free / Open source |
-| [Radix UI](https://radix-ui.com)           |             | Free / Open source |
-| [Material](https://mui.com)                |             | Free / Open source |
-| [Mantine](https://mantine.dev)             |             | Free / Open source |
-| [Shadcn UI](https://ui.shadcn.com)         |             | Free / Open source |
-| [Ant Design](https://ant.design)           |             | Free / Open source |
-| [Chakra](https://chakra-ui.com)            |             | Free / Open source |
-| [Vuetify](https://vuetifyjs.com)           |             | Free / Open source |
-| [Headless](https://headlessui.com)         |             | Free / Open source |
-| [Hero](https://heroui.com)                 |             | Free / Open source |
-| [Daisy](https://daisyui.com)               |             | Free / Open source |
-| [Ark](https://ark-ui.com)                  |             |                    |
-| [Zag](https://zagjs.com)                   |             | Free / Open source |
-| [Base](https://base-ui.com)                |             | Free / Open source |
-| [Meraki](https://merakiui.com)             |             | Free / Open source |
-| [Draft](https://draft-ui.com)              |             | Free / Open source |
-| [Magic](https://magicui.design)            |             | Free / Open source |
-| [Flowbite](https://flowbite.com)           |             |                    |
-| [Aceternity](https://ui.aceternity.com)    |             |                    |
-| [Panda](https://panda-css.com)             |             | Free / Open source |
-| [Prime React](https://primereact.org)      |             | Free / Open source |
-| [Origin](https://originui.com)             |             | Free / Open source |
-| [Prime Vue](https://primevue.org)          |             | Free / Open source |
-| [Radix Vue](https://radix-vue.com)         |             | Free / Open source |
-| [Shadcn Vue](https://shadcn-vue.com)       |             | Free / Open source |
-| [Inspira](https://inspira-ui.com)          |             | Free / Open source |
-| [Vuestic](https://ui.vuestic.dev)          |             | Free / Open source |
-| [Element Plus](https://element-plus.org)   |             | Free / Open source |
-| [Naive](https://naiveui.com)               |             | Free / Open source |
-| [Vexip](https://vexipui.com)               |             | Free / Open source |
-| [Oku](https://oku-ui.com)                  |             | Free / Open source |
-| [Svelte UI](https://svelteui.dev)          |             | Free / Open source |
-| [Melt](https://melt-ui.com)                |             | Free / Open source |
-| [Skeleton](https://skeleton.dev)           |             | Free / Open source |
-| [Bits](https://bits-ui.com)                |             | Free / Open source |
-| [Shadcn Svelte](https://shadcn-svelte.com) |             | Free / Open source |
-| [Agnostic](https://agnosticui.com)         |             | Free / Open source |
-| [Kibo](https://kibo-ui.com)                |             | Free / Open source |
-| [React Bits](https://reactbits.dev)        |             | Free / Open source |
-| [Flux](https://fluxui.dev)                 |             |                    |
-| [Bladewind](https://bladewindui.com)       |             | Free / Open source |
-| [Mary](https://mary-ui.com)                |             | Free / Open source |
-| [Penguin](https://penguinui.com)           |             | Free / Open source |
-| [Turbine](https://turbineui.com)           |             | Free / Open source |
-| [Razor](https://razorui.com)               |             |                    |
-| [Wire](https://wireui.dev)                 |             | Free / Open source |
-| [Pines](https://devdojo.com/pines)         |             | Free / Open source |
-| [Tallstack](https://tallstackui.com)       |             | Free / Open source |
-| [Blade UIKit](https://blade-ui-kit.com)    |             | Free / Open source |
-| [Luvi](https://laravel-luvi.com)           |             | Free / Open source |
+| Name                                       | Description | Pricing                       |
+| ------------------------------------------ | ----------- | ----------------------------- |
+| [Tailwind](https://tailwindcss.com)        |             | Free / Open source            |
+| [Bootstrap](https://getbootstrap.com)      |             | Free / Open source            |
+| [Bulma](https://bulma.io)                  |             | Free / Open source            |
+| [UIKit](https://getuikit.com)              |             | Free / Open source            |
+| [Semantic](https://semantic-ui.com)        |             | Free / Open source            |
+| [Radix UI](https://radix-ui.com)           |             | Free / Open source            |
+| [Material](https://mui.com)                |             | Free / Open source            |
+| [Mantine](https://mantine.dev)             |             | Free / Open source            |
+| [Shadcn UI](https://ui.shadcn.com)         |             | Free / Open source            |
+| [Ant Design](https://ant.design)           |             | Free / Open source            |
+| [Chakra](https://chakra-ui.com)            |             | Free / Open source            |
+| [Vuetify](https://vuetifyjs.com)           |             | Free / Open source            |
+| [Headless](https://headlessui.com)         |             | Free / Open source            |
+| [Hero](https://heroui.com)                 |             | Free / Open source            |
+| [Daisy](https://daisyui.com)               |             | Free / Open source            |
+| [Zag](https://zagjs.com)                   |             | Free / Open source            |
+| [Ark](https://ark-ui.com)                  |             | Free / $199 one-time purchase |
+| [Park](https://park-ui.com)                |             | Free / $299 one-time purchase |
+| [Base](https://base-ui.com)                |             | Free / Open source            |
+| [Meraki](https://merakiui.com)             |             | Free / Open source            |
+| [Draft](https://draft-ui.com)              |             | Free / Open source            |
+| [Magic](https://magicui.design)            |             | Free / Open source            |
+| [Flowbite](https://flowbite.com)           |             | Free / $299 one-time purchase |
+| [Aceternity](https://ui.aceternity.com)    |             | Free / $129 per year          |
+| [Panda](https://panda-css.com)             |             | Free / Open source            |
+| [Prime React](https://primereact.org)      |             | Free / Open source            |
+| [Origin](https://originui.com)             |             | Free / Open source            |
+| [Prime Vue](https://primevue.org)          |             | Free / Open source            |
+| [Radix Vue](https://radix-vue.com)         |             | Free / Open source            |
+| [Shadcn Vue](https://shadcn-vue.com)       |             | Free / Open source            |
+| [Inspira](https://inspira-ui.com)          |             | Free / Open source            |
+| [Vuestic](https://ui.vuestic.dev)          |             | Free / Open source            |
+| [Element Plus](https://element-plus.org)   |             | Free / Open source            |
+| [Naive](https://naiveui.com)               |             | Free / Open source            |
+| [Vexip](https://vexipui.com)               |             | Free / Open source            |
+| [Oku](https://oku-ui.com)                  |             | Free / Open source            |
+| [Svelte UI](https://svelteui.dev)          |             | Free / Open source            |
+| [Melt](https://melt-ui.com)                |             | Free / Open source            |
+| [Skeleton](https://skeleton.dev)           |             | Free / Open source            |
+| [Bits](https://bits-ui.com)                |             | Free / Open source            |
+| [Shadcn Svelte](https://shadcn-svelte.com) |             | Free / Open source            |
+| [Agnostic](https://agnosticui.com)         |             | Free / Open source            |
+| [Kibo](https://kibo-ui.com)                |             | Free / Open source            |
+| [React Bits](https://reactbits.dev)        |             | Free / Open source            |
+| [Flux](https://fluxui.dev)                 |             | Free / $99 per project        |
+| [Bladewind](https://bladewindui.com)       |             | Free / Open source            |
+| [Mary](https://mary-ui.com)                |             | Free / Open source            |
+| [Penguin](https://penguinui.com)           |             | Free / Open source            |
+| [Turbine](https://turbineui.com)           |             | Free / Open source            |
+| [Razor](https://razorui.com)               |             | Free / $89 per purchase       |
+| [Wire](https://wireui.dev)                 |             | Free / Open source            |
+| [Pines](https://devdojo.com/pines)         |             | Free / Open source            |
+| [Tallstack](https://tallstackui.com)       |             | Free / Open source            |
+| [Blade UIKit](https://blade-ui-kit.com)    |             | Free / Open source            |
+| [Luvi](https://laravel-luvi.com)           |             | Free / Open source            |
 
 ## Marketing Tools
 
@@ -401,7 +405,7 @@
 | [Zenhub](https://zenhub.com)             |             | Free / $12.5 per month     |
 | [Orgnise](https://orgnise.in)            |             | Free / $24 per month       |
 | [Paymo](https://paymoapp.com)            |             | Free / $10 per month       |
-| [Operately](https://operately.com)       |             |                            |
+| [Operately](https://operately.com)       |             | Free / Open source         |
 
 ## Contributing
 
