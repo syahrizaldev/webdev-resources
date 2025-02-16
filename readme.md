@@ -330,7 +330,7 @@
 | [Mary](https://mary-ui.com)                |             | Free / Open source            |
 | [Penguin](https://penguinui.com)           |             | Free / Open source            |
 | [Turbine](https://turbineui.com)           |             | Free / Open source            |
-| [Razor](https://razorui.com)               |             | Free / $89 per purchase       |
+| [Razor](https://razorui.com)               |             | Free / $89 one-time purchase  |
 | [Wire](https://wireui.dev)                 |             | Free / Open source            |
 | [Pines](https://devdojo.com/pines)         |             | Free / Open source            |
 | [Tallstack](https://tallstackui.com)       |             | Free / Open source            |
