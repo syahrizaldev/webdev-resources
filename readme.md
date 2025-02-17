@@ -248,32 +248,33 @@
 
 ## Headless CMS
 
-> List of headless content management systems (CMS) to help handle content in applications.
+> List of headless content management systems (CMS) to help create and handle content in applications.
 
-| Name                                 | Description | Pricing                    |
-| ------------------------------------ | ----------- | -------------------------- |
-| [Strapi](https://strapi.io)          |             | Free / $15 per month       |
-| [Sanity](https://sanity.io)          |             | Free / $15 per month       |
-| [Payload](https://payloadcms.com)    |             | Free / $35 per month       |
-| [Keystatic](https://keystatic.com)   |             | Free / Open source         |
-| [Keystone](https://keystonejs.com)   |             | Free / Open source         |
-| [Storyblok](https://storyblok.com)   |             | Free / $103 per month      |
-| [Contentful](https://contentful.com) |             | Free / $300 per month      |
-| [Prismic](https://prismic.io)        |             | Free / $150 per month      |
-| [Directus](https://directus.io)      |             | Free / $15 per month       |
-| [Gridsome](https://gridsome.org)     |             | Free / Open source         |
-| [Ghost](https://ghost.org)           |             | Free trial / $9 per month  |
-| [Butter](https://buttercms.com)      |             | Free trial / $99 per month |
-| [Dato](https://datocms.com)          |             | Free / $154 per month      |
-| [Tina](https://tina.io)              |             | Free / $29 per month       |
-| [Hygraph](https://hygraph.com)       |             | Free / $199 per month      |
-| [Squidex](https://squidex.io)        |             | Free / $20 per month       |
-| [Cosmic](https://cosmicjs.com)       |             | Free / $299 per month      |
-| [Zenblog](https://zenblog.com)       |             | Free / $6 per month        |
-| [Statamic](https://statamic.com)     |             | Free / $275 per site       |
-| [Craft](https://craftcms.com)        |             | Free / $279 per project    |
-| [Twill](https://twillcms.com)        |             | Free / Open source         |
-| [Pages](https://pagescms.org)        |             | Free / Open source         |
+| Name                                     | Description | Pricing                    |
+| ---------------------------------------- | ----------- | -------------------------- |
+| [Strapi](https://strapi.io)              |             | Free / $15 per month       |
+| [Sanity](https://sanity.io)              |             | Free / $15 per month       |
+| [Payload](https://payloadcms.com)        |             | Free / $35 per month       |
+| [Keystatic](https://keystatic.com)       |             | Free / Open source         |
+| [Keystone](https://keystonejs.com)       |             | Free / Open source         |
+| [Storyblok](https://storyblok.com)       |             | Free / $103 per month      |
+| [Contentful](https://contentful.com)     |             | Free / $300 per month      |
+| [Prismic](https://prismic.io)            |             | Free / $150 per month      |
+| [Directus](https://directus.io)          |             | Free / $15 per month       |
+| [Gridsome](https://gridsome.org)         |             | Free / Open source         |
+| [Ghost](https://ghost.org)               |             | Free trial / $9 per month  |
+| [Butter](https://buttercms.com)          |             | Free trial / $99 per month |
+| [Dato](https://datocms.com)              |             | Free / $154 per month      |
+| [Tina](https://tina.io)                  |             | Free / $29 per month       |
+| [Hygraph](https://hygraph.com)           |             | Free / $199 per month      |
+| [Squidex](https://squidex.io)            |             | Free / $20 per month       |
+| [Cosmic](https://cosmicjs.com)           |             | Free / $299 per month      |
+| [Zenblog](https://zenblog.com)           |             | Free / $6 per month        |
+| [Statamic](https://statamic.com)         |             | Free / $275 per project    |
+| [Craft](https://craftcms.com)            |             | Free / $279 per project    |
+| [Twill](https://twillcms.com)            |             | Free / Open source         |
+| [Pages](https://pagescms.org)            |             | Free / Open source         |
+| [Wix Studio](https://wix.com/studio/cms) |             | Free trial / $12 per month |
 
 ## UI Frameworks
 
