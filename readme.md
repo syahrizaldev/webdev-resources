@@ -35,6 +35,7 @@
 | [Render](https://render.com)                     |             | Free / $19 per month       |
 | [Amplify](https://aws.amazon.com/amplify)        |             | Free / $15 per month       |
 | [Digital Ocean](https://digitalocean.com)        |             | Free / $5 per month        |
+| [GitHub Pages](https://pages.github.com)         |             | Free for GitHub users      |
 | [Cloudflare Pages](https://pages.cloudflare.com) |             | Free / $20 per month       |
 | [Railway](https://railway.com)                   |             | Free trial / $5 per month  |
 | [Platform](https://platform.sh)                  |             | Free trial / $13 per month |
@@ -53,6 +54,7 @@
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
 | [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
 | [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
+| [Alwaysdata](https://alwaysdata.com)             |             | Free / $7.5 per month      |
 
 ## Databases
 
