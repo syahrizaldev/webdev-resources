@@ -36,26 +36,23 @@
 | [Amplify](https://aws.amazon.com/amplify)        |             | Free / $15 per month       |
 | [Digital Ocean](https://digitalocean.com)        |             | Free / $5 per month        |
 | [Cloudflare Pages](https://pages.cloudflare.com) |             | Free / $20 per month       |
-| [Railway](https://railway.app)                   |             | Free trial / $5 per month  |
+| [Railway](https://railway.com)                   |             | Free trial / $5 per month  |
 | [Platform](https://platform.sh)                  |             | Free trial / $13 per month |
-| [Cloudfront](https://aws.amazon.com/cloudfront)  |             | Free / Pay as you go       |
 | [Northflank](https://northflank.com)             |             | Free / Pay as you go       |
 | [Koyeb](https://koyeb.com)                       |             | Free / $29 per month       |
 | [Flyio](https://fly.io)                          |             | Free / Pay as you go       |
 | [Elestio](https://elest.io)                      |             | Free trial / $10 per month |
 | [Sevalla](https://sevalla.com)                   |             | Free / $5 per month        |
-| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
-| [Coherence](https://withcoherence.com)           |             | Free / $35 per month       |
 | [Surge](https://surge.sh)                        |             | Free / $30 per month       |
 | [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
 | [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
 | [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
-| [Fastly](https://fastly.com)                     |             | Free / $50 per month       |
 | [Dokploy](https://dokploy.com)                   |             | Free / $4.5 per month      |
 | [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
 | [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
 | [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
+| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
 
 ## Databases
 
