@@ -220,6 +220,7 @@
 | [Trench](https://trench.dev)                     |             | Free / Pay as you go      |
 | [Aptabase](https://aptabase.com)                 |             | Free / $10 per month      |
 | [Open Replay](https://openreplay.com)            |             | Free / $6 per month       |
+| [Seline](https://seline.so)                      |             | Free / $14 per month      |
 | [Swetrix](https://swetrix.com)                   |             | Free trial / $5 per month |
 | [Ackee](https://ackee.electerious.com)           |             | Free / Open source        |
 
