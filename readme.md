@@ -45,16 +45,16 @@
 | [Elestio](https://elest.io)                      |             | Free trial / $10 per month |
 | [Sevalla](https://sevalla.com)                   |             | Free / $5 per month        |
 | [Surge](https://surge.sh)                        |             | Free / $30 per month       |
+| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
 | [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
 | [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
 | [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
+| [Alwaysdata](https://alwaysdata.com)             |             | Free / $7.5 per month      |
 | [Dokploy](https://dokploy.com)                   |             | Free / $4.5 per month      |
 | [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
 | [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
 | [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
-| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
-| [Alwaysdata](https://alwaysdata.com)             |             | Free / $7.5 per month      |
 
 ## Databases
 
@@ -110,11 +110,11 @@
 | [Better Auth](https://better-auth.com)    |             | Free / Open source   |
 | [Auth0](https://auth0.com)                |             | Free / $35 per month |
 | [Passport](https://passportjs.org)        |             | Free / Open source   |
-| [JWT](https://jwt.io)                     |             | Free / Open source   |
+| [JSON Web Tokens](https://jwt.io)         |             | Free / Open source   |
 | [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
 | [Authentik](https://goauthentik.io)       |             | Free / Pay as you go |
 | [Stack Auth](https://stack-auth.com)      |             | Free / $49 per month |
-| [Authkit](https://authkit.com)            |             | Free / Open source   |
+| [AuthKit](https://authkit.com)            |             | Free / Open source   |
 | [OpenAuth](https://openauth.js.org)       |             | Free / Open source   |
 | [Super Tokens](https://supertokens.com)   |             | Free / Pay as you go |
 | [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
@@ -131,9 +131,9 @@
 | [Cypress](https://cypress.io)                  |             | Free / Open source |
 | [Jasmine](https://jasmine.github.io)           |             | Free / Open source |
 | [Playwright](https://playwright.dev)           |             | Free / Open source |
-| [Testing Library](https://testing-library.com) |             | Free / Open source |
-| [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
 | [Webdriver](https://webdriver.io)              |             | Free / Open source |
+| [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
+| [Testing Library](https://testing-library.com) |             | Free / Open source |
 | [Storybook](https://storybook.js.org)          |             | Free / Open source |
 
 ## Search
@@ -197,7 +197,7 @@
 
 | Name                                             | Description | Pricing                   |
 | ------------------------------------------------ | ----------- | ------------------------- |
-| [Google Analytics](https://analytics.google.com) |             | Free                      |
+| [Google Analytics](https://analytics.google.com) |             | Free for Google users     |
 | [Plausible](https://plausible.io)                |             | Free trial / $9 per month |
 | [Splitbee](https://splitbee.io)                  |             | Free / $14 per month      |
 | [Openpanel](https://openpanel.dev)               |             | Free / Pay as you go      |
@@ -240,7 +240,7 @@
 | [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction            |
 | [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway fee      |
 | [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue                    |
-| [Chargebee](https://chargebee.com)        |             | 0.75% monthly all billing             |
+| [Chargebee](https://chargebee.com)        |             | 0.75% monthly for all billing         |
 | [Adyen](https://adyen.com)                |             | 13¢ per transaction + payment fee     |
 | [Checkout](https://checkout.com)          |             | Flat-rate based pricing               |
 | [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing               |
