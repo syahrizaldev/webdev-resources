@@ -172,6 +172,7 @@
 | [Mermaid](https://mermaid.js.org)                   |             | Free / Open source     |
 | [Chartist](https://chartist.dev)                    |             | Free / Open source     |
 | [Pixi](https://pixijs.com)                          |             | Free / Open source     |
+| [Rosen Charts](https://rosencharts.com)             |             | Free / Open source     |
 | [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
 
 ## Text Editors
