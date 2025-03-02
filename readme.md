@@ -168,12 +168,12 @@
 | [Superset](https://superset.apache.org)             |             | Free / Open source     |
 | [Anychart](https://anychart.com)                    |             | Free / $49 per license |
 | [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
-| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
 | [Mermaid](https://mermaid.js.org)                   |             | Free / Open source     |
 | [Chartist](https://chartist.dev)                    |             | Free / Open source     |
 | [Pixi](https://pixijs.com)                          |             | Free / Open source     |
-| [Rosen Charts](https://rosencharts.com)             |             | Free / Open source     |
 | [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
+| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
+| [Rosen Charts](https://rosencharts.com)             |             | Free / Open source     |
 
 ## Text Editors
 
@@ -383,6 +383,7 @@
 | [Monday](https://monday.com)             |             | Free / $12 per month       |
 | [Wrike](https://wrike.com)               |             | Free / $10 per month       |
 | [Trello](https://trello.com)             |             | Free / $6 per month        |
+| [Todoist](https://todoist.com)           |             | Free / $5 per month        |
 | [Teamwork](https://teamwork.com)         |             | Free / $14 per month       |
 | [Basecamp](https://basecamp.com)         |             | Free / $15 per month       |
 | [Linear](https://linear.app)             |             | Free / $10 per month       |
