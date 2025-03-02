@@ -311,7 +311,7 @@
 | [Prime React](https://primereact.org)      |             | Free / Open source            |
 | [Origin](https://originui.com)             |             | Free / Open source            |
 | [Prime Vue](https://primevue.org)          |             | Free / Open source            |
-| [Radix Vue](https://radix-vue.com)         |             | Free / Open source            |
+| [Reka](https://reka-ui.com)                |             | Free / Open source            |
 | [Shadcn Vue](https://shadcn-vue.com)       |             | Free / Open source            |
 | [Inspira](https://inspira-ui.com)          |             | Free / Open source            |
 | [Vuestic](https://ui.vuestic.dev)          |             | Free / Open source            |
