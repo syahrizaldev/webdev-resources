@@ -93,6 +93,8 @@
 | [Astra](https://astra.datastax.com)       |             | Free / Pay as you go       |
 | [Scylla](https://scylladb.com)            |             | Free / Pay as you go       |
 | [Oceanbase](https://en.oceanbase.com)     |             | Free / Pay as you go       |
+| [Dice](https://dicedb.io)                 |             | Free / Open source         |
+| [Chroma](https://trychroma.com)           |             | Free / Open source         |
 
 ## Authentication
 
@@ -118,6 +120,7 @@
 | [OpenAuth](https://openauth.js.org)       |             | Free / Open source   |
 | [Super Tokens](https://supertokens.com)   |             | Free / Pay as you go |
 | [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
+| [Authelia](https://authelia.com)          |             | Free / Open source   |
 
 ## Testing
 
