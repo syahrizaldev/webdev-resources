@@ -77,6 +77,7 @@
 | [Turso](https://turso.tech)               |             | Free / $9 per month        |
 | [Pocketbase](https://pocketbase.io)       |             | Free / Open source         |
 | [Cockroach](https://cockroachlabs.com)    |             | Free / Pay as you go       |
+| [Clickhouse](https://clickhouse.com)      |             | Free / Pay as you go       |
 | [Timescale](https://timescale.com)        |             | Free trial / Pay as you go |
 | [Airtable](https://airtable.com)          |             | Free / $20 per month       |
 | [Nhost](https://nhost.io)                 |             | Free / $25 per month       |
