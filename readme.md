@@ -55,6 +55,7 @@
 | [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
 | [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
+| [Dokku](https://dokku.com)                       |             | Free / $849 lifetime       |
 
 ## Databases
 
@@ -330,6 +331,7 @@
 | [Shadcn Svelte](https://shadcn-svelte.com) |             | Free / Open source            |
 | [Agnostic](https://agnosticui.com)         |             | Free / Open source            |
 | [Kibo](https://kibo-ui.com)                |             | Free / Open source            |
+| [Neobrutalism](https://neobrutalism.dev)   |             | Free / Open source            |
 | [React Bits](https://reactbits.dev)        |             | Free / Open source            |
 | [Flux](https://fluxui.dev)                 |             | Free / $99 per project        |
 | [Bladewind](https://bladewindui.com)       |             | Free / Open source            |
@@ -372,6 +374,8 @@
 | [Brevo](https://brevo.com)            |             | Free / $8 per month        |
 | [Novu](https://novu.co)               |             | Free / $250 per month      |
 | [Rewardful](https://rewardful.com)    |             | Free / $49 per month       |
+| [Clickbank](https://clickbank.com)    |             | Free / Activation fee      |
+| [Affonso](https://affonso.io)         |             | Free trial / $9 per month  |
 
 ## Project Management
 
