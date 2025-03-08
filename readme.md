@@ -70,7 +70,7 @@
 | [Redis](https://redis.io)                 |             | Free / Pay as you go       |
 | [Neon](https://neon.tech)                 |             | Free / $19 per month       |
 | [Fauna](https://fauna.com)                |             | Free / $150 per month      |
-| [Edge](https://edgedb.com)                |             | Free / $39 per month       |
+| [Gel](https://geldata.com)                |             | Free / $19.5 per month     |
 | [Xata](https://xata.io)                   |             | Free / $20 per month       |
 | [Surreal](https://surrealdb.com)          |             | Free / $23 per month       |
 | [Upstash](https://upstash.com)            |             | Free / Pay as you go       |
@@ -97,6 +97,9 @@
 | [Oceanbase](https://en.oceanbase.com)     |             | Free / Pay as you go       |
 | [Dice](https://dicedb.io)                 |             | Free / Open source         |
 | [Chroma](https://trychroma.com)           |             | Free / Open source         |
+| [Arango](https://arangodb.com)            |             | Free / Pay as you go       |
+| [Qdrant](https://qdrant.tech)             |             | Free / Pay as you go       |
+| [Harper](https://harpersystems.dev)       |             | Free / $2.5 per month      |
 
 ## Authentication
 
