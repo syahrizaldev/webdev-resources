@@ -91,6 +91,7 @@
 | [Oriole](https://orioledb.com)            |             | Free / Open source         |
 | [Milvus](https://milvus.io)               |             | Free / Open source         |
 | [Bytebase](https://bytebase.com)          |             | Free / $20 per month       |
+| [Instant](https://instantdb.com)          |             | Free / $30 per month       |
 | [Dynamo](https://aws.amazon.com/dynamodb) |             | Free / Pay as you go       |
 | [Spacetime](https://spacetimedb.com)      |             | Free / Pay as you go       |
 | [Astra](https://astra.datastax.com)       |             | Free / Pay as you go       |
