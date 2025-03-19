@@ -338,6 +338,7 @@
 | [Kibo](https://kibo-ui.com)                |             | Free / Open source            |
 | [Neobrutalism](https://neobrutalism.dev)   |             | Free / Open source            |
 | [React Bits](https://reactbits.dev)        |             | Free / Open source            |
+| [Starwind](https://starwind.dev)           |             | Free / Open source            |
 | [Flux](https://fluxui.dev)                 |             | Free / $99 per project        |
 | [Bladewind](https://bladewindui.com)       |             | Free / Open source            |
 | [Mary](https://mary-ui.com)                |             | Free / Open source            |
