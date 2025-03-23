@@ -178,11 +178,12 @@
 | [Superset](https://superset.apache.org)             |             | Free / Open source     |
 | [Anychart](https://anychart.com)                    |             | Free / $49 per license |
 | [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
+| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
 | [Mermaid](https://mermaid.js.org)                   |             | Free / Open source     |
 | [Chartist](https://chartist.dev)                    |             | Free / Open source     |
+| [Unovis](https://unovis.dev)                        |             | Free / Open source     |
 | [Pixi](https://pixijs.com)                          |             | Free / Open source     |
 | [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
-| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
 | [Rosen Charts](https://rosencharts.com)             |             | Free / Open source     |
 
 ## Text Editors
