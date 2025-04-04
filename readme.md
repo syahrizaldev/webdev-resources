@@ -105,6 +105,10 @@
 | [Undb](https://undb.io)                   |             | Free / $9 per month        |
 | [Instant](https://instantdb.com)          |             | Free / $30 per month       |
 | [Tidb](https://pingcap.com)               |             | Free / Pay as you go       |
+| [Crate](https://cratedb.com)              |             | Free / Pay as you go       |
+| [Hydra](https://hydra.so)                 |             | Free / Pay as you go       |
+| [Ferret](https://ferretdb.com)            |             | Free / Open source         |
+| [Slate](https://slatedb.io)               |             | Free / Open source         |
 
 ## Authentication
 
