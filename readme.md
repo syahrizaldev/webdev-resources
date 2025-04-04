@@ -101,7 +101,10 @@
 | [Chroma](https://trychroma.com)           |             | Free / Open source         |
 | [Arango](https://arangodb.com)            |             | Free / Pay as you go       |
 | [Qdrant](https://qdrant.tech)             |             | Free / Pay as you go       |
-| [Harper](https://harpersystems.dev)       |             | Free / $2.5 per month      |
+| [Harper](https://harpersystems.dev)       |             | Free / $3 per month        |
+| [Undb](https://undb.io)                   |             | Free / $9 per month        |
+| [Instant](https://instantdb.com)          |             | Free / $30 per month       |
+| [Tidb](https://pingcap.com)               |             | Free / Pay as you go       |
 
 ## Authentication
 
