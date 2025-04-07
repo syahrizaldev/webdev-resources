@@ -49,13 +49,15 @@
 | [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
 | [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
 | [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
-| [Alwaysdata](https://alwaysdata.com)             |             | Free / $7.5 per month      |
-| [Dokploy](https://dokploy.com)                   |             | Free / $4.5 per month      |
+| [Alwaysdata](https://alwaysdata.com)             |             | Free / $8 per month        |
+| [Dokploy](https://dokploy.com)                   |             | Free / $5 per month        |
 | [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
 | [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
 | [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
 | [Dokku](https://dokku.com)                       |             | Free / $849 lifetime       |
+| [Tembo](https://tembo.io)                        |             | Free / $33 per month       |
+| [Xano](https://xano.com)                         |             | Free / $85 per month       |
 
 ## Databases
 
@@ -70,7 +72,7 @@
 | [Redis](https://redis.io)                 |             | Free / Pay as you go       |
 | [Neon](https://neon.tech)                 |             | Free / $19 per month       |
 | [Fauna](https://fauna.com)                |             | Free / $150 per month      |
-| [Gel](https://geldata.com)                |             | Free / $19.5 per month     |
+| [Gel](https://geldata.com)                |             | Free / $20 per month       |
 | [Xata](https://xata.io)                   |             | Free / $20 per month       |
 | [Surreal](https://surrealdb.com)          |             | Free / $23 per month       |
 | [Upstash](https://upstash.com)            |             | Free / Pay as you go       |
@@ -396,7 +398,7 @@
 | ---------------------------------------- | ----------- | -------------------------- |
 | [Notion](https://notion.com)             |             | Free / $12 per month       |
 | [Asana](https://asana.com)               |             | Free / $11 per month       |
-| [Jira](https://jira.atlassian.com)       |             | Free / $8.6 per month      |
+| [Jira](https://jira.atlassian.com)       |             | Free / $9 per month        |
 | [Canny](https://canny.io)                |             | Free / $99 per month       |
 | [Clickup](https://clickup.com)           |             | Free / $10 per month       |
 | [Monday](https://monday.com)             |             | Free / $12 per month       |
@@ -410,21 +412,21 @@
 | [Miro](https://miro.com)                 |             | Free / $10 per month       |
 | [Eraser](https://eraser.io)              |             | Free / $12 per month       |
 | [Obsidian](https://obsidian.md)          |             | Free / $50 per year        |
-| [Acreom](https://acreom.com)             |             | Free / $8.5 per month      |
+| [Acreom](https://acreom.com)             |             | Free / $9 per month        |
 | [Plane](https://plane.so)                |             | Free / $8 per month        |
 | [Upvoty](https://upvoty.com)             |             | Free trial / $15 per month |
 | [Frill](https://frill.co)                |             | Free trial / $25 per month |
 | [Featurebase](https://featurebase.app)   |             | Free / $59 per month       |
 | [Userjot](https://userjot.com)           |             | Free / $29 per month       |
 | [Release Notes](https://releasenotes.io) |             | Free / $39 per month       |
-| [Appflowy](https://appflowy.io)          |             | Free / $12.5 per month     |
+| [Appflowy](https://appflowy.io)          |             | Free / $13 per month       |
 | [Focalboard](https://focalboard.com)     |             | Free / Open source         |
 | [Huly](https://huly.io)                  |             | Free / $20 per month       |
 | [Nifty](https://niftypm.com)             |             | Free / $49 per month       |
 | [Height](https://height.app)             |             | Free / $19 per month       |
-| [Open Project](https://openproject.org)  |             | Free / $7.25 per month     |
+| [Open Project](https://openproject.org)  |             | Free / $8 per month        |
 | [Tegon](https://tegon.ai)                |             | Free / Open source         |
-| [Zenhub](https://zenhub.com)             |             | Free / $12.5 per month     |
+| [Zenhub](https://zenhub.com)             |             | Free / $13 per month       |
 | [Orgnise](https://orgnise.in)            |             | Free / $24 per month       |
 | [Paymo](https://paymoapp.com)            |             | Free / $10 per month       |
 | [Operately](https://operately.com)       |             | Free / Open source         |
