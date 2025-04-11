@@ -54,6 +54,7 @@
 | [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
 | [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
 | [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
+| [Cloudzilla](https://cloudzilla.ai)              |             | Free trial / $5 per month  |
 | [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
 | [Dokku](https://dokku.com)                       |             | Free / $849 lifetime       |
 | [Tembo](https://tembo.io)                        |             | Free / $33 per month       |
@@ -103,6 +104,7 @@
 | [Chroma](https://trychroma.com)           |             | Free / Open source         |
 | [Arango](https://arangodb.com)            |             | Free / Pay as you go       |
 | [Qdrant](https://qdrant.tech)             |             | Free / Pay as you go       |
+| [Singlestore](https://singlestore.com)    |             | Free / Pay as you go       |
 | [Harper](https://harpersystems.dev)       |             | Free / $3 per month        |
 | [Undb](https://undb.io)                   |             | Free / $9 per month        |
 | [Instant](https://instantdb.com)          |             | Free / $30 per month       |
