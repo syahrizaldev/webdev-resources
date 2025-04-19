@@ -113,6 +113,8 @@
 | [Hydra](https://hydra.so)                 |             | Free / Pay as you go       |
 | [Ferret](https://ferretdb.com)            |             | Free / Open source         |
 | [Slate](https://slatedb.io)               |             | Free / Open source         |
+| [RxDB](https://rxdb.info)                 |             | Free / $28 per month       |
+| [SQLite Cloud](https://sqlitecloud.io)    |             | Free / $29 per month       |
 
 ## Authentication
 
@@ -351,6 +353,8 @@
 | [React Bits](https://reactbits.dev)        |             | Free / Open source |
 | [Starwind](https://starwind.dev)           |             | Free / Open source |
 | [Flyon](https://flyonui.com)               |             | Free / Open source |
+| [Animate](https://animate-ui.com)          |             | Free / Open source |
+| [Shadcn Blocks](https://shadcnblocks.com)  |             | Free / Open source |
 | [Bladewind](https://bladewindui.com)       |             | Free / Open source |
 | [Mary](https://mary-ui.com)                |             | Free / Open source |
 | [Penguin](https://penguinui.com)           |             | Free / Open source |
