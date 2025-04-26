@@ -84,6 +84,7 @@
 | [Clickhouse](https://clickhouse.com)      |             | Free / Pay as you go       |
 | [Timescale](https://timescale.com)        |             | Free trial / Pay as you go |
 | [Airtable](https://airtable.com)          |             | Free / $20 per month       |
+| [Back4app](https://back4app.com)          |             | Free / $15 per month       |
 | [Nhost](https://nhost.io)                 |             | Free / $25 per month       |
 | [Minds](https://mindsdb.com)              |             | Free / Open source         |
 | [Duck](https://duckdb.org)                |             | Free / Open source         |
