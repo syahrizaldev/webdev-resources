@@ -204,18 +204,20 @@
 
 > List of rich text editor libraries for writing content directly into applications.
 
-| Name                                 | Description | Pricing               |
-| ------------------------------------ | ----------- | --------------------- |
-| [TinyMCE](https://tiny.cloud)        |             | Free / $67 per month  |
-| [CKEditor](https://ckeditor.com)     |             | Free / $160 per month |
-| [Quill](https://quilljs.com)         |             | Free / Open source    |
-| [Tiptap](https://tiptap.dev)         |             | Free / $149 per month |
-| [Lexical](https://lexical.dev)       |             | Free / Open source    |
-| [Blocknote](https://blocknotejs.org) |             | Free / $90 per month  |
-| [Editor](https://editorjs.io)        |             | Free / Open source    |
-| [Novel](https://novel.sh)            |             | Free / Open source    |
-| [Froala](https://froala.com)         |             | Free / $719 per year  |
-| [Slate](https://slatejs.org)         |             | Free / Open source    |
+| Name                                   | Description | Pricing               |
+| -------------------------------------- | ----------- | --------------------- |
+| [TinyMCE](https://tiny.cloud)          |             | Free / $67 per month  |
+| [CKEditor](https://ckeditor.com)       |             | Free / $160 per month |
+| [Quill](https://quilljs.com)           |             | Free / Open source    |
+| [Tiptap](https://tiptap.dev)           |             | Free / $149 per month |
+| [Lexical](https://lexical.dev)         |             | Free / Open source    |
+| [Blocknote](https://blocknotejs.org)   |             | Free / $90 per month  |
+| [Editor](https://editorjs.io)          |             | Free / Open source    |
+| [Novel](https://novel.sh)              |             | Free / Open source    |
+| [Froala](https://froala.com)           |             | Free / $719 per year  |
+| [Slate](https://slatejs.org)           |             | Free / Open source    |
+| [Prosemirror](https://prosemirror.net) |             | Free / Open source    |
+| [Milkdown](https://milkdown.dev)       |             | Free / Open source    |
 
 ## Analytics
 
