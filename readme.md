@@ -106,6 +106,7 @@
 | [Arango](https://arangodb.com)            |             | Free / Pay as you go       |
 | [Qdrant](https://qdrant.tech)             |             | Free / Pay as you go       |
 | [Singlestore](https://singlestore.com)    |             | Free / Pay as you go       |
+| [Databrick](https://databricks.com)       |             | Free / Pay as you go       |
 | [Harper](https://harpersystems.dev)       |             | Free / $3 per month        |
 | [Undb](https://undb.io)                   |             | Free / $9 per month        |
 | [Instant](https://instantdb.com)          |             | Free / $30 per month       |
@@ -426,6 +427,7 @@
 | [Plane](https://plane.so)                |             | Free / $8 per month        |
 | [Upvoty](https://upvoty.com)             |             | Free trial / $15 per month |
 | [Frill](https://frill.co)                |             | Free trial / $25 per month |
+| [Midday](https://midday.ai)              |             | Free trial / $29 per month |
 | [Featurebase](https://featurebase.app)   |             | Free / $59 per month       |
 | [Userjot](https://userjot.com)           |             | Free / $29 per month       |
 | [Release Notes](https://releasenotes.io) |             | Free / $39 per month       |
