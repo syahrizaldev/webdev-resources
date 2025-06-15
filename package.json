@@ -1,34 +1,38 @@
 {
    "name": "webdev-resources",
-   "description": "Curated list of resources for web developers and indie hackers.",
+   "description": "A curated list of resources for web developers and indie hackers.",
    "version": "1.0.0",
    "license": "MIT",
    "type": "commonjs",
+   "private": true,
    "scripts": {
       "format:check": "prettier --check readme.md",
       "format:write": "prettier --write readme.md"
    },
    "devDependencies": {
-      "prettier": "^3.4.1"
+      "prettier": "^3.5.3"
    },
    "author": {
       "name": "Syahrizal"
    },
    "keywords": [
+      "hosting",
+      "payments",
+      "databases",
+      "analytics",
       "resources",
-      "curated-list",
       "awesome-list",
       "dev-resources",
       "indie-hackers",
       "web-development",
-      "development-tools"
+      "webdev-resources"
    ],
+   "homepage": "https://github.com/syahrizaldev/webdev-resources",
    "repository": {
       "type": "git",
       "url": "https://github.com/syahrizaldev/webdev-resources"
    },
    "bugs": {
       "url": "https://github.com/syahrizaldev/webdev-resources/issues"
-   },
-   "homepage": "https://github.com/syahrizaldev/webdev-resources#readme"
+   }
 }
