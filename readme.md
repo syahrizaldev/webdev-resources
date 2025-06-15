@@ -59,6 +59,7 @@
 | [Dokku](https://dokku.com)                       |             | Free / $849 lifetime       |
 | [Tembo](https://tembo.io)                        |             | Free / $33 per month       |
 | [Xano](https://xano.com)                         |             | Free / $85 per month       |
+| [Orbiter](https://orbiter.host)                  |             | Free / $9 per month        |
 
 ## Databases
 
@@ -157,8 +158,10 @@
 | [Jasmine](https://jasmine.github.io)           |             | Free / Open source |
 | [Playwright](https://playwright.dev)           |             | Free / Open source |
 | [Webdriver](https://webdriver.io)              |             | Free / Open source |
-| [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
+| [Nightwatch](https://nightwatchjs.org)         |             | Free / Open source |
 | [Testing Library](https://testing-library.com) |             | Free / Open source |
+| [Cucumber](https://cucumber.io)                |             | Free / Open source |
+| [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
 | [Storybook](https://storybook.js.org)          |             | Free / Open source |
 
 ## Search
@@ -217,8 +220,8 @@
 | [Novel](https://novel.sh)              |             | Free / Open source    |
 | [Froala](https://froala.com)           |             | Free / $719 per year  |
 | [Slate](https://slatejs.org)           |             | Free / Open source    |
-| [Prosemirror](https://prosemirror.net) |             | Free / Open source    |
 | [Milkdown](https://milkdown.dev)       |             | Free / Open source    |
+| [Prosemirror](https://prosemirror.net) |             | Free / Open source    |
 
 ## Analytics
 
@@ -357,17 +360,14 @@
 | [React Bits](https://reactbits.dev)        |             | Free / Open source |
 | [Starwind](https://starwind.dev)           |             | Free / Open source |
 | [Flyon](https://flyonui.com)               |             | Free / Open source |
+| [Yamada](https://yamada-ui.com)            |             | Free / Open source |
 | [Animate](https://animate-ui.com)          |             | Free / Open source |
 | [Shadcn Blocks](https://shadcnblocks.com)  |             | Free / Open source |
 | [Bladewind](https://bladewindui.com)       |             | Free / Open source |
 | [Mary](https://mary-ui.com)                |             | Free / Open source |
 | [Penguin](https://penguinui.com)           |             | Free / Open source |
-| [Turbine](https://turbineui.com)           |             | Free / Open source |
 | [Wire](https://wireui.dev)                 |             | Free / Open source |
-| [Pines](https://devdojo.com/pines)         |             | Free / Open source |
 | [Tallstack](https://tallstackui.com)       |             | Free / Open source |
-| [Blade UIKit](https://blade-ui-kit.com)    |             | Free / Open source |
-| [Luvi](https://laravel-luvi.com)           |             | Free / Open source |
 
 ## Marketing Tools
 
