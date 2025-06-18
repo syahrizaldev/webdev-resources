@@ -1,33 +1,36 @@
-# Contributing Guidelines
+# Contributing and Feedback
 
-Please make sure your pull request adheres to the following guidelines:
+Thank you for your interest in the WebDev Resources. This curated list is a personal
+project by @syahrizaldev, designed for web developers and indie-hackers.
+While I am not accepting direct contributions, your feedback is greatly appreciated.
 
-- Search previous suggestions before making a new one, as yours may be duplicated.
-- Additions should be added to the bottom of the relevant category.
-- Make an individual pull request for each suggestion for easier review.
-- The pull request title should be in the following format:
-   - `add [resource name] to [resource category]`
-   - `add netlify to hosting`
-   - `add strapi to headless cms`
-- Provide a link to the submitted suggestion in the pull request comment with following format:
-   - `[resource name]: [resource link]`
-   - `netlify: https://netlify.com`
-   - `strapi: https://strapi.io`
-- The submitted suggestion should be in English.
-- Keep descriptions short and simple, but descriptive.
-   - The description should start with a capital.
-   - The description should not be a title case.
-   - The description should not repeat the item title.
-   - The description should not be a marketing tagline.
-- Make sure your editor is set to remove trailing whitespace.
-- Double-check if the suggestion is truly free, freemium, or has free tiers.
-- Thank you for your contributions and have a nice day.
+### How You Can Contribute
 
-## Updating Your Pull Request
+- **Share Your Experience:** If you have used any of the listed tools,
+  please share your experiences. Your feedback can help others make informed decisions.
 
-Making a pull request following to the standards above can be difficult.
-If the maintainers notice anything that we would like changed due to merge conflicts,
-spelling errors, or because your pull request did not match the guidelines,
-we will ask you to edit your pull request before we merge it.
-If you would like to learn how to contribute to open-source projects,
-please visit [**this link**](https://dub.sh/contributing-guide) for more information.
+- **Suggest Tools:** If you are aware of innovative resources that could benefit the community,
+  I would love to hear your recommendations. While inclusion is not guaranteed,
+  your suggestions are appreciated.
+
+- **Report Issues:** Please help maintain the accuracy of this list.
+  If you find outdated information or broken links, let me know.
+
+### Engage with Us
+
+- **Join Discussions:** Join or start a discussion in the Discussions section of this repository.
+  This is an excellent platform for sharing experiences, asking questions, or suggesting resources.
+
+- **Open Issues:** Please report any inaccuracies, errors, or outdated information by opening an issue.
+
+### Quality Commitment
+
+I regularly review and update this list based on my experiences and community feedback.
+While I value all suggestions, the final decisions remain with me to ensure quality.
+
+### Acknowledging Contributions
+
+While direct contributions are not yet accepted, I appreciate the invaluable feedback
+from the community that ensures these resources remain relevant and useful.
+
+Thank you for being part of this journey to empower web developers and indie-hackers with the best resources.
