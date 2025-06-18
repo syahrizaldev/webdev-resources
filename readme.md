@@ -1,12 +1,10 @@
-[![Web Dev Resources](./banner.png)](https://git.new/webdev-resources)
-
-## Web Dev Resources
+# WebDev Resources
 
 > [!IMPORTANT]
-> This is a curated list of essential resources for **web developers, indie hackers, and freelancers**
-> trying to build and scale their products or applications. While not exhaustive, this list is a carefully
-> selected resource that was found most useful and valuable. Prioritizing **free** and **freemium** options
-> and excluding resources without any **free tiers**.
+> This is a curated list of essential resources for web developers and indie-hackers
+> looking to build and scale their products or apps. Although it is not exhaustive,
+> this list includes carefully selected resources that were found most useful and valuable.
+> Prioritizing free and freemium options and excluding resources without any free tiers.
 
 ## Table of Contents
 
@@ -26,7 +24,7 @@
 
 ## Hosting
 
-> List of hosting and deployment platforms to help scale products and applications.
+List of hosting and deployment platforms to help scale your products and apps.
 
 | Name                                             | Description | Pricing                    |
 | ------------------------------------------------ | ----------- | -------------------------- |
@@ -63,7 +61,7 @@
 
 ## Databases
 
-> List of databases and backend management solutions to help handle data requirements.
+List of databases and backend management solutions to help handle data requirements.
 
 | Name                                      | Description | Pricing                    |
 | ----------------------------------------- | ----------- | -------------------------- |
@@ -121,7 +119,7 @@
 
 ## Authentication
 
-> List of authentication and authorization providers to help secure applications.
+List of authentication and authorization solutions to help secure your apps.
 
 | Name                                      | Description | Pricing              |
 | ----------------------------------------- | ----------- | -------------------- |
@@ -147,7 +145,7 @@
 
 ## Testing
 
-> List of testing and debugging frameworks to write and run tests for applications.
+List of testing and debugging frameworks to write and run tests for your apps.
 
 | Name                                           | Description | Pricing            |
 | ---------------------------------------------- | ----------- | ------------------ |
@@ -166,7 +164,7 @@
 
 ## Search
 
-> List of search engine services to add search functionality into applications.
+List of search engine services to add search functionality to your apps.
 
 | Name                                     | Description | Pricing              |
 | ---------------------------------------- | ----------- | -------------------- |
@@ -183,7 +181,7 @@
 
 ## Charts
 
-> List of chart and graph libraries for creating data interfaces and visualization.
+List of chart and graph libraries for creating data interfaces and visualization.
 
 | Name                                                | Description | Pricing                |
 | --------------------------------------------------- | ----------- | ---------------------- |
@@ -206,7 +204,7 @@
 
 ## Text Editors
 
-> List of rich text editor libraries for writing content directly into applications.
+List of rich text editor libraries for writing content directly into your apps.
 
 | Name                                   | Description | Pricing               |
 | -------------------------------------- | ----------- | --------------------- |
@@ -225,7 +223,7 @@
 
 ## Analytics
 
-> List of analytics and monitoring tools for analyzing the traffic and performances.
+List of analytics and monitoring tools for analyzing the traffic and performances.
 
 | Name                                             | Description | Pricing                   |
 | ------------------------------------------------ | ----------- | ------------------------- |
@@ -258,7 +256,7 @@
 
 ## Payments
 
-> List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
+List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
 
 | Name                                      | Description | Pricing                               |
 | ----------------------------------------- | ----------- | ------------------------------------- |
@@ -280,7 +278,7 @@
 
 ## Headless CMS
 
-> List of headless content management systems (CMS) to help create and handle content in applications.
+List of headless content management systems to help create and manage content in apps.
 
 | Name                                     | Description | Pricing                    |
 | ---------------------------------------- | ----------- | -------------------------- |
@@ -310,7 +308,7 @@
 
 ## UI Frameworks
 
-> List of UI frameworks, libraries, and components for building applications efficiently.
+List of user interface frameworks and libraries for building apps efficiently.
 
 | Name                                       | Description | Pricing            |
 | ------------------------------------------ | ----------- | ------------------ |
@@ -371,7 +369,7 @@
 
 ## Marketing Tools
 
-> List of marketing tools for enhancing and promoting products to help grow audiences.
+List of marketing tools for enhancing and promoting products to help grow audiences.
 
 | Name                                  | Description | Pricing                    |
 | ------------------------------------- | ----------- | -------------------------- |
@@ -403,7 +401,7 @@
 
 ## Project Management
 
-> List of project management tools to help organize, track, and manage projects effectively.
+List of project management tools to help organize, track, and manage projects effectively.
 
 | Name                                     | Description | Pricing                    |
 | ---------------------------------------- | ----------- | -------------------------- |
@@ -446,7 +444,7 @@
 ## Contributing
 
 If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**Contributing Guidelines**](./contributing.md) for more information.
+feel free to check the [**CONTRIBUTING**](./contributing.md) guidelines for more information.
 
 ## Feedback
 
@@ -458,5 +456,5 @@ If you found this list helpful, please consider giving it a **star** and **watch
 
 ## License
 
-This project is licensed under the terms of the [**MIT License**](./license).
+This project is licensed under the terms of the [**MIT LICENSE**](./license).
 You can use, modify, and distribute this project under the license.
