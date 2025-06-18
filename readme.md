@@ -443,16 +443,18 @@ List of project management tools to help organize, track, and manage projects ef
 
 ## Contributing
 
-If you have discovered any useful and valuable resources or have suggestions for others,
-feel free to check the [**CONTRIBUTING**](./contributing.md) guidelines for more information.
+At this time, I am not accepting contributions to this list.
+However, I welcome hearing any suggestions for new resources that could benefit
+web developers and indie-hackers. Feel free to check the
+[**CONTRIBUTING**](./contributing.md) file for more information.
 
 ## Feedback
 
-This project is actively under improvement and development.
+This project is currently under improvement and development.
 Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
-if you have any suggestions, feedback, questions, or future requests.
-If you found this list helpful, please consider giving it a **star** and **watching** the repository.
+if you have any suggestions, feedback, or questions. If you found this list helpful,
+please consider giving it a **star** and **watching** the repository.
 
 ## License
 
