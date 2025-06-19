@@ -454,9 +454,9 @@ This project is currently under improvement and development.
 Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any suggestions, feedback, or questions. If you found this list helpful,
-please consider giving it a **star** and **watching** the repository.
+please consider giving it a star and watching the repository.
 
 ## License
 
-This project is licensed under the terms of the [**MIT LICENSE**](./license).
+This project is licensed under the terms of the [**MIT License**](./license).
 You can use, modify, and distribute this project under the license.
