@@ -26,38 +26,37 @@
 
 List of hosting and deployment platforms to help scale your products and apps.
 
-| Name                                             | Description | Pricing                    |
-| ------------------------------------------------ | ----------- | -------------------------- |
-| [Vercel](https://vercel.com)                     |             | Free / $20 per month       |
-| [Netlify](https://netlify.com)                   |             | Free / $19 per month       |
-| [Render](https://render.com)                     |             | Free / $19 per month       |
-| [Amplify](https://aws.amazon.com/amplify)        |             | Free / $15 per month       |
-| [Digital Ocean](https://digitalocean.com)        |             | Free / $5 per month        |
-| [GitHub Pages](https://pages.github.com)         |             | Free for GitHub users      |
-| [Cloudflare Pages](https://pages.cloudflare.com) |             | Free / $20 per month       |
-| [Railway](https://railway.com)                   |             | Free trial / $5 per month  |
-| [Platform](https://platform.sh)                  |             | Free trial / $13 per month |
-| [Northflank](https://northflank.com)             |             | Free / Pay as you go       |
-| [Koyeb](https://koyeb.com)                       |             | Free / $29 per month       |
-| [Flyio](https://fly.io)                          |             | Free / Pay as you go       |
-| [Elestio](https://elest.io)                      |             | Free trial / $10 per month |
-| [Sevalla](https://sevalla.com)                   |             | Free / $5 per month        |
-| [Surge](https://surge.sh)                        |             | Free / $30 per month       |
-| [Flight Control](https://flightcontrol.dev)      |             | Free / $49 per month       |
-| [Stormkit](https://stormkit.io)                  |             | Free trial / $20 per month |
-| [Cleavr](https://cleavr.io)                      |             | Free trial / $8 per month  |
-| [Adaptable](https://adaptable.io)                |             | Free trial / $3 per month  |
-| [Alwaysdata](https://alwaysdata.com)             |             | Free / $8 per month        |
-| [Dokploy](https://dokploy.com)                   |             | Free / $5 per month        |
-| [Coolify](https://coolify.io)                    |             | Free trial / $5 per month  |
-| [Cloudways](https://cloudways.com)               |             | Free trial / $11 per month |
-| [Pantheon](https://pantheon.io)                  |             | Free trial / $55 per month |
-| [Cloudzilla](https://cloudzilla.ai)              |             | Free trial / $5 per month  |
-| [Fleek](https://fleek.xyz)                       |             | Free / $20 per month       |
-| [Dokku](https://dokku.com)                       |             | Free / $849 lifetime       |
-| [Tembo](https://tembo.io)                        |             | Free / $33 per month       |
-| [Xano](https://xano.com)                         |             | Free / $85 per month       |
-| [Orbiter](https://orbiter.host)                  |             | Free / $9 per month        |
+| Name                                             | Description                                                                                                 | Pricing                    |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [Vercel](https://vercel.com)                     | Cloud platform for static sites and serverless functions, optimized for frontend frameworks.                | Free / $20 per month       |
+| [Netlify](https://netlify.com)                   | Platform for deploying static sites and web apps with continuous integration and serverless support.        | Free / $19 per month       |
+| [Render](https://render.com)                     | Cloud hosting for web services, static sites, databases, and background workers with automated deployments. | Free / $19 per month       |
+| [Amplify](https://aws.amazon.com/amplify)        | AWS service for building, deploying, and hosting fullstack web and mobile applications.                     | Free / $15 per month       |
+| [Digital Ocean](https://digitalocean.com)        | Cloud infrastructure provider offering scalable compute, storage, and networking solutions.                 | Free / $5 per month        |
+| [GitHub Pages](https://pages.github.com)         |                                                                                                             | Free for GitHub users      |
+| [Cloudflare Pages](https://pages.cloudflare.com) |                                                                                                             | Free / $20 per month       |
+| [Railway](https://railway.com)                   |                                                                                                             | Free trial / $5 per month  |
+| [Platform](https://platform.sh)                  |                                                                                                             | Free trial / $13 per month |
+| [Northflank](https://northflank.com)             |                                                                                                             | Free / Pay as you go       |
+| [Koyeb](https://koyeb.com)                       |                                                                                                             | Free / $29 per month       |
+| [Flyio](https://fly.io)                          |                                                                                                             | Free / Pay as you go       |
+| [Elestio](https://elest.io)                      |                                                                                                             | Free trial / $10 per month |
+| [Sevalla](https://sevalla.com)                   |                                                                                                             | Free / $5 per month        |
+| [Surge](https://surge.sh)                        |                                                                                                             | Free / $30 per month       |
+| [Flight Control](https://flightcontrol.dev)      |                                                                                                             | Free / $49 per month       |
+| [Stormkit](https://stormkit.io)                  |                                                                                                             | Free trial / $20 per month |
+| [Cleavr](https://cleavr.io)                      |                                                                                                             | Free trial / $8 per month  |
+| [Adaptable](https://adaptable.io)                |                                                                                                             | Free trial / $3 per month  |
+| [Alwaysdata](https://alwaysdata.com)             |                                                                                                             | Free / $8 per month        |
+| [Dokploy](https://dokploy.com)                   |                                                                                                             | Free / $5 per month        |
+| [Coolify](https://coolify.io)                    |                                                                                                             | Free trial / $5 per month  |
+| [Cloudways](https://cloudways.com)               |                                                                                                             | Free trial / $11 per month |
+| [Cloudzilla](https://cloudzilla.ai)              |                                                                                                             | Free trial / $5 per month  |
+| [Fleek](https://fleek.xyz)                       |                                                                                                             | Free / $20 per month       |
+| [Dokku](https://dokku.com)                       |                                                                                                             | Free / $849 lifetime       |
+| [Tembo](https://tembo.io)                        |                                                                                                             | Free / $33 per month       |
+| [Xano](https://xano.com)                         |                                                                                                             | Free / $85 per month       |
+| [Orbiter](https://orbiter.host)                  |                                                                                                             | Free / $9 per month        |
 
 ## Databases
 
