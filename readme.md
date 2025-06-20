@@ -24,7 +24,7 @@
 
 ## Hosting
 
-List of hosting and deployment platforms to help scale your products and apps.
+List of hosting and deployment providers to help scale your products and apps.
 
 | Name                                             | Description                                                                                                 | Pricing                    |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -33,16 +33,16 @@ List of hosting and deployment platforms to help scale your products and apps.
 | [Render](https://render.com)                     | Cloud hosting for web services, static sites, databases, and background workers with automated deployments. | Free / $19 per month       |
 | [Amplify](https://aws.amazon.com/amplify)        | AWS service for building, deploying, and hosting fullstack web and mobile applications.                     | Free / $15 per month       |
 | [Digital Ocean](https://digitalocean.com)        | Cloud infrastructure provider offering scalable compute, storage, and networking solutions.                 | Free / $5 per month        |
-| [GitHub Pages](https://pages.github.com)         |                                                                                                             | Free for GitHub users      |
-| [Cloudflare Pages](https://pages.cloudflare.com) |                                                                                                             | Free / $20 per month       |
-| [Railway](https://railway.com)                   |                                                                                                             | Free trial / $5 per month  |
-| [Platform](https://platform.sh)                  |                                                                                                             | Free trial / $13 per month |
-| [Northflank](https://northflank.com)             |                                                                                                             | Free / Pay as you go       |
-| [Koyeb](https://koyeb.com)                       |                                                                                                             | Free / $29 per month       |
-| [Flyio](https://fly.io)                          |                                                                                                             | Free / Pay as you go       |
-| [Elestio](https://elest.io)                      |                                                                                                             | Free trial / $10 per month |
-| [Sevalla](https://sevalla.com)                   |                                                                                                             | Free / $5 per month        |
-| [Surge](https://surge.sh)                        |                                                                                                             | Free / $30 per month       |
+| [Railway](https://railway.com)                   | Platform for deploying applications, databases, and services with simple infrastructure management.         | Free trial / $5 per month  |
+| [Cloudflare Pages](https://pages.cloudflare.com) | JAMstack platform for deploying static sites with global CDN and Git integration.                           | Free / $20 per month       |
+| [GitHub Pages](https://pages.github.com)         | Free static site hosting directly from GitHub repositories, ideal for project pages and documentation.      | Free for GitHub users      |
+| [Platform](https://platform.sh)                  | Cloud hosting for web applications with automated deployments and environment management.                   | Free trial / $13 per month |
+| [Northflank](https://northflank.com)             | Platform for building, deploying, and managing applications, databases, and services in the cloud.          | Free / Pay as you go       |
+| [Koyeb](https://koyeb.com)                       | Serverless platform for deploying web apps, APIs, and background workers globally.                          | Free / $29 per month       |
+| [Flyio](https://fly.io)                          | Platform for running fullstack apps and databases close to users worldwide.                                 | Free / Pay as you go       |
+| [Sevalla](https://sevalla.com)                   | Cloud platform for deploying and managing web applications and APIs.                                        | Free / $5 per month        |
+| [Elestio](https://elest.io)                      | Managed hosting for open-source software and databases with automated updates and backups.                  | Free trial / $10 per month |
+| [Surge](https://surge.sh)                        | Simple static web publishing for frontend developers, with custom domain support.                           | Free / $30 per month       |
 | [Flight Control](https://flightcontrol.dev)      |                                                                                                             | Free / $49 per month       |
 | [Stormkit](https://stormkit.io)                  |                                                                                                             | Free trial / $20 per month |
 | [Cleavr](https://cleavr.io)                      |                                                                                                             | Free trial / $8 per month  |
