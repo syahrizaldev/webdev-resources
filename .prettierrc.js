@@ -1,8 +1,10 @@
 module.exports = {
    semi: true,
-   singleQuote: true,
-   trailingComma: 'all',
    tabWidth: 3,
+   useTabs: false,
+   singleQuote: true,
+   endOfLine: 'crlf',
+   trailingComma: 'all',
    overrides: [
       {
          files: '*.md',
