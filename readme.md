@@ -2,8 +2,8 @@
    <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
       <img src="./banner.png" alt="github banner image">
    </a>
-   <h1 align="center">WebDev Resources</h1>
-   <p align="center">
+   <br><br>
+   <p align="left">
       This is a curated list of essential resources for web developers and indie-hackers
       looking to build and scale their products or apps. Although it is not exhaustive,
       this list includes carefully selected resources that were found most useful and valuable.
