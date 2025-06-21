@@ -1,8 +1,9 @@
 # Contributing and Feedback
 
-Thank you for your interest in the WebDev Resources. This curated list is a personal
-project by @syahrizaldev, designed for web developers and indie-hackers.
-While I am not accepting direct contributions, your feedback is greatly appreciated.
+> [!NOTE]
+> Thank you for being so interested in the WebDev Resources.
+> This curated list is a personal project designed for web developers and indie-hackers.
+> While I am not accepting direct contributions, your feedback are greatly appreciated.
 
 ### How You Can Contribute
 
@@ -30,7 +31,6 @@ While I value all suggestions, the final decisions remain with me to ensure qual
 
 ### Acknowledging Contributions
 
-While direct contributions are not yet accepted, I appreciate the invaluable feedback
-from the community that ensures these resources remain relevant and useful.
-
-Thank you for being part of this journey to empower web developers and indie-hackers with the best resources.
+While direct contributions are not yet accepted, I appreciate the invaluable feedback from
+the community that ensures these resources remain relevant and useful. Thank you for being
+part of this journey to empower web developers and indie-hackers with the best resources.

@@ -1,7 +1,7 @@
 <section align="center">
    <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
       <img src="./banner.png" alt="banner image">
-   </a>
+   </a><br><br>
 </section>
 
 > [!NOTE]
