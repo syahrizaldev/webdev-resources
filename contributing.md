@@ -3,7 +3,7 @@
 > [!NOTE]
 > Thank you for being so interested in the WebDev Resources.
 > This curated list is a personal project designed for web developers and indie-hackers.
-> While I am not accepting direct contributions, your feedback are greatly appreciated.
+> While I am not accepting direct contributions, your suggestions and feedback are greatly appreciated.
 
 ### How You Can Contribute
 

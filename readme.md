@@ -1,13 +1,14 @@
-<section align="center">
+<div align="center">
    <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
-      <img src="./banner.png" alt="banner image">
-   </a><br><br>
-</section>
+      <img src="./banner.png" alt="Banner image">
+   </a>
+</div>
+<br>
 
 > [!NOTE]
-> This is a curated list of essential resources for web developers and indie-hackers
-> looking to build and scale their products or apps. Although it is not exhaustive,
-> this list includes carefully selected resources that were found most useful and valuable.
+> This is a curated list of essential resources for web developers and indie-hackers aimed
+> at building and scaling their products or apps. While not exhaustive, this list includes
+> carefully selected resources that are considered the most useful and valuable.
 > Prioritizing free and freemium options and excluding resources without any free tiers.
 
 ## Table of Contents
@@ -35,16 +36,16 @@ List of hosting and deployment providers to help scale your products and apps.
 | [Vercel](https://vercel.com)                     | Cloud platform for static sites and serverless functions, optimized for frontend frameworks.                | Free / $20 per month       |
 | [Netlify](https://netlify.com)                   | Platform for deploying static sites and web apps with continuous integration and serverless support.        | Free / $19 per month       |
 | [Render](https://render.com)                     | Cloud hosting for web services, static sites, databases, and background workers with automated deployments. | Free / $19 per month       |
-| [Amplify](https://aws.amazon.com/amplify)        | AWS service for building, deploying, and hosting fullstack web and mobile applications.                     | Free / $15 per month       |
+| [Amplify](https://aws.amazon.com/amplify)        | AWS service for building, deploying, and hosting fullstack web and mobile apps.                             | Free / $15 per month       |
 | [Digital Ocean](https://digitalocean.com)        | Cloud infrastructure provider offering scalable compute, storage, and networking solutions.                 | Free / $5 per month        |
-| [Railway](https://railway.com)                   | Platform for deploying applications, databases, and services with simple infrastructure management.         | Free trial / $5 per month  |
+| [Railway](https://railway.com)                   | Platform for deploying apps, databases, and services with simple infrastructure management.                 | Free trial / $5 per month  |
 | [Cloudflare Pages](https://pages.cloudflare.com) | JAMstack platform for deploying static sites with global CDN and Git integration.                           | Free / $20 per month       |
 | [GitHub Pages](https://pages.github.com)         | Free static site hosting directly from GitHub repositories, ideal for project pages and documentation.      | Free for GitHub users      |
-| [Platform](https://platform.sh)                  | Cloud hosting for web applications with automated deployments and environment management.                   | Free trial / $13 per month |
-| [Northflank](https://northflank.com)             | Platform for building, deploying, and managing applications, databases, and services in the cloud.          | Free / Pay as you go       |
+| [Platform](https://platform.sh)                  | Cloud hosting for web apps with automated deployments and environment management.                           | Free trial / $13 per month |
+| [Northflank](https://northflank.com)             | Platform for building, deploying, and managing apps, databases, and services in the cloud.                  | Free / Pay as you go       |
 | [Koyeb](https://koyeb.com)                       | Serverless platform for deploying web apps, APIs, and background workers globally.                          | Free / $29 per month       |
 | [Flyio](https://fly.io)                          | Platform for running fullstack apps and databases close to users worldwide.                                 | Free / Pay as you go       |
-| [Sevalla](https://sevalla.com)                   | Cloud platform for deploying and managing web applications and APIs.                                        | Free / $5 per month        |
+| [Sevalla](https://sevalla.com)                   | Cloud platform for deploying, scaling, and managing web apps and APIs.                                      | Free / $5 per month        |
 | [Elestio](https://elest.io)                      | Managed hosting for open-source software and databases with automated updates and backups.                  | Free trial / $10 per month |
 | [Surge](https://surge.sh)                        | Simple static web publishing for frontend developers, with custom domain support.                           | Free / $30 per month       |
 | [Flight Control](https://flightcontrol.dev)      |                                                                                                             | Free / $49 per month       |
@@ -447,10 +448,10 @@ List of project management tools to help organize, track, and manage projects ef
 ## Contributing
 
 > [!IMPORTANT]
-> At this time, I am not accepting contributions to this list.
-> However, I welcome hearing any suggestions for new resources that
-> could benefit web developers and indie-hackers. Feel free to check
-> the [CONTRIBUTING](./contributing.md) file for more information.
+> I am not currently accepting contributions to this list.
+> However, I welcome hearing any suggestions and feedback for new resources
+> that could be beneficial for web developers and indie-hackers.
+> Feel free to check the [CONTRIBUTING](./contributing.md) file for more information.
 
 ## Feedback
 
