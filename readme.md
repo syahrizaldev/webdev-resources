@@ -1,6 +1,10 @@
-# WebDev Resources
+<section align="center">
+   <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
+      <img src="./banner.png" alt="banner image">
+   </a><br><br>
+</section>
 
-> [!IMPORTANT]
+> [!NOTE]
 > This is a curated list of essential resources for web developers and indie-hackers
 > looking to build and scale their products or apps. Although it is not exhaustive,
 > this list includes carefully selected resources that were found most useful and valuable.
@@ -442,14 +446,15 @@ List of project management tools to help organize, track, and manage projects ef
 
 ## Contributing
 
-At this time, I am not accepting contributions to this list.
-However, I welcome hearing any suggestions for new resources that could benefit
-web developers and indie-hackers. Feel free to check the
-[**CONTRIBUTING**](./contributing.md) file for more information.
+> [!IMPORTANT]
+> At this time, I am not accepting contributions to this list.
+> However, I welcome hearing any suggestions for new resources that
+> could benefit web developers and indie-hackers. Feel free to check
+> the [CONTRIBUTING](./contributing.md) file for more information.
 
 ## Feedback
 
-This project is currently under improvement and development.
+This project is currently under improvement.
 Please open an [**Issue**](https://github.com/syahrizaldev/webdev-resources/issues)
 or start a [**Discussion**](https://github.com/syahrizaldev/webdev-resources/discussions)
 if you have any suggestions, feedback, or questions. If you found this list helpful,
@@ -457,5 +462,5 @@ please consider giving it a star and watching the repository.
 
 ## License
 
-This project is licensed under the terms of the [**MIT License**](./license).
+This project is licensed under the terms of the [MIT License](./license).
 You can use, modify, and distribute this project under the license.
