@@ -1,13 +1,14 @@
-<section align="center">
+<div align="center">
    <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
-      <img src="./banner.png" alt="banner image">
-   </a><br><br>
-</section>
+      <img src="./banner.png" alt="Banner image">
+   </a>
+</div>
+<br>
 
 > [!NOTE]
-> This is a curated list of essential resources for web developers and indie-hackers
-> looking to build and scale their products or apps. Although it is not exhaustive,
-> this list includes carefully selected resources that were found most useful and valuable.
+> This is a curated list of essential resources for web developers and indie-hackers aimed
+> at building and scaling their products or apps. Although it is not exhaustive, this list
+> includes carefully selected resources that are considered the most useful and valuable.
 > Prioritizing free and freemium options and excluding resources without any free tiers.
 
 ## Table of Contents
@@ -447,10 +448,10 @@ List of project management tools to help organize, track, and manage projects ef
 ## Contributing
 
 > [!IMPORTANT]
-> At this time, I am not accepting contributions to this list.
-> However, I welcome hearing any suggestions for new resources that
-> could benefit web developers and indie-hackers. Feel free to check
-> the [CONTRIBUTING](./contributing.md) file for more information.
+> I am not currently accepting contributions to this list.
+> However, I welcome hearing any suggestions and feedback for new resources
+> that could be beneficial for web developers and indie-hackers.
+> Feel free to check the [CONTRIBUTING](./contributing.md) file for more information.
 
 ## Feedback
 
