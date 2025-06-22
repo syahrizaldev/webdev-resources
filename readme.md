@@ -448,7 +448,7 @@ List of project management tools to help organize, track, and manage projects ef
 ## Contributing
 
 > [!IMPORTANT]
-> I am not currently accepting contributions to this list.
+> I am not currently accepting direct contributions to this list.
 > However, I welcome hearing any suggestions and feedback for new resources
 > that could be beneficial for web developers and indie-hackers.
 > Feel free to check the [CONTRIBUTING](./contributing.md) file for more information.
