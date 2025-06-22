@@ -1,9 +1,10 @@
 # Contributing and Feedback
 
 > [!NOTE]
-> Thank you for being so interested in the WebDev Resources.
-> This curated list is a personal project designed for web developers and indie-hackers.
-> While I am not accepting direct contributions, your suggestions and feedback are greatly appreciated.
+> Thank you for being interested in the WebDev Resources.
+> This curated list is a personal project aimed at web developers and indie-hackers.
+> While I do not accept direct contributions at this time, your suggestions and feedback
+> are greatly appreciated.
 
 ### How You Can Contribute
 
@@ -19,18 +20,21 @@
 
 ### Engage with Us
 
-- **Join Discussions:** Join or start a discussion in the Discussions section of this repository.
-  This is an excellent platform for sharing experiences, asking questions, or suggesting resources.
+- **Join Discussions:** Join or start a discussion in the
+  [GitHub Discussion](https://github.com/syahrizaldev/webdev-resources/discussions)
+  section of this repository. This is an excellent platform for sharing experiences,
+  asking questions, or suggesting resources.
 
-- **Open Issues:** Please report any inaccuracies, errors, or outdated information by opening an issue.
+- **Open Issues:** Please report any inaccuracies, errors, or outdated information
+  by opening an [issue](https://github.com/syahrizaldev/webdev-resources/issues).
 
-### Quality Commitment
+### Update Process
 
-I regularly review and update this list based on my experiences and community feedback.
+I regularly review and update this list based on community feedback and experiences.
 While I value all suggestions, the final decisions remain with me to ensure quality.
 
 ### Acknowledging Contributions
 
-While direct contributions are not yet accepted, I appreciate the invaluable feedback from
+While direct contributions are not accepted, I appreciate the invaluable feedback from
 the community that ensures these resources remain relevant and useful. Thank you for being
-part of this journey to empower web developers and indie-hackers with the best resources.
+part of this journey to empower web developers and indie-hackers with this resources.
