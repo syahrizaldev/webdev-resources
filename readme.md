@@ -48,20 +48,20 @@ List of hosting and deployment providers to help scale your products and apps.
 | [Sevalla](https://sevalla.com)                   | Cloud platform for deploying, scaling, and managing web apps and APIs.                                      | Free / $5 per month        |
 | [Elestio](https://elest.io)                      | Managed hosting for open-source software and databases with automated updates and backups.                  | Free trial / $10 per month |
 | [Surge](https://surge.sh)                        | Simple static web publishing for frontend developers, with custom domain support.                           | Free / $30 per month       |
-| [Flight Control](https://flightcontrol.dev)      |                                                                                                             | Free / $49 per month       |
-| [Stormkit](https://stormkit.io)                  |                                                                                                             | Free trial / $20 per month |
-| [Cleavr](https://cleavr.io)                      |                                                                                                             | Free trial / $8 per month  |
-| [Adaptable](https://adaptable.io)                |                                                                                                             | Free trial / $3 per month  |
-| [Alwaysdata](https://alwaysdata.com)             |                                                                                                             | Free / $8 per month        |
-| [Dokploy](https://dokploy.com)                   |                                                                                                             | Free / $5 per month        |
-| [Coolify](https://coolify.io)                    |                                                                                                             | Free trial / $5 per month  |
-| [Cloudways](https://cloudways.com)               |                                                                                                             | Free trial / $11 per month |
-| [Cloudzilla](https://cloudzilla.ai)              |                                                                                                             | Free trial / $5 per month  |
-| [Fleek](https://fleek.xyz)                       |                                                                                                             | Free / $20 per month       |
-| [Dokku](https://dokku.com)                       |                                                                                                             | Free / $849 lifetime       |
-| [Tembo](https://tembo.io)                        |                                                                                                             | Free / $33 per month       |
-| [Xano](https://xano.com)                         |                                                                                                             | Free / $85 per month       |
-| [Orbiter](https://orbiter.host)                  |                                                                                                             | Free / $9 per month        |
+| [Flight Control](https://flightcontrol.dev)      | Infrastructure platform for deploying fullstack apps on AWS with a developer-friendly interface.            | Free / $49 per month       |
+| [Stormkit](https://stormkit.io)                  | Hosting and deployment platform for JavaScript apps with continuous integration.                            | Free trial / $20 per month |
+| [Cleavr](https://cleavr.io)                      | Server management and deployment platform for web apps and APIs.                                            | Free trial / $8 per month  |
+| [Adaptable](https://adaptable.io)                | Platform for deploying and managing PostgreSQL databases in the cloud.                                      | Free trial / $3 per month  |
+| [Alwaysdata](https://alwaysdata.com)             | Web hosting provider supporting multiple programming languages and databases.                               | Free / $8 per month        |
+| [Dokploy](https://dokploy.com)                   | Platform for deploying and managing web apps with automated workflows.                                      | Free / $5 per month        |
+| [Coolify](https://coolify.io)                    | Open-source platform for self-hosting apps, databases, and services.                                        | Free trial / $5 per month  |
+| [Cloudways](https://cloudways.com)               | Managed cloud hosting for web apps with support for multiple cloud providers.                               | Free trial / $11 per month |
+| [Cloudzilla](https://cloudzilla.ai)              | Cloud hosting platform for deploying AI, web, and backend apps.                                             | Free trial / $5 per month  |
+| [Fleek](https://fleek.xyz)                       | Platform for building, hosting, and deploying sites and apps on decentralized web protocols.                | Free / $20 per month       |
+| [Dokku](https://dokku.com)                       | Open-source platform for self-hosting and managing apps using Docker.                                       | Free / $849 lifetime       |
+| [Tembo](https://tembo.io)                        | Managed PostgreSQL platform for deploying and scaling databases.                                            | Free / $33 per month       |
+| [Xano](https://xano.com)                         | Backend-as-a-service platform for building APIs and managing databases without code.                        | Free / $85 per month       |
+| [Orbiter](https://orbiter.host)                  | Managed hosting platform for deploying and scaling web apps with automated workflows and monitoring.        | Free / $9 per month        |
 
 ## Databases
 
