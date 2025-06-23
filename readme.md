@@ -170,41 +170,41 @@ List of testing and debugging frameworks to write and run tests for your apps.
 
 List of search engine services to add search functionality to your apps.
 
-| Name                                     | Description | Pricing              |
-| ---------------------------------------- | ----------- | -------------------- |
-| [Algolia](https://algolia.com)           |             | Free / Pay as you go |
-| [Elastic](https://elastic.co)            |             | Free / $95 per month |
-| [Typesense](https://typesense.org)       |             | Free / Open source   |
-| [Meilisearch](https://meilisearch.com)   |             | Free / $30 per month |
-| [Opensearch](https://opensearch.org)     |             | Free / Open source   |
-| [Orama](https://oramasearch.com)         |             | Free / $49 per month |
-| [Manticore](https://manticoresearch.com) |             | Free / Open source   |
-| [Quickwit](https://quickwit.io)          |             | Free / Open source   |
-| [Pagefind](https://pagefind.app)         |             | Free / Open source   |
-| [Sphinx](https://sphinxsearch.com)       |             | Free / Open source   |
+| Name                                     | Description                                                                                                            | Pricing              |
+| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [Algolia](https://algolia.com)           | Hosted search API that provides fast, relevant search and discovery for websites and apps.                             | Free / Pay as you go |
+| [Elastic](https://elastic.co)            | Open-source search and analytics engine, commonly used for full-text search, logging, and data analysis.               | Free / $95 per month |
+| [Typesense](https://typesense.org)       | Open-source typo-tolerant search engine optimized for instant, relevant search results.                                | Free / Open source   |
+| [Meilisearch](https://meilisearch.com)   | Open-source and easy-to-use search engine that delivers fast and relevant search results.                              | Free / $30 per month |
+| [Opensearch](https://opensearch.org)     | Open-source search and analytics suite derived from Elasticsearch, supporting full-text search and data visualization. | Free / Open source   |
+| [Orama](https://oramasearch.com)         | Lightweight in-memory search engine designed for fast and simple full-text search in web apps.                         | Free / $49 per month |
+| [Manticore](https://manticoresearch.com) | Open-source search engine for full-text search, filtering, and analytics, compatible with SQL and JSON.                | Free / Open source   |
+| [Quickwit](https://quickwit.io)          | Cloud-native search engine optimized for large-scale, distributed log and text data.                                   | Free / Open source   |
+| [Pagefind](https://pagefind.app)         | Static site search library that adds fast, client-side search to static websites.                                      | Free / Open source   |
+| [Sphinx](https://sphinxsearch.com)       | Open-source full-text search server designed for performance, relevance, and integration with SQL databases.           | Free / Open source   |
 
 ## Charts
 
 List of chart and graph libraries for creating data interfaces and visualization.
 
-| Name                                                | Description | Pricing                |
-| --------------------------------------------------- | ----------- | ---------------------- |
-| [D3](https://d3js.org)                              |             | Free / Open source     |
-| [Chart](https://chartjs.org)                        |             | Free / Open source     |
-| [Apexcharts](https://apexcharts.com)                |             | Free / Open source     |
-| [Highcharts](https://highcharts.com)                |             | Free / $168 per year   |
-| [Amcharts](https://amcharts.com)                    |             | Free / $180 per year   |
-| [Echarts](https://echarts.apache.org)               |             | Free / Open source     |
-| [Superset](https://superset.apache.org)             |             | Free / Open source     |
-| [Anychart](https://anychart.com)                    |             | Free / $49 per license |
-| [Zingchart](https://zingchart.com)                  |             | Free / $99 per year    |
-| [Google Chart](https://developers.google.com/chart) |             | Free / Open source     |
-| [Mermaid](https://mermaid.js.org)                   |             | Free / Open source     |
-| [Chartist](https://chartist.dev)                    |             | Free / Open source     |
-| [Unovis](https://unovis.dev)                        |             | Free / Open source     |
-| [Pixi](https://pixijs.com)                          |             | Free / Open source     |
-| [Plotly](https://plotly.com/javascript)             |             | Free / Open source     |
-| [Rosen Charts](https://rosencharts.com)             |             | Free / Open source     |
+| Name                                                | Description                                                                                      | Pricing                |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------- |
+| [D3](https://d3js.org)                              | JavaScript library for creating interactive and dynamic data visualizations using web standards. | Free / Open source     |
+| [Chart](https://chartjs.org)                        | Simple and flexible JavaScript charting library for designers and developers.                    | Free / Open source     |
+| [Apexcharts](https://apexcharts.com)                | Modern JavaScript charting library for building interactive and responsive visualizations.       | Free / Open source     |
+| [Highcharts](https://highcharts.com)                | Charting library for creating interactive charts for web apps with a wide range of chart types.  | Free / $168 per year   |
+| [Amcharts](https://amcharts.com)                    | JavaScript library for building interactive charts and maps for web apps.                        | Free / $180 per year   |
+| [Echarts](https://echarts.apache.org)               | Open-source visualization library for creating complex and interactive charts in JavaScript.     | Free / Open source     |
+| [Superset](https://superset.apache.org)             | Open-source data exploration and visualization platform for creating dashboards and charts.      | Free / Open source     |
+| [Anychart](https://anychart.com)                    | Flexible JavaScript charting library for building variety of interactive charts and dashboards.  | Free / $49 per license |
+| [Zingchart](https://zingchart.com)                  | JavaScript charting library for building interactive and customizable charts.                    | Free / $99 per year    |
+| [Google Chart](https://developers.google.com/chart) | Free tool for creating a variety of interactive charts and data tools for web apps.              | Free / Open source     |
+| [Mermaid](https://mermaid.js.org)                   | JavaScript-based diagramming and charting tool that uses markdown-inspired syntax.               | Free / Open source     |
+| [Chartist](https://chartist.dev)                    | Simple and responsive charting library for creating SVG-based charts in JavaScript.              | Free / Open source     |
+| [Unovis](https://unovis.dev)                        | Modular data visualization framework for building interactive charts and visualizations.         | Free / Open source     |
+| [Pixi](https://pixijs.com)                          | Fast 2D rendering engine for creating interactive graphics and visualizations using WebGL.       | Free / Open source     |
+| [Plotly](https://plotly.com/javascript)             | Graphing library for creating interactive and publication-quality charts in JavaScript.          | Free / Open source     |
+| [Rosen Charts](https://rosencharts.com)             | JavaScript charting library for building interactive and customizable charts and dashboards.     | Free / Open source     |
 
 ## Text Editors
 
