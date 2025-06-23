@@ -1,9 +1,10 @@
 <div align="center">
    <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
-      <img src="./banner.png" alt="Banner image">
+      <img src="./banner.png" alt="Github banner image">
    </a>
 </div>
-<br>
+
+## WebDev Resources
 
 > [!NOTE]
 > This is a curated list of essential resources for web developers and indie-hackers aimed
@@ -29,7 +30,7 @@
 
 ## Hosting
 
-List of hosting and deployment providers to help scale your products and apps.
+> List of hosting and deployment providers to help scale your products and apps.
 
 | Name                                             | Description                                                                                                 | Pricing                    |
 | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -65,7 +66,7 @@ List of hosting and deployment providers to help scale your products and apps.
 
 ## Databases
 
-List of databases and backend management solutions to help handle data requirements.
+> List of databases and backend management solutions to help handle data requirements.
 
 | Name                                      | Description                                                                                              | Pricing                    |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
@@ -123,7 +124,7 @@ List of databases and backend management solutions to help handle data requireme
 
 ## Authentication
 
-List of authentication and authorization solutions to help secure your apps.
+> List of authentication and authorization solutions to help secure your apps.
 
 | Name                                      | Description                                                                                | Pricing              |
 | ----------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------- |
@@ -149,7 +150,7 @@ List of authentication and authorization solutions to help secure your apps.
 
 ## Testing
 
-List of testing and debugging frameworks to write and run tests for your apps.
+> List of testing and debugging frameworks to write and run tests for your apps.
 
 | Name                                           | Description                                                                                             | Pricing            |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ |
@@ -168,7 +169,7 @@ List of testing and debugging frameworks to write and run tests for your apps.
 
 ## Search
 
-List of search engine services to add search functionality to your apps.
+> List of search engine services to add search functionality to your apps.
 
 | Name                                     | Description                                                                                                            | Pricing              |
 | ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------- |
@@ -185,7 +186,7 @@ List of search engine services to add search functionality to your apps.
 
 ## Charts
 
-List of chart and graph libraries for creating data interfaces and visualization.
+> List of chart and graph libraries for creating data interfaces and visualization.
 
 | Name                                                | Description                                                                                      | Pricing                |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------- |
@@ -208,7 +209,7 @@ List of chart and graph libraries for creating data interfaces and visualization
 
 ## Text Editors
 
-List of rich text editor libraries for writing content directly into your apps.
+> List of rich text editor libraries for writing content directly into your apps.
 
 | Name                                   | Description | Pricing               |
 | -------------------------------------- | ----------- | --------------------- |
@@ -227,7 +228,7 @@ List of rich text editor libraries for writing content directly into your apps.
 
 ## Analytics
 
-List of analytics and monitoring tools for analyzing the traffic and performances.
+> List of analytics and monitoring tools for analyzing the traffic and performances.
 
 | Name                                             | Description | Pricing                   |
 | ------------------------------------------------ | ----------- | ------------------------- |
@@ -260,7 +261,7 @@ List of analytics and monitoring tools for analyzing the traffic and performance
 
 ## Payments
 
-List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
+> List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
 
 | Name                                      | Description | Pricing                               |
 | ----------------------------------------- | ----------- | ------------------------------------- |
@@ -282,7 +283,7 @@ List of payment and billing solutions to help manage transactions, subscriptions
 
 ## Headless CMS
 
-List of headless content management systems to help create and manage content in apps.
+> List of headless content management systems to help create and manage content in apps.
 
 | Name                                     | Description | Pricing                    |
 | ---------------------------------------- | ----------- | -------------------------- |
@@ -310,9 +311,9 @@ List of headless content management systems to help create and manage content in
 | [Pages](https://pagescms.org)            |             | Free / Open source         |
 | [Wix Studio](https://wix.com/studio/cms) |             | Free trial / $12 per month |
 
-## UI Frameworks
+## UI Components
 
-List of user interface frameworks and libraries for building apps efficiently.
+> List of UI components and libraries for building apps efficiently.
 
 | Name                                       | Description | Pricing            |
 | ------------------------------------------ | ----------- | ------------------ |
@@ -373,7 +374,7 @@ List of user interface frameworks and libraries for building apps efficiently.
 
 ## Marketing Tools
 
-List of marketing tools for enhancing and promoting products to help grow audiences.
+> List of marketing tools for enhancing and promoting products to help grow audiences.
 
 | Name                                  | Description | Pricing                    |
 | ------------------------------------- | ----------- | -------------------------- |
@@ -405,7 +406,7 @@ List of marketing tools for enhancing and promoting products to help grow audien
 
 ## Project Management
 
-List of project management tools to help organize, track, and manage projects effectively.
+> List of project management tools to help organize, track, and manage projects effectively.
 
 | Name                                     | Description | Pricing                    |
 | ---------------------------------------- | ----------- | -------------------------- |
