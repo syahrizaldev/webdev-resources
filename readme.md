@@ -151,20 +151,20 @@ List of authentication and authorization solutions to help secure your apps.
 
 List of testing and debugging frameworks to write and run tests for your apps.
 
-| Name                                           | Description | Pricing            |
-| ---------------------------------------------- | ----------- | ------------------ |
-| [Jest](https://jestjs.io)                      |             | Free / Open source |
-| [Mocha](https://mochajs.org)                   |             | Free / Open source |
-| [Vitest](https://vitest.dev)                   |             | Free / Open source |
-| [Cypress](https://cypress.io)                  |             | Free / Open source |
-| [Jasmine](https://jasmine.github.io)           |             | Free / Open source |
-| [Playwright](https://playwright.dev)           |             | Free / Open source |
-| [Webdriver](https://webdriver.io)              |             | Free / Open source |
-| [Nightwatch](https://nightwatchjs.org)         |             | Free / Open source |
-| [Testing Library](https://testing-library.com) |             | Free / Open source |
-| [Cucumber](https://cucumber.io)                |             | Free / Open source |
-| [Puppeteer](https://pptr.dev)                  |             | Free / Open source |
-| [Storybook](https://storybook.js.org)          |             | Free / Open source |
+| Name                                           | Description                                                                                             | Pricing            |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------ |
+| [Jest](https://jestjs.io)                      | JavaScript testing framework focused on simplicity, supporting unit, integration, and snapshot testing. | Free / Open source |
+| [Mocha](https://mochajs.org)                   | Flexible JavaScript test framework for Node and browsers, allowing asynchronous testing.                | Free / Open source |
+| [Vitest](https://vitest.dev)                   | Fast unit test framework built for Vite projects, supporting TypeScript and ESM.                        | Free / Open source |
+| [Cypress](https://cypress.io)                  | End-to-end testing tool for web apps, providing fast, reliable browser automation.                      | Free / Open source |
+| [Jasmine](https://jasmine.github.io)           | Behavior-driven development framework for testing JavaScript code without dependencies.                 | Free / Open source |
+| [Playwright](https://playwright.dev)           | Node library for browser automation, enabling end-to-end testing across multiple browsers.              | Free / Open source |
+| [Webdriver](https://webdriver.io)              | Test automation framework for web apps, using the WebDriver protocol for browser control.               | Free / Open source |
+| [Nightwatch](https://nightwatchjs.org)         | End-to-end testing framework for web apps, supporting browser automation with JavaScript and Selenium.  | Free / Open source |
+| [Testing Library](https://testing-library.com) | Family of libraries for testing UI components by simulating user interactions.                          | Free / Open source |
+| [Cucumber](https://cucumber.io)                | Automated acceptance tests written in plain language, enabling collaboration between developers.        | Free / Open source |
+| [Puppeteer](https://pptr.dev)                  | Node library for controlling headless Chrome or Chromium, useful for browser automation and testing.    | Free / Open source |
+| [Storybook](https://storybook.js.org)          | Tool for developing and testing UI components in isolation, supporting multiple frameworks.             | Free / Open source |
 
 ## Search
 
