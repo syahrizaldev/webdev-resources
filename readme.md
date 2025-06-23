@@ -125,27 +125,27 @@ List of databases and backend management solutions to help handle data requireme
 
 List of authentication and authorization solutions to help secure your apps.
 
-| Name                                      | Description | Pricing              |
-| ----------------------------------------- | ----------- | -------------------- |
-| [Auth](https://authjs.dev)                |             | Free / Open source   |
-| [Clerk](https://clerk.dev)                |             | Free / $25 per month |
-| [Kinde](https://kinde.com)                |             | Free / $25 per month |
-| [Ory](https://ory.sh)                     |             | Free / $70 per month |
-| [Hanko](https://hanko.io)                 |             | Free / $29 per month |
-| [Logto](https://logto.io)                 |             | Free / $16 per month |
-| [Stytch](https://stytch.com)              |             | Free / Pay as you go |
-| [Better Auth](https://better-auth.com)    |             | Free / Open source   |
-| [Auth0](https://auth0.com)                |             | Free / $35 per month |
-| [Passport](https://passportjs.org)        |             | Free / Open source   |
-| [JSON Web Tokens](https://jwt.io)         |             | Free / Open source   |
-| [Cognito](https://aws.amazon.com/cognito) |             | Free / Pay as you go |
-| [Authentik](https://goauthentik.io)       |             | Free / Pay as you go |
-| [Stack Auth](https://stack-auth.com)      |             | Free / $49 per month |
-| [AuthKit](https://authkit.com)            |             | Free / Open source   |
-| [OpenAuth](https://openauth.js.org)       |             | Free / Open source   |
-| [Super Tokens](https://supertokens.com)   |             | Free / Pay as you go |
-| [Fingerprint](https://fingerprint.com)    |             | Free / $99 per month |
-| [Authelia](https://authelia.com)          |             | Free / Open source   |
+| Name                                      | Description                                                                                | Pricing              |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------ | -------------------- |
+| [Auth](https://authjs.dev)                | Open-source authentication library for JavaScript apps, supporting multiple providers.     | Free / Open source   |
+| [Clerk](https://clerk.dev)                | User authentication and management platform for web and mobile apps.                       | Free / $25 per month |
+| [Kinde](https://kinde.com)                | Authentication and user management platform for SaaS apps.                                 | Free / $25 per month |
+| [Ory](https://ory.sh)                     | Open-source identity and access management solutions for authentication and authorization. | Free / $70 per month |
+| [Hanko](https://hanko.io)                 | Open-source authentication solution with passkey and passwordless support.                 | Free / $29 per month |
+| [Logto](https://logto.io)                 | Identity and authentication platform for modern web and mobile apps.                       | Free / $16 per month |
+| [Stytch](https://stytch.com)              | Authentication platform offering passwordless and multi-factor authentication.             | Free / Pay as you go |
+| [Better Auth](https://better-auth.com)    | Open-source authentication service for adding login and user management.                   | Free / Open source   |
+| [Auth0](https://auth0.com)                | Identity platform for authentication, authorization, and user management.                  | Free / $35 per month |
+| [Passport](https://passportjs.org)        | Authentication middleware for Node, supporting a wide range of strategies.                 | Free / Open source   |
+| [JSON Web Tokens](https://jwt.io)         | Open standard for securely transmitting information as a JSON object.                      | Free / Open source   |
+| [Cognito](https://aws.amazon.com/cognito) | AWS service for user authentication, authorization, and user management.                   | Free / Pay as you go |
+| [Authentik](https://goauthentik.io)       | Open-source identity provider for authentication and authorization.                        | Free / Pay as you go |
+| [Stack Auth](https://stack-auth.com)      | Authentication and user management platform for web apps.                                  | Free / $49 per month |
+| [AuthKit](https://authkit.com)            | Authentication toolkit for adding login and user management to apps.                       | Free / Open source   |
+| [OpenAuth](https://openauth.js.org)       | Open-source authentication library for JavaScript apps.                                    | Free / Open source   |
+| [Super Tokens](https://supertokens.com)   | Open-source authentication solution with pre-built UI and backend integration.             | Free / Pay as you go |
+| [Fingerprint](https://fingerprint.com)    | Device fingerprinting and fraud detection platform for user identification.                | Free / $99 per month |
+| [Authelia](https://authelia.com)          | Open-source authentication and authorization server for securing web apps.                 | Free / Open source   |
 
 ## Testing
 
