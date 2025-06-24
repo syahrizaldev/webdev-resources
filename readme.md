@@ -16,15 +16,15 @@
 
 - [Hosting](#hosting)
 - [Databases](#databases)
+- [Analytics](#analytics)
+- [Payments](#payments)
 - [Authentication](#authentication)
 - [Testing](#testing)
 - [Search](#search)
 - [Charts](#charts)
-- [Text Editors](#text-editors)
-- [Analytics](#analytics)
-- [Payments](#payments)
+- [Rich Text Editors](#rich-text-editors)
 - [Headless CMS](#headless-cms)
-- [UI Frameworks](#ui-frameworks)
+- [UI Components](#ui-components)
 - [Marketing Tools](#marketing-tools)
 - [Project Management](#project-management)
 
@@ -122,6 +122,61 @@
 | [RxDB](https://rxdb.info)                 | Client-side database for JavaScript apps with real-time sync.                                            | Free / $28 per month       |
 | [SQLite Cloud](https://sqlitecloud.io)    | Cloud platform for running and scaling SQLite databases.                                                 | Free / $29 per month       |
 
+## Analytics
+
+> List of analytics and monitoring tools for analyzing the traffic and performances.
+
+| Name                                             | Description | Pricing                   |
+| ------------------------------------------------ | ----------- | ------------------------- |
+| [Google Analytics](https://analytics.google.com) |             | Free for Google users     |
+| [Plausible](https://plausible.io)                |             | Free trial / $9 per month |
+| [Splitbee](https://splitbee.io)                  |             | Free / $14 per month      |
+| [Openpanel](https://openpanel.dev)               |             | Free / Pay as you go      |
+| [Umami](https://umami.is)                        |             | Free / $20 per month      |
+| [Motomo](https://matomo.org)                     |             | Free / $23 per month      |
+| [Simple Analytics](https://simpleanalytics.com)  |             | Free / $15 per month      |
+| [Beam Analytics](https://beamanalytics.io)       |             | Free / $11 per month      |
+| [Lite Analytics](https://liteanalytics.com)      |             | Free / $9 per month       |
+| [Posthog](https://posthog.com)                   |             | Free / Usage-based price  |
+| [Tinybird](https://tinybird.co)                  |             | Free / Pay as you go      |
+| [Mixpanel](https://mixpanel.com)                 |             | Free / $24 per month      |
+| [Chart Mogul](https://chartmogul.com)            |             | Free / $99 per month      |
+| [Amplitude](https://amplitude.com)               |             | Free / $61 per month      |
+| [Pirsch](https://pirsch.io)                      |             | Free trial / $6 per month |
+| [Sprig](https://sprig.com)                       |             | Free / $175 per month     |
+| [Loglib](https://loglib.io)                      |             | Free / $9 per month       |
+| [Piwik Pro](https://piwik.pro)                   |             | Free / $75 per month      |
+| [Hotjar](https://hotjar.com)                     |             | Free / $32 per month      |
+| [Countly](https://countly.com)                   |             | Free / Pay as you go      |
+| [Trench](https://trench.dev)                     |             | Free / Pay as you go      |
+| [Aptabase](https://aptabase.com)                 |             | Free / $10 per month      |
+| [Open Replay](https://openreplay.com)            |             | Free / $6 per month       |
+| [Seline](https://seline.so)                      |             | Free / $14 per month      |
+| [Swetrix](https://swetrix.com)                   |             | Free trial / $5 per month |
+| [Ackee](https://ackee.electerious.com)           |             | Free / Open source        |
+
+## Payments
+
+> List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
+
+| Name                                      | Description | Pricing                               |
+| ----------------------------------------- | ----------- | ------------------------------------- |
+| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction            |
+| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction              |
+| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction              |
+| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction              |
+| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction            |
+| [Paypal](https://paypal.com)              |             | 3.4% per transaction + fixed fee      |
+| [Braintree](https://braintreegateway.com) |             | 2.9% + 29¢ per transaction            |
+| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction            |
+| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway fee      |
+| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue                    |
+| [Chargebee](https://chargebee.com)        |             | 0.75% monthly for all billing         |
+| [Adyen](https://adyen.com)                |             | 13¢ per transaction + payment fee     |
+| [Checkout](https://checkout.com)          |             | Flat-rate based pricing               |
+| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing               |
+| [Authorize](https://authorize.net)        |             | 10¢ per transaction + $25 monthly fee |
+
 ## Authentication
 
 > List of authentication and authorization solutions to help secure your apps.
@@ -207,7 +262,7 @@
 | [Plotly](https://plotly.com/javascript)             | Graphing library for creating interactive and publication-quality charts in JavaScript.          | Free / Open source     |
 | [Rosen Charts](https://rosencharts.com)             | JavaScript charting library for building interactive and customizable charts and dashboards.     | Free / Open source     |
 
-## Text Editors
+## Rich Text Editors
 
 > List of rich text editor libraries for writing content directly into your apps.
 
@@ -225,61 +280,6 @@
 | [Slate](https://slatejs.org)           |             | Free / Open source    |
 | [Milkdown](https://milkdown.dev)       |             | Free / Open source    |
 | [Prosemirror](https://prosemirror.net) |             | Free / Open source    |
-
-## Analytics
-
-> List of analytics and monitoring tools for analyzing the traffic and performances.
-
-| Name                                             | Description | Pricing                   |
-| ------------------------------------------------ | ----------- | ------------------------- |
-| [Google Analytics](https://analytics.google.com) |             | Free for Google users     |
-| [Plausible](https://plausible.io)                |             | Free trial / $9 per month |
-| [Splitbee](https://splitbee.io)                  |             | Free / $14 per month      |
-| [Openpanel](https://openpanel.dev)               |             | Free / Pay as you go      |
-| [Umami](https://umami.is)                        |             | Free / $20 per month      |
-| [Motomo](https://matomo.org)                     |             | Free / $23 per month      |
-| [Simple Analytics](https://simpleanalytics.com)  |             | Free / $15 per month      |
-| [Beam Analytics](https://beamanalytics.io)       |             | Free / $11 per month      |
-| [Lite Analytics](https://liteanalytics.com)      |             | Free / $9 per month       |
-| [Posthog](https://posthog.com)                   |             | Free / Usage-based price  |
-| [Tinybird](https://tinybird.co)                  |             | Free / Pay as you go      |
-| [Mixpanel](https://mixpanel.com)                 |             | Free / $24 per month      |
-| [Chart Mogul](https://chartmogul.com)            |             | Free / $99 per month      |
-| [Amplitude](https://amplitude.com)               |             | Free / $61 per month      |
-| [Pirsch](https://pirsch.io)                      |             | Free trial / $6 per month |
-| [Sprig](https://sprig.com)                       |             | Free / $175 per month     |
-| [Loglib](https://loglib.io)                      |             | Free / $9 per month       |
-| [Piwik Pro](https://piwik.pro)                   |             | Free / $75 per month      |
-| [Hotjar](https://hotjar.com)                     |             | Free / $32 per month      |
-| [Countly](https://countly.com)                   |             | Free / Pay as you go      |
-| [Trench](https://trench.dev)                     |             | Free / Pay as you go      |
-| [Aptabase](https://aptabase.com)                 |             | Free / $10 per month      |
-| [Open Replay](https://openreplay.com)            |             | Free / $6 per month       |
-| [Seline](https://seline.so)                      |             | Free / $14 per month      |
-| [Swetrix](https://swetrix.com)                   |             | Free trial / $5 per month |
-| [Ackee](https://ackee.electerious.com)           |             | Free / Open source        |
-
-## Payments
-
-> List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
-
-| Name                                      | Description | Pricing                               |
-| ----------------------------------------- | ----------- | ------------------------------------- |
-| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction            |
-| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction              |
-| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction              |
-| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction              |
-| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction            |
-| [Paypal](https://paypal.com)              |             | 3.4% per transaction + fixed fee      |
-| [Braintree](https://braintreegateway.com) |             | 2.9% + 29¢ per transaction            |
-| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction            |
-| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway fee      |
-| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue                    |
-| [Chargebee](https://chargebee.com)        |             | 0.75% monthly for all billing         |
-| [Adyen](https://adyen.com)                |             | 13¢ per transaction + payment fee     |
-| [Checkout](https://checkout.com)          |             | Flat-rate based pricing               |
-| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing               |
-| [Authorize](https://authorize.net)        |             | 10¢ per transaction + $25 monthly fee |
 
 ## Headless CMS
 
