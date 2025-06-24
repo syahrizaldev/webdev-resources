@@ -266,23 +266,23 @@
 
 > List of rich text editor libraries for writing content directly into your apps.
 
-| Name                                          | Description | Pricing               |
-| --------------------------------------------- | ----------- | --------------------- |
-| [TinyMCE](https://tiny.cloud)                 |             | Free / $67 per month  |
-| [CKEditor](https://ckeditor.com)              |             | Free / $160 per month |
-| [Quill](https://quilljs.com)                  |             | Free / Open source    |
-| [Tiptap](https://tiptap.dev)                  |             | Free / $149 per month |
-| [Lexical](https://lexical.dev)                |             | Free / Open source    |
-| [Blocknote](https://blocknotejs.org)          |             | Free / $90 per month  |
-| [Editor](https://editorjs.io)                 |             | Free / Open source    |
-| [Novel](https://novel.sh)                     |             | Free / Open source    |
-| [Froala](https://froala.com)                  |             | Free / $719 per year  |
-| [Slate](https://slatejs.org)                  |             | Free / Open source    |
-| [Milkdown](https://milkdown.dev)              |             | Free / Open source    |
-| [Prosemirror](https://prosemirror.net)        |             | Free / Open source    |
-| [Jodit](https://xdsoft.net/jodit)             |             | Free / $99 lifetime   |
-| [Trix](https://trix-editor.org)               |             | Free / Open source    |
-| [TUI Editor](https://ui.toast.com/tui-editor) |             | Free / Open source    |
+| Name                                          | Description                                                                                     | Pricing               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------- |
+| [TinyMCE](https://tiny.cloud)                 | Web-based rich text editor for creating formatted content in web apps.                          | Free / $67 per month  |
+| [CKEditor](https://ckeditor.com)              | Customizable rich text editor for web apps, supporting advanced formatting and collaboration.   | Free / $160 per month |
+| [Quill](https://quilljs.com)                  | Open-source WYSIWYG editor for the web, designed for extensibility and ease of use.             | Free / Open source    |
+| [Tiptap](https://tiptap.dev)                  | Headless and framework-agnostic rich text editor built on top of ProseMirror.                   | Free / $149 per month |
+| [Lexical](https://lexical.dev)                | Fast and extensible text editor framework for building web-based editors.                       | Free / Open source    |
+| [Blocknote](https://blocknotejs.org)          | Block-based rich text editor for the web, designed for flexibility and ease of integration.     | Free / $90 per month  |
+| [Editor](https://editorjs.io)                 | Block-styled rich text editor for creating structured content in web apps.                      | Free / Open source    |
+| [Novel](https://novel.sh)                     | Open-source markdown-based text editor for writing and note-taking.                             | Free / Open source    |
+| [Froala](https://froala.com)                  | Lightweight WYSIWYG HTML editor for web apps, supporting rich formatting and media.             | Free / $719 per year  |
+| [Slate](https://slatejs.org)                  | Customizable framework for building rich text editors in React.                                 | Free / Open source    |
+| [Milkdown](https://milkdown.dev)              | Markdown-based WYSIWYG editor for the web, supporting plugins and customization.                | Free / Open source    |
+| [Prosemirror](https://prosemirror.net)        | Toolkit for building rich text editors with focus on extensibility and customizability.         | Free / Open source    |
+| [Jodit](https://xdsoft.net/jodit)             | Lightweight and customizable rich text editor for web apps, supporting image uploads.           | Free / $99 lifetime   |
+| [Trix](https://trix-editor.org)               | Open-source rich text editor designed for composing and formatting content with extensible API. | Free / Open source    |
+| [TUI Editor](https://ui.toast.com/tui-editor) | Markdown WYSIWYG editor supporting live preview, extensibility, and collaborative editing.      | Free / Open source    |
 
 ## Headless CMS
 
