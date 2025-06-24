@@ -126,34 +126,34 @@
 
 > List of analytics and monitoring tools for analyzing the traffic and performances.
 
-| Name                                             | Description | Pricing                   |
-| ------------------------------------------------ | ----------- | ------------------------- |
-| [Google Analytics](https://analytics.google.com) |             | Free for Google users     |
-| [Plausible](https://plausible.io)                |             | Free trial / $9 per month |
-| [Splitbee](https://splitbee.io)                  |             | Free / $14 per month      |
-| [Openpanel](https://openpanel.dev)               |             | Free / Pay as you go      |
-| [Umami](https://umami.is)                        |             | Free / $20 per month      |
-| [Motomo](https://matomo.org)                     |             | Free / $23 per month      |
-| [Simple Analytics](https://simpleanalytics.com)  |             | Free / $15 per month      |
-| [Beam Analytics](https://beamanalytics.io)       |             | Free / $11 per month      |
-| [Lite Analytics](https://liteanalytics.com)      |             | Free / $9 per month       |
-| [Posthog](https://posthog.com)                   |             | Free / Usage-based price  |
-| [Tinybird](https://tinybird.co)                  |             | Free / Pay as you go      |
-| [Mixpanel](https://mixpanel.com)                 |             | Free / $24 per month      |
-| [Chart Mogul](https://chartmogul.com)            |             | Free / $99 per month      |
-| [Amplitude](https://amplitude.com)               |             | Free / $61 per month      |
-| [Pirsch](https://pirsch.io)                      |             | Free trial / $6 per month |
-| [Sprig](https://sprig.com)                       |             | Free / $175 per month     |
-| [Loglib](https://loglib.io)                      |             | Free / $9 per month       |
-| [Piwik Pro](https://piwik.pro)                   |             | Free / $75 per month      |
-| [Hotjar](https://hotjar.com)                     |             | Free / $32 per month      |
-| [Countly](https://countly.com)                   |             | Free / Pay as you go      |
-| [Trench](https://trench.dev)                     |             | Free / Pay as you go      |
-| [Aptabase](https://aptabase.com)                 |             | Free / $10 per month      |
-| [Open Replay](https://openreplay.com)            |             | Free / $6 per month       |
-| [Seline](https://seline.so)                      |             | Free / $14 per month      |
-| [Swetrix](https://swetrix.com)                   |             | Free trial / $5 per month |
-| [Ackee](https://ackee.electerious.com)           |             | Free / Open source        |
+| Name                                             | Description                                                                               | Pricing                   |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------- |
+| [Google Analytics](https://analytics.google.com) | Analytics service by Google for tracking and reporting website traffic and user behavior. | Free for Google users     |
+| [Plausible](https://plausible.io)                | Privacy-focused web analytics tool providing simple and actionable insights.              | Free trial / $9 per month |
+| [Splitbee](https://splitbee.io)                  | Analytics and conversion tracking platform for websites and web apps.                     | Free / $14 per month      |
+| [Openpanel](https://openpanel.dev)               | Open-source analytics platform for tracking user events and behavior.                     | Free / Pay as you go      |
+| [Umami](https://umami.is)                        | Simple, privacy-friendly, open-source web analytics solution.                             | Free / $20 per month      |
+| [Motomo](https://matomo.org)                     | Open-source analytics platform offering full data ownership and privacy compliance.       | Free / $23 per month      |
+| [Simple Analytics](https://simpleanalytics.com)  | Privacy-first website analytics tool with easy-to-understand reports.                     | Free / $15 per month      |
+| [Beam Analytics](https://beamanalytics.io)       | Cookie-free analytics platform focused on privacy and simplicity.                         | Free / $11 per month      |
+| [Lite Analytics](https://liteanalytics.com)      | Lightweight and privacy-friendly analytics for websites.                                  | Free / $9 per month       |
+| [Posthog](https://posthog.com)                   | Open-source product analytics suite with event tracking and user insights.                | Free / Usage-based price  |
+| [Tinybird](https://tinybird.co)                  | Real-time analytics platform for processing and analyzing large volumes of event data.    | Free / Pay as you go      |
+| [Mixpanel](https://mixpanel.com)                 | Product analytics platform for tracking user interactions and engagement.                 | Free / $24 per month      |
+| [Chart Mogul](https://chartmogul.com)            | Subscription analytics platform for tracking and analyzing recurring revenue metrics.     | Free / $99 per month      |
+| [Amplitude](https://amplitude.com)               | Analytics platform for product intelligence and user behavior analysis.                   | Free / $61 per month      |
+| [Pirsch](https://pirsch.io)                      | Simple and privacy-friendly web analytics tool for websites and web apps.                 | Free trial / $6 per month |
+| [Sprig](https://sprig.com)                       | User research and analytics platform for collecting feedback and insights.                | Free / $175 per month     |
+| [Loglib](https://loglib.io)                      | Open-source analytics platform for privacy-focused website tracking.                      | Free / $9 per month       |
+| [Piwik Pro](https://piwik.pro)                   | Analytics suite with privacy compliance and on-premise deployment options.                | Free / $75 per month      |
+| [Hotjar](https://hotjar.com)                     | Behavior analytics and user feedback tool with heatmaps and session recordings.           | Free / $32 per month      |
+| [Countly](https://countly.com)                   | Product analytics platform for web, mobile, and desktop apps.                             | Free / Pay as you go      |
+| [Trench](https://trench.dev)                     | Open-source analytics tool for tracking website and app usage.                            | Free / Pay as you go      |
+| [Aptabase](https://aptabase.com)                 | Privacy-friendly analytics for desktop and mobile apps.                                   | Free / $10 per month      |
+| [Open Replay](https://openreplay.com)            | Open-source session replay and analytics platform for web apps.                           | Free / $6 per month       |
+| [Seline](https://seline.so)                      | Privacy-focused analytics platform for web and mobile apps.                               | Free / $14 per month      |
+| [Swetrix](https://swetrix.com)                   | Privacy-friendly analytics tool for websites and web apps.                                | Free trial / $5 per month |
+| [Ackee](https://ackee.electerious.com)           | Self-hosted and privacy-friendly analytics for websites and web apps.                     | Free / Open source        |
 
 ## Payments
 
@@ -266,20 +266,23 @@
 
 > List of rich text editor libraries for writing content directly into your apps.
 
-| Name                                   | Description | Pricing               |
-| -------------------------------------- | ----------- | --------------------- |
-| [TinyMCE](https://tiny.cloud)          |             | Free / $67 per month  |
-| [CKEditor](https://ckeditor.com)       |             | Free / $160 per month |
-| [Quill](https://quilljs.com)           |             | Free / Open source    |
-| [Tiptap](https://tiptap.dev)           |             | Free / $149 per month |
-| [Lexical](https://lexical.dev)         |             | Free / Open source    |
-| [Blocknote](https://blocknotejs.org)   |             | Free / $90 per month  |
-| [Editor](https://editorjs.io)          |             | Free / Open source    |
-| [Novel](https://novel.sh)              |             | Free / Open source    |
-| [Froala](https://froala.com)           |             | Free / $719 per year  |
-| [Slate](https://slatejs.org)           |             | Free / Open source    |
-| [Milkdown](https://milkdown.dev)       |             | Free / Open source    |
-| [Prosemirror](https://prosemirror.net) |             | Free / Open source    |
+| Name                                          | Description                                                                                     | Pricing               |
+| --------------------------------------------- | ----------------------------------------------------------------------------------------------- | --------------------- |
+| [TinyMCE](https://tiny.cloud)                 | Web-based rich text editor for creating formatted content in web apps.                          | Free / $67 per month  |
+| [CKEditor](https://ckeditor.com)              | Customizable rich text editor for web apps, supporting advanced formatting and collaboration.   | Free / $160 per month |
+| [Quill](https://quilljs.com)                  | Open-source WYSIWYG editor for the web, designed for extensibility and ease of use.             | Free / Open source    |
+| [Tiptap](https://tiptap.dev)                  | Headless and framework-agnostic rich text editor built on top of ProseMirror.                   | Free / $149 per month |
+| [Lexical](https://lexical.dev)                | Fast and extensible text editor framework for building web-based editors.                       | Free / Open source    |
+| [Blocknote](https://blocknotejs.org)          | Block-based rich text editor for the web, designed for flexibility and ease of integration.     | Free / $90 per month  |
+| [Editor](https://editorjs.io)                 | Block-styled rich text editor for creating structured content in web apps.                      | Free / Open source    |
+| [Novel](https://novel.sh)                     | Open-source markdown-based text editor for writing and note-taking.                             | Free / Open source    |
+| [Froala](https://froala.com)                  | Lightweight WYSIWYG HTML editor for web apps, supporting rich formatting and media.             | Free / $719 per year  |
+| [Slate](https://slatejs.org)                  | Customizable framework for building rich text editors in React.                                 | Free / Open source    |
+| [Milkdown](https://milkdown.dev)              | Markdown-based WYSIWYG editor for the web, supporting plugins and customization.                | Free / Open source    |
+| [Prosemirror](https://prosemirror.net)        | Toolkit for building rich text editors with focus on extensibility and customizability.         | Free / Open source    |
+| [Jodit](https://xdsoft.net/jodit)             | Lightweight and customizable rich text editor for web apps, supporting image uploads.           | Free / $99 lifetime   |
+| [Trix](https://trix-editor.org)               | Open-source rich text editor designed for composing and formatting content with extensible API. | Free / Open source    |
+| [TUI Editor](https://ui.toast.com/tui-editor) | Markdown WYSIWYG editor supporting live preview, extensibility, and collaborative editing.      | Free / Open source    |
 
 ## Headless CMS
 
