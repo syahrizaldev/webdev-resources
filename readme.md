@@ -379,33 +379,33 @@
 
 > List of marketing tools for enhancing and promoting products to help grow audiences.
 
-| Name                                  | Description | Pricing                    |
-| ------------------------------------- | ----------- | -------------------------- |
-| [Kit](https://kit.com)                |             | Free / $9 per month        |
-| [Dub](https://dub.co)                 |             | Free / $19 per month       |
-| [Resend](https://resend.com)          |             | Free / $20 per month       |
-| [Loops](https://loops.so)             |             | Free / $49 per month       |
-| [Plunk](https://useplunk.com)         |             | Free / Pay as you go       |
-| [Uninbox](https://uninbox.com)        |             | Free / $12 per month       |
-| [Mailgun](https://mailgun.com)        |             | Free / $15 per month       |
-| [Mailtrap](https://mailtrap.io)       |             | Free / $15 per month       |
-| [Postmark](https://postmarkapp.com)   |             | Free trial / $15 per month |
-| [Inboxzero](https://getinboxzero.com) |             | Free / $6 per month        |
-| [Unsend](https://unsend.dev)          |             | Free / Open source         |
-| [Listmonk](https://listmonk.app)      |             | Free / Open source         |
-| [Dittofeed](https://dittofeed.com)    |             | Free / $75 per month       |
-| [Mailcoach](https://mailcoach.app)    |             | Free trial / $10 per month |
-| [Erxes](https://erxes.io)             |             | Free / $11 per month       |
-| [Mailchimp](https://mailchimp.com)    |             | Free / $13 per month       |
-| [Klaviyo](https://klaviyo.com)        |             | Free / $20 per month       |
-| [Aftership](https://aftership.com)    |             | Free / $11 per month       |
-| [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
-| [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
-| [Brevo](https://brevo.com)            |             | Free / $8 per month        |
-| [Novu](https://novu.co)               |             | Free / $250 per month      |
-| [Rewardful](https://rewardful.com)    |             | Free / $49 per month       |
-| [Clickbank](https://clickbank.com)    |             | Free / Activation fee      |
-| [Affonso](https://affonso.io)         |             | Free trial / $9 per month  |
+| Name                                  | Description                                                                     | Pricing                    |
+| ------------------------------------- | ------------------------------------------------------------------------------- | -------------------------- |
+| [Kit](https://kit.com)                | Platform for sharing and discovering product recommendations and collections.   | Free / $9 per month        |
+| [Dub](https://dub.co)                 | URL shortening and link management tool for tracking and analyzing links.       | Free / $19 per month       |
+| [Resend](https://resend.com)          | Email API for sending transactional and marketing emails programmatically.      | Free / $20 per month       |
+| [Loops](https://loops.so)             | Email marketing platform for sending automated and personalized emails.         | Free / $49 per month       |
+| [Plunk](https://useplunk.com)         | Email marketing tool for SaaS businesses to send campaigns and manage contacts. | Free / Pay as you go       |
+| [Uninbox](https://uninbox.com)        | Toolkit for managing and organizing email inboxes to reduce clutter.            | Free / $12 per month       |
+| [Mailgun](https://mailgun.com)        | Email delivery service for sending, receiving, and tracking emails.             | Free / $15 per month       |
+| [Mailtrap](https://mailtrap.io)       | Email testing and delivery platform for safe email development and staging.     | Free / $15 per month       |
+| [Postmark](https://postmarkapp.com)   | Service for reliable delivery of transactional emails with tracking.            | Free trial / $15 per month |
+| [Inboxzero](https://getinboxzero.com) | Toolkit to help achieve and maintain an empty organized email inbox.            | Free / $6 per month        |
+| [Mailchimp](https://mailchimp.com)    | All-in-one marketing platform for email campaigns and audience management.      | Free / $13 per month       |
+| [Listmonk](https://listmonk.app)      | Open-source self-hosted newsletter and mailing list manager.                    | Free / Open source         |
+| [Dittofeed](https://dittofeed.com)    | Open-source platform for sending marketing emails and push notifications.       | Free / $75 per month       |
+| [Mailcoach](https://mailcoach.app)    | Self-hosted email marketing and newsletter platform.                            | Free trial / $10 per month |
+| [Klaviyo](https://klaviyo.com)        | Marketing automation platform for email and SMS campaigns.                      | Free / $20 per month       |
+| [Unsend](https://unsend.dev)          | Open-source toolkit for managing and retracting sent emails.                    | Free / Open source         |
+| [Erxes](https://erxes.io)             | Open-source marketing and customer experience platform.                         | Free / $11 per month       |
+| [Aftership](https://aftership.com)    | Post-purchase and shipment tracking platform for E-commerce businesses.         | Free / $11 per month       |
+| [Lemlist](https://lemlist.com)        | Email outreach platform for personalized campaigns and follow-ups.              | Free / $32 per month       |
+| [Mailerlite](https://mailerlite.com)  | Email marketing platform for creating and automating campaigns.                 | Free / $9 per month        |
+| [Brevo](https://brevo.com)            | Platform for managing email, SMS, and marketing automation.                     | Free / $8 per month        |
+| [Novu](https://novu.co)               | Open-source notification infrastructure for sending multi-channel messages.     | Free / $250 per month      |
+| [Rewardful](https://rewardful.com)    | Affiliate and referral program software for SaaS businesses.                    | Free / $49 per month       |
+| [Clickbank](https://clickbank.com)    | Affiliate marketplace and platform for selling digital products.                | Free / Activation fee      |
+| [Affonso](https://affonso.io)         | Affiliate management platform for tracking and managing partnerships.           | Free trial / $9 per month  |
 
 ## Project Management
 
