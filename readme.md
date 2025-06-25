@@ -159,23 +159,23 @@
 
 > List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
 
-| Name                                      | Description | Pricing                               |
-| ----------------------------------------- | ----------- | ------------------------------------- |
-| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction            |
-| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction              |
-| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction              |
-| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction              |
-| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction            |
-| [Paypal](https://paypal.com)              |             | 3.4% per transaction + fixed fee      |
-| [Braintree](https://braintreegateway.com) |             | 2.9% + 29¢ per transaction            |
-| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction            |
-| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway fee      |
-| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue                    |
-| [Chargebee](https://chargebee.com)        |             | 0.75% monthly for all billing         |
-| [Adyen](https://adyen.com)                |             | 13¢ per transaction + payment fee     |
-| [Checkout](https://checkout.com)          |             | Flat-rate based pricing               |
-| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing               |
-| [Authorize](https://authorize.net)        |             | 10¢ per transaction + $25 monthly fee |
+| Name                                      | Description                                                                                         | Pricing                               |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Stripe](https://stripe.com)              | Platform for accepting online payments, subscriptions, and managing business finances.              | 2.9% + 30¢ per transaction            |
+| [Paddle](https://paddle.com)              | Provides payment infrastructure for SaaS businesses, including billing and tax compliance.          | 5% + 50¢ per transaction              |
+| [Lemon Squeezy](https://lemonsqueezy.com) | Payment processing and digital product delivery for creators and businesses.                        | 5% + 50¢ per transaction              |
+| [Polar](https://polar.sh)                 | Enables developers and creators to receive funding and manage payments for open-source projects.    | 4% + 40¢ per transaction              |
+| [Creem](https://creem.io)                 | Platform for creators to receive payments and manage subscriptions from their audience.             | 3.9% + 40¢ per transaction            |
+| [Paypal](https://paypal.com)              | Facilitates online payments, money transfers, and merchant services for individuals and businesses. | 3.4% per transaction + fixed fee      |
+| [Braintree](https://braintreegateway.com) | Provides payment gateway solutions for accepting cards, wallets, and local payment methods.         | 2.9% + 29¢ per transaction            |
+| [2Checkout](https://2checkout.com)        | Global payment processing and E-commerce solutions for online businesses.                           | 3.5% + 35¢ per transaction            |
+| [Snipcart](https://snipcart.com)          | Add shopping cart and payment processing to any website with simple integration.                    | 2% per transaction + gateway fee      |
+| [RevenueCat](https://revenuecat.com)      | Manages in-app subscriptions and payments easily for mobile and web apps.                           | 1% monthly revenue                    |
+| [Chargebee](https://chargebee.com)        | Subscription billing and revenue management platform for recurring payments.                        | 0.75% monthly for all billing         |
+| [Adyen](https://adyen.com)                | Provides unified platform for processing payments globally across online, mobile, and in-store.     | 13¢ per transaction + payment fee     |
+| [Checkout](https://checkout.com)          | Payment processing solutions for businesses to accept payments online and in-store.                 | Flat-rate based pricing               |
+| [Fast Spring](https://fastspring.com)     | E-commerce platform for selling digital products and managing global payments.                      | Flat-rate based pricing               |
+| [Authorize](https://authorize.net)        | Payment gateway service for accepting credit card and electronic check payments online.             | 10¢ per transaction + $25 monthly fee |
 
 ## Authentication
 
@@ -288,31 +288,31 @@
 
 > List of headless content management systems to help create and manage content in apps.
 
-| Name                                     | Description | Pricing                    |
-| ---------------------------------------- | ----------- | -------------------------- |
-| [Strapi](https://strapi.io)              |             | Free / $15 per month       |
-| [Sanity](https://sanity.io)              |             | Free / $15 per month       |
-| [Payload](https://payloadcms.com)        |             | Free / $35 per month       |
-| [Keystatic](https://keystatic.com)       |             | Free / Open source         |
-| [Keystone](https://keystonejs.com)       |             | Free / Open source         |
-| [Storyblok](https://storyblok.com)       |             | Free / $103 per month      |
-| [Contentful](https://contentful.com)     |             | Free / $300 per month      |
-| [Prismic](https://prismic.io)            |             | Free / $150 per month      |
-| [Directus](https://directus.io)          |             | Free / $15 per month       |
-| [Gridsome](https://gridsome.org)         |             | Free / Open source         |
-| [Ghost](https://ghost.org)               |             | Free trial / $9 per month  |
-| [Butter](https://buttercms.com)          |             | Free trial / $99 per month |
-| [Dato](https://datocms.com)              |             | Free / $154 per month      |
-| [Tina](https://tina.io)                  |             | Free / $29 per month       |
-| [Hygraph](https://hygraph.com)           |             | Free / $199 per month      |
-| [Squidex](https://squidex.io)            |             | Free / $20 per month       |
-| [Cosmic](https://cosmicjs.com)           |             | Free / $299 per month      |
-| [Zenblog](https://zenblog.com)           |             | Free / $6 per month        |
-| [Statamic](https://statamic.com)         |             | Free / $275 per project    |
-| [Craft](https://craftcms.com)            |             | Free / $279 per project    |
-| [Twill](https://twillcms.com)            |             | Free / Open source         |
-| [Pages](https://pagescms.org)            |             | Free / Open source         |
-| [Wix Studio](https://wix.com/studio/cms) |             | Free trial / $12 per month |
+| Name                                     | Description                                                                          | Pricing                    |
+| ---------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------- |
+| [Strapi](https://strapi.io)              | Open-source headless CMS for building customizable APIs and managing content.        | Free / $15 per month       |
+| [Sanity](https://sanity.io)              | Platform for structured content management with real-time collaboration and APIs.    | Free / $15 per month       |
+| [Payload](https://payloadcms.com)        | Headless CMS built with Node, offering flexible content modeling and authentication. | Free / $35 per month       |
+| [Keystatic](https://keystatic.com)       | Git-based headless CMS for managing content with interactive visual editor.          | Free / Open source         |
+| [Keystone](https://keystonejs.com)       | Open-source CMS and backend framework for managing content and data.                 | Free / Open source         |
+| [Storyblok](https://storyblok.com)       | Visual headless CMS for managing and delivering content via APIs.                    | Free / $103 per month      |
+| [Contentful](https://contentful.com)     | Cloud-based headless CMS for creating, managing, and distributing content.           | Free / $300 per month      |
+| [Prismic](https://prismic.io)            | Headless CMS for managing and delivering content through simple APIs.                | Free / $150 per month      |
+| [Directus](https://directus.io)          | Open-source platform for managing content and data in SQL databases.                 | Free / $15 per month       |
+| [Gridsome](https://gridsome.org)         | Static site generator for Vue, often integrated with headless CMS.                   | Free / Open source         |
+| [Ghost](https://ghost.org)               | Headless CMS focused on publishing and managing content for blogs and websites.      | Free trial / $9 per month  |
+| [Butter](https://buttercms.com)          | Headless CMS for adding content management to any website or apps.                   | Free trial / $99 per month |
+| [Dato](https://datocms.com)              | Cloud-based headless CMS for managing content and digital assets.                    | Free / $154 per month      |
+| [Tina](https://tina.io)                  | Open-source Git-backed headless CMS with visual editing interface.                   | Free / $29 per month       |
+| [Hygraph](https://hygraph.com)           | Headless CMS with a GraphQL API for managing and delivering content.                 | Free / $199 per month      |
+| [Squidex](https://squidex.io)            | Open-source headless CMS for managing content and workflows easily.                  | Free / $20 per month       |
+| [Cosmic](https://cosmicjs.com)           | Headless CMS for managing content and media with simple APIs.                        | Free / $299 per month      |
+| [Zenblog](https://zenblog.com)           | Blogging platform with headless CMS features for content management.                 | Free / $6 per month        |
+| [Statamic](https://statamic.com)         | Flat-file CMS with headless capabilities for managing content and assets.            | Free / $275 per project    |
+| [Craft](https://craftcms.com)            | Flexible CMS for building custom digital experiences with headless support.          | Free / $279 per project    |
+| [Twill](https://twillcms.com)            | Open-source CMS for Laravel designed for custom content management.                  | Free / Open source         |
+| [Pages](https://pagescms.org)            | Open-source and simple headless CMS for static site content management.              | Free / Open source         |
+| [Wix Studio](https://wix.com/studio/cms) | Wix CMS platform for managing content and building websites visually.                | Free trial / $12 per month |
 
 ## UI Components
 
@@ -379,33 +379,33 @@
 
 > List of marketing tools for enhancing and promoting products to help grow audiences.
 
-| Name                                  | Description | Pricing                    |
-| ------------------------------------- | ----------- | -------------------------- |
-| [Kit](https://kit.com)                |             | Free / $9 per month        |
-| [Dub](https://dub.co)                 |             | Free / $19 per month       |
-| [Resend](https://resend.com)          |             | Free / $20 per month       |
-| [Loops](https://loops.so)             |             | Free / $49 per month       |
-| [Plunk](https://useplunk.com)         |             | Free / Pay as you go       |
-| [Uninbox](https://uninbox.com)        |             | Free / $12 per month       |
-| [Mailgun](https://mailgun.com)        |             | Free / $15 per month       |
-| [Mailtrap](https://mailtrap.io)       |             | Free / $15 per month       |
-| [Postmark](https://postmarkapp.com)   |             | Free trial / $15 per month |
-| [Inboxzero](https://getinboxzero.com) |             | Free / $6 per month        |
-| [Unsend](https://unsend.dev)          |             | Free / Open source         |
-| [Listmonk](https://listmonk.app)      |             | Free / Open source         |
-| [Dittofeed](https://dittofeed.com)    |             | Free / $75 per month       |
-| [Mailcoach](https://mailcoach.app)    |             | Free trial / $10 per month |
-| [Erxes](https://erxes.io)             |             | Free / $11 per month       |
-| [Mailchimp](https://mailchimp.com)    |             | Free / $13 per month       |
-| [Klaviyo](https://klaviyo.com)        |             | Free / $20 per month       |
-| [Aftership](https://aftership.com)    |             | Free / $11 per month       |
-| [Lemlist](https://lemlist.com)        |             | Free / $32 per month       |
-| [Mailerlite](https://mailerlite.com)  |             | Free / $9 per month        |
-| [Brevo](https://brevo.com)            |             | Free / $8 per month        |
-| [Novu](https://novu.co)               |             | Free / $250 per month      |
-| [Rewardful](https://rewardful.com)    |             | Free / $49 per month       |
-| [Clickbank](https://clickbank.com)    |             | Free / Activation fee      |
-| [Affonso](https://affonso.io)         |             | Free trial / $9 per month  |
+| Name                                  | Description                                                                     | Pricing                    |
+| ------------------------------------- | ------------------------------------------------------------------------------- | -------------------------- |
+| [Kit](https://kit.com)                | Platform for sharing and discovering product recommendations and collections.   | Free / $9 per month        |
+| [Dub](https://dub.co)                 | URL shortening and link management tool for tracking and analyzing links.       | Free / $19 per month       |
+| [Resend](https://resend.com)          | Email API for sending transactional and marketing emails programmatically.      | Free / $20 per month       |
+| [Loops](https://loops.so)             | Email marketing platform for sending automated and personalized emails.         | Free / $49 per month       |
+| [Plunk](https://useplunk.com)         | Email marketing tool for SaaS businesses to send campaigns and manage contacts. | Free / Pay as you go       |
+| [Uninbox](https://uninbox.com)        | Toolkit for managing and organizing email inboxes to reduce clutter.            | Free / $12 per month       |
+| [Mailgun](https://mailgun.com)        | Email delivery service for sending, receiving, and tracking emails.             | Free / $15 per month       |
+| [Mailtrap](https://mailtrap.io)       | Email testing and delivery platform for safe email development and staging.     | Free / $15 per month       |
+| [Postmark](https://postmarkapp.com)   | Service for reliable delivery of transactional emails with tracking.            | Free trial / $15 per month |
+| [Inboxzero](https://getinboxzero.com) | Toolkit to help achieve and maintain an empty organized email inbox.            | Free / $6 per month        |
+| [Mailchimp](https://mailchimp.com)    | All-in-one marketing platform for email campaigns and audience management.      | Free / $13 per month       |
+| [Listmonk](https://listmonk.app)      | Open-source self-hosted newsletter and mailing list manager.                    | Free / Open source         |
+| [Dittofeed](https://dittofeed.com)    | Open-source platform for sending marketing emails and push notifications.       | Free / $75 per month       |
+| [Mailcoach](https://mailcoach.app)    | Self-hosted email marketing and newsletter platform.                            | Free trial / $10 per month |
+| [Klaviyo](https://klaviyo.com)        | Marketing automation platform for email and SMS campaigns.                      | Free / $20 per month       |
+| [Unsend](https://unsend.dev)          | Open-source toolkit for managing and retracting sent emails.                    | Free / Open source         |
+| [Erxes](https://erxes.io)             | Open-source marketing and customer experience platform.                         | Free / $11 per month       |
+| [Aftership](https://aftership.com)    | Post-purchase and shipment tracking platform for E-commerce businesses.         | Free / $11 per month       |
+| [Lemlist](https://lemlist.com)        | Email outreach platform for personalized campaigns and follow-ups.              | Free / $32 per month       |
+| [Mailerlite](https://mailerlite.com)  | Email marketing platform for creating and automating campaigns.                 | Free / $9 per month        |
+| [Brevo](https://brevo.com)            | Platform for managing email, SMS, and marketing automation.                     | Free / $8 per month        |
+| [Novu](https://novu.co)               | Open-source notification infrastructure for sending multi-channel messages.     | Free / $250 per month      |
+| [Rewardful](https://rewardful.com)    | Affiliate and referral program software for SaaS businesses.                    | Free / $49 per month       |
+| [Clickbank](https://clickbank.com)    | Affiliate marketplace and platform for selling digital products.                | Free / Activation fee      |
+| [Affonso](https://affonso.io)         | Affiliate management platform for tracking and managing partnerships.           | Free trial / $9 per month  |
 
 ## Project Management
 
