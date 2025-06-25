@@ -159,23 +159,23 @@
 
 > List of payment and billing solutions to help manage transactions, subscriptions, and invoices.
 
-| Name                                      | Description | Pricing                               |
-| ----------------------------------------- | ----------- | ------------------------------------- |
-| [Stripe](https://stripe.com)              |             | 2.9% + 30¢ per transaction            |
-| [Paddle](https://paddle.com)              |             | 5% + 50¢ per transaction              |
-| [Lemon Squeezy](https://lemonsqueezy.com) |             | 5% + 50¢ per transaction              |
-| [Polar](https://polar.sh)                 |             | 4% + 40¢ per transaction              |
-| [Creem](https://creem.io)                 |             | 3.9% + 40¢ per transaction            |
-| [Paypal](https://paypal.com)              |             | 3.4% per transaction + fixed fee      |
-| [Braintree](https://braintreegateway.com) |             | 2.9% + 29¢ per transaction            |
-| [2Checkout](https://2checkout.com)        |             | 3.5% + 35¢ per transaction            |
-| [Snipcart](https://snipcart.com)          |             | 2% per transaction + gateway fee      |
-| [RevenueCat](https://revenuecat.com)      |             | 1% monthly revenue                    |
-| [Chargebee](https://chargebee.com)        |             | 0.75% monthly for all billing         |
-| [Adyen](https://adyen.com)                |             | 13¢ per transaction + payment fee     |
-| [Checkout](https://checkout.com)          |             | Flat-rate based pricing               |
-| [Fast Spring](https://fastspring.com)     |             | Flat-rate based pricing               |
-| [Authorize](https://authorize.net)        |             | 10¢ per transaction + $25 monthly fee |
+| Name                                      | Description                                                                                         | Pricing                               |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| [Stripe](https://stripe.com)              | Platform for accepting online payments, subscriptions, and managing business finances.              | 2.9% + 30¢ per transaction            |
+| [Paddle](https://paddle.com)              | Provides payment infrastructure for SaaS businesses, including billing and tax compliance.          | 5% + 50¢ per transaction              |
+| [Lemon Squeezy](https://lemonsqueezy.com) | Payment processing and digital product delivery for creators and businesses.                        | 5% + 50¢ per transaction              |
+| [Polar](https://polar.sh)                 | Enables developers and creators to receive funding and manage payments for open-source projects.    | 4% + 40¢ per transaction              |
+| [Creem](https://creem.io)                 | Platform for creators to receive payments and manage subscriptions from their audience.             | 3.9% + 40¢ per transaction            |
+| [Paypal](https://paypal.com)              | Facilitates online payments, money transfers, and merchant services for individuals and businesses. | 3.4% per transaction + fixed fee      |
+| [Braintree](https://braintreegateway.com) | Provides payment gateway solutions for accepting cards, wallets, and local payment methods.         | 2.9% + 29¢ per transaction            |
+| [2Checkout](https://2checkout.com)        | Global payment processing and E-commerce solutions for online businesses.                           | 3.5% + 35¢ per transaction            |
+| [Snipcart](https://snipcart.com)          | Add shopping cart and payment processing to any website with simple integration.                    | 2% per transaction + gateway fee      |
+| [RevenueCat](https://revenuecat.com)      | Manages in-app subscriptions and payments easily for mobile and web apps.                           | 1% monthly revenue                    |
+| [Chargebee](https://chargebee.com)        | Subscription billing and revenue management platform for recurring payments.                        | 0.75% monthly for all billing         |
+| [Adyen](https://adyen.com)                | Provides unified platform for processing payments globally across online, mobile, and in-store.     | 13¢ per transaction + payment fee     |
+| [Checkout](https://checkout.com)          | Payment processing solutions for businesses to accept payments online and in-store.                 | Flat-rate based pricing               |
+| [Fast Spring](https://fastspring.com)     | E-commerce platform for selling digital products and managing global payments.                      | Flat-rate based pricing               |
+| [Authorize](https://authorize.net)        | Payment gateway service for accepting credit card and electronic check payments online.             | 10¢ per transaction + $25 monthly fee |
 
 ## Authentication
 
