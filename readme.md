@@ -411,43 +411,42 @@
 
 > List of project management tools to help organize, track, and manage projects effectively.
 
-| Name                                     | Description | Pricing                    |
-| ---------------------------------------- | ----------- | -------------------------- |
-| [Notion](https://notion.com)             |             | Free / $12 per month       |
-| [Asana](https://asana.com)               |             | Free / $11 per month       |
-| [Jira](https://jira.atlassian.com)       |             | Free / $9 per month        |
-| [Canny](https://canny.io)                |             | Free / $99 per month       |
-| [Clickup](https://clickup.com)           |             | Free / $10 per month       |
-| [Monday](https://monday.com)             |             | Free / $12 per month       |
-| [Wrike](https://wrike.com)               |             | Free / $10 per month       |
-| [Trello](https://trello.com)             |             | Free / $6 per month        |
-| [Todoist](https://todoist.com)           |             | Free / $5 per month        |
-| [Teamwork](https://teamwork.com)         |             | Free / $14 per month       |
-| [Basecamp](https://basecamp.com)         |             | Free / $15 per month       |
-| [Linear](https://linear.app)             |             | Free / $10 per month       |
-| [Plaky](https://plaky.com)               |             | Free / $5 per month        |
-| [Miro](https://miro.com)                 |             | Free / $10 per month       |
-| [Eraser](https://eraser.io)              |             | Free / $12 per month       |
-| [Obsidian](https://obsidian.md)          |             | Free / $50 per year        |
-| [Acreom](https://acreom.com)             |             | Free / $9 per month        |
-| [Plane](https://plane.so)                |             | Free / $8 per month        |
-| [Upvoty](https://upvoty.com)             |             | Free trial / $15 per month |
-| [Frill](https://frill.co)                |             | Free trial / $25 per month |
-| [Midday](https://midday.ai)              |             | Free trial / $29 per month |
-| [Featurebase](https://featurebase.app)   |             | Free / $59 per month       |
-| [Userjot](https://userjot.com)           |             | Free / $29 per month       |
-| [Release Notes](https://releasenotes.io) |             | Free / $39 per month       |
-| [Appflowy](https://appflowy.io)          |             | Free / $13 per month       |
-| [Focalboard](https://focalboard.com)     |             | Free / Open source         |
-| [Huly](https://huly.io)                  |             | Free / $20 per month       |
-| [Nifty](https://niftypm.com)             |             | Free / $49 per month       |
-| [Height](https://height.app)             |             | Free / $19 per month       |
-| [Open Project](https://openproject.org)  |             | Free / $8 per month        |
-| [Tegon](https://tegon.ai)                |             | Free / Open source         |
-| [Zenhub](https://zenhub.com)             |             | Free / $13 per month       |
-| [Orgnise](https://orgnise.in)            |             | Free / $24 per month       |
-| [Paymo](https://paymoapp.com)            |             | Free / $10 per month       |
-| [Operately](https://operately.com)       |             | Free / Open source         |
+| Name                                     | Description                                                              | Pricing                    |
+| ---------------------------------------- | ------------------------------------------------------------------------ | -------------------------- |
+| [Notion](https://notion.com)             | Workspace for notes, tasks, databases, and project management.           | Free / $12 per month       |
+| [Asana](https://asana.com)               | Tool for tracking tasks, projects, and team collaboration.               | Free / $11 per month       |
+| [Jira](https://jira.atlassian.com)       | Project management and issue tracking software for agile teams.          | Free / $9 per month        |
+| [Canny](https://canny.io)                | Platform for collecting and managing user feedback and feature requests. | Free / $99 per month       |
+| [Clickup](https://clickup.com)           | All-in-one platform for tasks, docs, goals, and project tracking.        | Free / $10 per month       |
+| [Monday](https://monday.com)             | Work operating system for managing projects, workflows, and teams.       | Free / $12 per month       |
+| [Wrike](https://wrike.com)               | Collaborative work management platform for projects and tasks.           | Free / $10 per month       |
+| [Trello](https://trello.com)             | Visual tool for organizing tasks and projects using boards and cards.    | Free / $6 per month        |
+| [Teamwork](https://teamwork.com)         | Project management software solution for teams and client work.          | Free / $14 per month       |
+| [Basecamp](https://basecamp.com)         | Simple platform for team communication and project organization.         | Free / $15 per month       |
+| [Linear](https://linear.app)             | Issue tracking and project management tool for software teams.           | Free / $10 per month       |
+| [Plaky](https://plaky.com)               | Project management tool for organizing tasks and projects.               | Free / $5 per month        |
+| [Miro](https://miro.com)                 | Online collaborative whiteboard for brainstorming and planning.          | Free / $10 per month       |
+| [Eraser](https://eraser.io)              | Collaborative diagramming and whiteboarding tool for teams.              | Free / $12 per month       |
+| [Obsidian](https://obsidian.md)          | Knowledge base and note-taking app with linking and markdown support.    | Free / $50 per year        |
+| [Acreom](https://acreom.com)             | Note-taking and task management tool for developers and teams.           | Free / $9 per month        |
+| [Plane](https://plane.so)                | Open-source project and product management platform.                     | Free / $8 per month        |
+| [Upvoty](https://upvoty.com)             | User feedback and feature request tracking platform.                     | Free trial / $15 per month |
+| [Frill](https://frill.co)                | Tool for collecting feedback, managing ideas, and sharing updates.       | Free trial / $25 per month |
+| [Midday](https://midday.ai)              | AI-powered productivity and project management assistant.                | Free trial / $29 per month |
+| [Featurebase](https://featurebase.app)   | Platform for collecting, prioritizing, and managing product feedback.    | Free / $59 per month       |
+| [Userjot](https://userjot.com)           | Tool for gathering and organizing user feedback and suggestions.         | Free / $29 per month       |
+| [Release Notes](https://releasenotes.io) | Platform for creating and sharing product release notes.                 | Free / $39 per month       |
+| [Appflowy](https://appflowy.io)          | Open-source workspace for notes, tasks, and project management.          | Free / $13 per month       |
+| [Focalboard](https://focalboard.com)     | Open-source project management tool for organizing tasks and projects.   | Free / Open source         |
+| [Huly](https://huly.io)                  | Project management platform designed for teams and freelancers.          | Free / $20 per month       |
+| [Nifty](https://niftypm.com)             | Project management software for planning, tracking, and collaboration.   | Free / $49 per month       |
+| [Height](https://height.app)             | Project management tool for teams with task tracking and collaboration.  | Free / $19 per month       |
+| [Open Project](https://openproject.org)  | Open-source project management software for teams.                       | Free / $8 per month        |
+| [Tegon](https://tegon.ai)                | AI-powered tool for managing tasks and projects.                         | Free / Open source         |
+| [Zenhub](https://zenhub.com)             | Project management solution integrated with GitHub.                      | Free / $13 per month       |
+| [Orgnise](https://orgnise.in)            | Task and project management tool for teams and individuals.              | Free / $24 per month       |
+| [Paymo](https://paymoapp.com)            | Work and project management software with time tracking feature.         | Free / $10 per month       |
+| [Operately](https://operately.com)       | Open-source platform for managing goals, projects, and team operations.  | Free / Open source         |
 
 ## Contributing
 
