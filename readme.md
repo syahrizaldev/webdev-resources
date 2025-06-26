@@ -288,63 +288,63 @@
 
 > List of UI libraries and components to help build apps efficiently.
 
-| Name                                       | Description                                                                             | Pricing            |
-| ------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------ |
-| [Tailwind](https://tailwindcss.com)        | Utility-first CSS framework for rapidly building custom user interfaces.                | Free / Open source |
-| [Bootstrap](https://getbootstrap.com)      | Popular CSS framework offering responsive design and prebuilt components.               | Free / Open source |
-| [Bulma](https://bulma.io)                  | Modern CSS framework based on Flexbox for easy and flexible layouts.                    | Free / Open source |
-| [UIKit](https://getuikit.com)              | Lightweight modular frontend framework for developing fast and powerful web interfaces. | Free / Open source |
-| [Semantic](https://semantic-ui.com)        | UI framework with human-friendly HTML and wide range of themes and components.          | Free / Open source |
-| [Blueprint](https://blueprintui.dev)       | Web component library for building accessible and customizable interfaces.              | Free / Open source |
-| [Radix](https://radix-ui.com)              | Unstyled accessible React primitives for building high-quality design systems.          | Free / Open source |
-| [Material](https://mui.com)                | React component library implementing Google Material Design system.                     | Free / Open source |
-| [Mantine](https://mantine.dev)             | React components and hooks library with full TypeScript support.                        | Free / Open source |
-| [Shadcn](https://ui.shadcn.com)            | Collection of accessible and customizable React components powered by Tailwind.         | Free / Open source |
-| [Ant Design](https://ant.design)           | Enterprise-level React UI library with a comprehensive set of components.               | Free / Open source |
-| [Chakra](https://chakra-ui.com)            | Simple, modular, and accessible React component library.                                | Free / Open source |
-| [Vuetify](https://vuetifyjs.com)           | Vue UI library implementing Material Design with large set of components.               | Free / Open source |
-| [Headless](https://headlessui.com)         | Unstyled accessible UI primitives for React and Vue.                                    | Free / Open source |
-| [Hero](https://heroui.com)                 | Collection of free and professionally designed Tailwind CSS components.                 | Free / Open source |
-| [Daisy](https://daisyui.com)               | Tailwind CSS plugin that adds customizable component classes.                           | Free / Open source |
-| [Zag](https://zagjs.com)                   | Collection of framework-agnostic UI component patterns with state machines.             | Free / Open source |
-| [Ark](https://ark-ui.com)                  | Headless and accessible UI components for React, Vue, and Solid.                        | Free / Open source |
-| [Base](https://base-ui.com)                | Unstyled and accessible React UI primitives for building custom components.             | Free / Open source |
-| [Meraki](https://merakiui.com)             | Collection of Tailwind CSS components for building modern websites.                     | Free / Open source |
-| [Draft](https://draft-ui.com)              | Accessible and customizable React components for building modern interfaces.            | Free / Open source |
-| [Magic](https://magicui.design)            | Collection of animated and interactive Tailwind CSS components.                         | Free / Open source |
-| [Flowbite](https://flowbite.com)           | Library of UI components built with Tailwind CSS for React, Vue, and more.              | Free / Open source |
-| [Preline](https://preline.co)              | Open-source Tailwind CSS component library for building modern websites.                | Free / Open source |
-| [Fluent](https://react.fluentui.dev)       | React components implementing Microsoft Fluent Design System.                           | Free / Open source |
-| [Prime React](https://primereact.org)      | Comprehensive React UI component library with wide range of features.                   | Free / Open source |
-| [Grommet](https://grommet.io)              | React-based framework for building responsive and accessible web apps.                  | Free / Open source |
-| [Origin](https://originui.com)             | Tailwind CSS component library for building modern user interfaces.                     | Free / Open source |
-| [Hexta](https://hextaui.com)               | React UI component library with focus on accessibility and customization.               | Free / Open source |
-| [Pace](https://paceui.com)                 | React component library designed for building accessible and flexible interfaces.       | Free / Open source |
-| [Prime Vue](https://primevue.org)          | Rich set of Vue UI components for building modern web applications.                     | Free / Open source |
-| [Reka](https://reka-ui.com)                | Unstyled accessible and customizable Vue UI components.                                 | Free / Open source |
-| [Shadcn Vue](https://shadcn-vue.com)       | Accessible Vue UI components implementation of Shadcn/ui.                               | Free / Open source |
-| [Inspira](https://inspira-ui.com)          | Tailwind CSS component library for React and Next.                                      | Free / Open source |
-| [Vuestic](https://ui.vuestic.dev)          | Vue 3 UI framework with large set of customizable components.                           | Free / Open source |
-| [Element Plus](https://element-plus.org)   | Vue 3 UI library with wide range of components and themes.                              | Free / Open source |
-| [Naive](https://naiveui.com)               | Vue 3 component library with customizable themes and components.                        | Free / Open source |
-| [Svelte UI](https://svelteui.dev)          | UI library for Svelte with accessible and customizable components.                      | Free / Open source |
-| [Melt](https://melt-ui.com)                | Headless UI components for Svelte focused on accessibility.                             | Free / Open source |
-| [Skeleton](https://skeleton.dev)           | UI toolkit for Svelte and Tailwind CSS with prebuilt components.                        | Free / Open source |
-| [Bits](https://bits-ui.com)                | Accessible and customizable React UI components.                                        | Free / Open source |
-| [Shadcn Svelte](https://shadcn-svelte.com) | Accessible Svelte UI components implementation of Shadcn/ui.                            | Free / Open source |
-| [Agnostic](https://agnosticui.com)         | Framework-agnostic UI components for React, Vue, Svelte, and Angular.                   | Free / Open source |
-| [Kibo](https://kibo-ui.com)                | Accessible and customizable React UI components.                                        | Free / Open source |
-| [Hyper](https://hyperui.dev)               | Free Tailwind CSS components for building modern websites.                              | Free / Open source |
-| [Neobrutalism](https://neobrutalism.dev)   | Tailwind CSS component library with neobrutalist design style.                          | Free / Open source |
-| [React Bits](https://reactbits.dev)        | Collection of reusable React animation components.                                      | Free / Open source |
-| [Starwind](https://starwind.dev)           | Tailwind CSS component library for building modern UI for Astro.                        | Free / Open source |
-| [Flyon](https://flyonui.com)               | Tailwind CSS component library for React and Next.                                      | Free / Open source |
-| [Yamada](https://yamada-ui.com)            | React UI library with accessible and customizable components.                           | Free / Open source |
-| [Animate](https://animate-ui.com)          | Animated and interactive Tailwind CSS components.                                       | Free / Open source |
-| [Bladewind](https://bladewindui.com)       | UI component library for Laravel powered by Tailwind CSS.                               | Free / Open source |
-| [Mary](https://mary-ui.com)                | Livewire UI component library with focus on accessibility.                              | Free / Open source |
-| [Wire](https://wireui.dev)                 | Simple UI components for Laravel powered by Tailwind CSS.                               | Free / Open source |
-| [Tallstack](https://tallstackui.com)       | Tailwind CSS components for the TALL stack (Laravel, Alpine, Livewire).                 | Free / Open source |
+| Name                                       | Description                                                                                  | Pricing            |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------ |
+| [Tailwind](https://tailwindcss.com)        | Utility-first CSS framework for rapidly building custom user interfaces.                     | Free / Open source |
+| [Bootstrap](https://getbootstrap.com)      | Popular CSS framework offering responsive design and prebuilt components.                    | Free / Open source |
+| [Bulma](https://bulma.io)                  | Modern CSS framework based on Flexbox for easy and flexible layouts.                         | Free / Open source |
+| [UIKit](https://getuikit.com)              | Lightweight modular frontend framework for developing fast and powerful web user interfaces. | Free / Open source |
+| [Semantic](https://semantic-ui.com)        | UI framework with human-friendly HTML and wide range of themes and components.               | Free / Open source |
+| [Blueprint](https://blueprintui.dev)       | Web component library for building accessible and customizable user interfaces.              | Free / Open source |
+| [Radix](https://radix-ui.com)              | Unstyled accessible React primitives for building high-quality design systems.               | Free / Open source |
+| [Material](https://mui.com)                | React component library implementing Google Material Design system.                          | Free / Open source |
+| [Mantine](https://mantine.dev)             | React components and hooks library with full TypeScript support.                             | Free / Open source |
+| [Shadcn](https://ui.shadcn.com)            | Collection of accessible and customizable React components powered by Tailwind.              | Free / Open source |
+| [Ant Design](https://ant.design)           | Enterprise-level React UI library with a comprehensive set of components.                    | Free / Open source |
+| [Chakra](https://chakra-ui.com)            | Simple, modular, and accessible React component library.                                     | Free / Open source |
+| [Vuetify](https://vuetifyjs.com)           | Vue UI library implementing Material Design with large set of components.                    | Free / Open source |
+| [Headless](https://headlessui.com)         | Unstyled accessible UI primitives for React and Vue.                                         | Free / Open source |
+| [Hero](https://heroui.com)                 | Collection of free and professionally designed Tailwind CSS components.                      | Free / Open source |
+| [Daisy](https://daisyui.com)               | Tailwind CSS plugin that adds customizable component classes.                                | Free / Open source |
+| [Zag](https://zagjs.com)                   | Collection of framework-agnostic UI component patterns with state machines.                  | Free / Open source |
+| [Ark](https://ark-ui.com)                  | Headless and accessible UI components for React, Vue, and Solid.                             | Free / Open source |
+| [Base](https://base-ui.com)                | Unstyled and accessible React UI primitives for building custom components.                  | Free / Open source |
+| [Meraki](https://merakiui.com)             | Collection of Tailwind CSS components for building modern websites.                          | Free / Open source |
+| [Draft](https://draft-ui.com)              | Accessible and customizable React components for building modern user interfaces.            | Free / Open source |
+| [Magic](https://magicui.design)            | Collection of animated and interactive Tailwind CSS components.                              | Free / Open source |
+| [Flowbite](https://flowbite.com)           | Library of UI components built with Tailwind CSS for React, Vue, and more.                   | Free / Open source |
+| [Preline](https://preline.co)              | Open-source Tailwind CSS component library for building modern websites.                     | Free / Open source |
+| [Fluent](https://react.fluentui.dev)       | React components implementing Microsoft Fluent Design System.                                | Free / Open source |
+| [Prime React](https://primereact.org)      | Comprehensive React UI component library with wide range of features.                        | Free / Open source |
+| [Grommet](https://grommet.io)              | React-based framework for building responsive and accessible web apps.                       | Free / Open source |
+| [Origin](https://originui.com)             | Tailwind CSS component library for building modern user interfaces.                          | Free / Open source |
+| [Hexta](https://hextaui.com)               | React UI component library with focus on accessibility and customization.                    | Free / Open source |
+| [Pace](https://paceui.com)                 | React component library designed for building accessible and flexible user interfaces.       | Free / Open source |
+| [Prime Vue](https://primevue.org)          | Rich set of Vue UI components for building modern web applications.                          | Free / Open source |
+| [Reka](https://reka-ui.com)                | Unstyled accessible and customizable Vue UI components.                                      | Free / Open source |
+| [Shadcn Vue](https://shadcn-vue.com)       | Accessible Vue UI components implementation of Shadcn/ui.                                    | Free / Open source |
+| [Inspira](https://inspira-ui.com)          | Tailwind CSS component library for React and Next.                                           | Free / Open source |
+| [Vuestic](https://ui.vuestic.dev)          | Vue 3 UI framework with large set of customizable components.                                | Free / Open source |
+| [Element Plus](https://element-plus.org)   | Vue 3 UI library with wide range of components and themes.                                   | Free / Open source |
+| [Naive](https://naiveui.com)               | Vue 3 component library with customizable themes and components.                             | Free / Open source |
+| [Svelte UI](https://svelteui.dev)          | UI library for Svelte with accessible and customizable components.                           | Free / Open source |
+| [Melt](https://melt-ui.com)                | Headless UI components for Svelte focused on accessibility.                                  | Free / Open source |
+| [Skeleton](https://skeleton.dev)           | UI toolkit for Svelte and Tailwind CSS with prebuilt components.                             | Free / Open source |
+| [Bits](https://bits-ui.com)                | Accessible and customizable React UI components.                                             | Free / Open source |
+| [Shadcn Svelte](https://shadcn-svelte.com) | Accessible Svelte UI components implementation of Shadcn/ui.                                 | Free / Open source |
+| [Agnostic](https://agnosticui.com)         | Framework-agnostic UI components for React, Vue, Svelte, and Angular.                        | Free / Open source |
+| [Kibo](https://kibo-ui.com)                | Accessible and customizable React UI components.                                             | Free / Open source |
+| [Hyper](https://hyperui.dev)               | Free Tailwind CSS components for building modern websites.                                   | Free / Open source |
+| [Neobrutalism](https://neobrutalism.dev)   | Tailwind CSS component library with neobrutalist design style.                               | Free / Open source |
+| [React Bits](https://reactbits.dev)        | Collection of reusable React animation components.                                           | Free / Open source |
+| [Starwind](https://starwind.dev)           | Tailwind CSS component library for building modern UI for Astro.                             | Free / Open source |
+| [Flyon](https://flyonui.com)               | Tailwind CSS component library for React and Next.                                           | Free / Open source |
+| [Yamada](https://yamada-ui.com)            | React UI library with accessible and customizable components.                                | Free / Open source |
+| [Animate](https://animate-ui.com)          | Animated and interactive Tailwind CSS components.                                            | Free / Open source |
+| [Bladewind](https://bladewindui.com)       | UI component library for Laravel powered by Tailwind CSS.                                    | Free / Open source |
+| [Mary](https://mary-ui.com)                | Livewire UI component library with focus on accessibility.                                   | Free / Open source |
+| [Wire](https://wireui.dev)                 | Simple UI components for Laravel powered by Tailwind CSS.                                    | Free / Open source |
+| [Tallstack](https://tallstackui.com)       | Tailwind CSS components for the TALL stack (Laravel, Alpine, Livewire).                      | Free / Open source |
 
 ## Headless CMS
 
