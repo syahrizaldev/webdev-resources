@@ -23,8 +23,8 @@
 - [Search](#search)
 - [Charts](#charts)
 - [Rich Text Editors](#rich-text-editors)
-- [Headless CMS](#headless-cms)
 - [UI Libraries](#ui-libraries)
+- [Headless CMS](#headless-cms)
 - [Marketing Tools](#marketing-tools)
 - [Project Management](#project-management)
 
@@ -284,36 +284,6 @@
 | [Trix](https://trix-editor.org)               | Open-source rich text editor designed for composing and formatting content with extensible API. | Free / Open source    |
 | [TUI Editor](https://ui.toast.com/tui-editor) | Markdown WYSIWYG editor supporting live preview, extensibility, and collaborative editing.      | Free / Open source    |
 
-## Headless CMS
-
-> List of headless content management systems to help create and manage content in apps.
-
-| Name                                     | Description                                                                          | Pricing                    |
-| ---------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------- |
-| [Strapi](https://strapi.io)              | Open-source headless CMS for building customizable APIs and managing content.        | Free / $15 per month       |
-| [Sanity](https://sanity.io)              | Platform for structured content management with real-time collaboration and APIs.    | Free / $15 per month       |
-| [Payload](https://payloadcms.com)        | Headless CMS built with Node, offering flexible content modeling and authentication. | Free / $35 per month       |
-| [Keystatic](https://keystatic.com)       | Git-based headless CMS for managing content with interactive visual editor.          | Free / Open source         |
-| [Keystone](https://keystonejs.com)       | Open-source CMS and backend framework for managing content and data.                 | Free / Open source         |
-| [Storyblok](https://storyblok.com)       | Visual headless CMS for managing and delivering content via APIs.                    | Free / $103 per month      |
-| [Contentful](https://contentful.com)     | Cloud-based headless CMS for creating, managing, and distributing content.           | Free / $300 per month      |
-| [Prismic](https://prismic.io)            | Headless CMS for managing and delivering content through simple APIs.                | Free / $150 per month      |
-| [Directus](https://directus.io)          | Open-source platform for managing content and data in SQL databases.                 | Free / $15 per month       |
-| [Gridsome](https://gridsome.org)         | Static site generator for Vue, often integrated with headless CMS.                   | Free / Open source         |
-| [Ghost](https://ghost.org)               | Headless CMS focused on publishing and managing content for blogs and websites.      | Free trial / $9 per month  |
-| [Butter](https://buttercms.com)          | Headless CMS for adding content management to any website or apps.                   | Free trial / $99 per month |
-| [Dato](https://datocms.com)              | Cloud-based headless CMS for managing content and digital assets.                    | Free / $154 per month      |
-| [Tina](https://tina.io)                  | Open-source Git-backed headless CMS with visual editing interface.                   | Free / $29 per month       |
-| [Hygraph](https://hygraph.com)           | Headless CMS with a GraphQL API for managing and delivering content.                 | Free / $199 per month      |
-| [Squidex](https://squidex.io)            | Open-source headless CMS for managing content and workflows easily.                  | Free / $20 per month       |
-| [Cosmic](https://cosmicjs.com)           | Headless CMS for managing content and media with simple APIs.                        | Free / $299 per month      |
-| [Zenblog](https://zenblog.com)           | Blogging platform with headless CMS features for content management.                 | Free / $6 per month        |
-| [Statamic](https://statamic.com)         | Flat-file CMS with headless capabilities for managing content and assets.            | Free / $275 per project    |
-| [Craft](https://craftcms.com)            | Flexible CMS for building custom digital experiences with headless support.          | Free / $279 per project    |
-| [Twill](https://twillcms.com)            | Open-source CMS for Laravel designed for custom content management.                  | Free / Open source         |
-| [Pages](https://pagescms.org)            | Open-source and simple headless CMS for static site content management.              | Free / Open source         |
-| [Wix Studio](https://wix.com/studio/cms) | Wix CMS platform for managing content and building websites visually.                | Free trial / $12 per month |
-
 ## UI Libraries
 
 > List of UI libraries and components to help build apps efficiently.
@@ -375,6 +345,36 @@
 | [Mary](https://mary-ui.com)                | Livewire UI component library with focus on accessibility.                              | Free / Open source |
 | [Wire](https://wireui.dev)                 | Simple UI components for Laravel powered by Tailwind CSS.                               | Free / Open source |
 | [Tallstack](https://tallstackui.com)       | Tailwind CSS components for the TALL stack (Laravel, Alpine, Livewire).                 | Free / Open source |
+
+## Headless CMS
+
+> List of headless content management systems to help create and manage content in apps.
+
+| Name                                     | Description                                                                          | Pricing                    |
+| ---------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------- |
+| [Strapi](https://strapi.io)              | Open-source headless CMS for building customizable APIs and managing content.        | Free / $15 per month       |
+| [Sanity](https://sanity.io)              | Platform for structured content management with real-time collaboration and APIs.    | Free / $15 per month       |
+| [Payload](https://payloadcms.com)        | Headless CMS built with Node, offering flexible content modeling and authentication. | Free / $35 per month       |
+| [Keystatic](https://keystatic.com)       | Git-based headless CMS for managing content with interactive visual editor.          | Free / Open source         |
+| [Keystone](https://keystonejs.com)       | Open-source CMS and backend framework for managing content and data.                 | Free / Open source         |
+| [Storyblok](https://storyblok.com)       | Visual headless CMS for managing and delivering content via APIs.                    | Free / $103 per month      |
+| [Contentful](https://contentful.com)     | Cloud-based headless CMS for creating, managing, and distributing content.           | Free / $300 per month      |
+| [Prismic](https://prismic.io)            | Headless CMS for managing and delivering content through simple APIs.                | Free / $150 per month      |
+| [Directus](https://directus.io)          | Open-source platform for managing content and data in SQL databases.                 | Free / $15 per month       |
+| [Gridsome](https://gridsome.org)         | Static site generator for Vue, often integrated with headless CMS.                   | Free / Open source         |
+| [Ghost](https://ghost.org)               | Headless CMS focused on publishing and managing content for blogs and websites.      | Free trial / $9 per month  |
+| [Butter](https://buttercms.com)          | Headless CMS for adding content management to any website or apps.                   | Free trial / $99 per month |
+| [Dato](https://datocms.com)              | Cloud-based headless CMS for managing content and digital assets.                    | Free / $154 per month      |
+| [Tina](https://tina.io)                  | Open-source Git-backed headless CMS with visual editing interface.                   | Free / $29 per month       |
+| [Hygraph](https://hygraph.com)           | Headless CMS with a GraphQL API for managing and delivering content.                 | Free / $199 per month      |
+| [Squidex](https://squidex.io)            | Open-source headless CMS for managing content and workflows easily.                  | Free / $20 per month       |
+| [Cosmic](https://cosmicjs.com)           | Headless CMS for managing content and media with simple APIs.                        | Free / $299 per month      |
+| [Zenblog](https://zenblog.com)           | Blogging platform with headless CMS features for content management.                 | Free / $6 per month        |
+| [Statamic](https://statamic.com)         | Flat-file CMS with headless capabilities for managing content and assets.            | Free / $275 per project    |
+| [Craft](https://craftcms.com)            | Flexible CMS for building custom digital experiences with headless support.          | Free / $279 per project    |
+| [Twill](https://twillcms.com)            | Open-source CMS for Laravel designed for custom content management.                  | Free / Open source         |
+| [Pages](https://pagescms.org)            | Open-source and simple headless CMS for static site content management.              | Free / Open source         |
+| [Wix Studio](https://wix.com/studio/cms) | Wix CMS platform for managing content and building websites visually.                | Free trial / $12 per month |
 
 ## Marketing Tools
 
