@@ -18,12 +18,12 @@
 - [Databases](#databases)
 - [Analytics](#analytics)
 - [Payments](#payments)
+- [Build Tooling](#build-tooling)
 - [Authentication](#authentication)
 - [Testing](#testing)
 - [Search](#search)
 - [Charts](#charts)
 - [Rich Text Editors](#rich-text-editors)
-- [Build Toolkit](#dev-toolkit)
 - [UI Libraries](#ui-libraries)
 - [Headless CMS](#headless-cms)
 - [Marketing Tools](#marketing-tools)
@@ -178,6 +178,27 @@
 | [Fast Spring](https://fastspring.com)     | E-commerce platform for selling digital products and managing global payments.                      | Flat-rate based pricing               |
 | [Authorize](https://authorize.net)        | Payment gateway service for accepting credit card and electronic check payments online.             | 10¢ per transaction + $25 monthly fee |
 
+## Build Tooling
+
+> List of build tooling to help the development process more efficient and consistent.
+
+| Name                                 | Description                                                                         | Pricing            |
+| ------------------------------------ | ----------------------------------------------------------------------------------- | ------------------ |
+| [Vite](https://vite.dev)             | Fast frontend build tool and development server for modern web projects.            | Free / Open source |
+| [Bun](https://bun.sh)                | All-in-one JavaScript runtime with a fast bundler, transpiler, and package manager. | Free / Open source |
+| [Webpack](https://webpack.js.org)    | Module bundler for JavaScript applications with extensive plugin support.           | Free / Open source |
+| [Parcel](https://parceljs.org)       | Zero-config web application bundler with fast performance and built-in features.    | Free / Open source |
+| [Rollup](https://rollupjs.org)       | JavaScript module bundler optimized for building libraries and applications.        | Free / Open source |
+| [Rolldown](https://rolldown.rs)      | High-performance JavaScript bundler written in Rust inspired by Rollup.             | Free / Open source |
+| [Turborepo](https://turborepo.com)   | High-performance build system for JavaScript and TypeScript monorepos.              | Free / Open source |
+| [Nx](https://nx.dev)                 | Monorepo build system with advanced code sharing and task orchestration.            | Free / Open source |
+| [Oxc](https://oxc.rs)                | Fast JavaScript and TypeScript parser and linter written in Rust.                   | Free / Open source |
+| [Swc](https://swc.rs)                | Super-fast JavaScript and TypeScript compiler written in Rust.                      | Free / Open source |
+| [Rsbuild](https://rsbuild.rs)        | Rust-based web application bundler focused on speed and efficiency.                 | Free / Open source |
+| [Rspack](https://rspack.rs)          | High-performance JavaScript bundler built with Rust compatible with Webpack.        | Free / Open source |
+| [Farm](https://farmfe.org)           | Fast and extensible web bundler written in Rust for modern web development.         | Free / Open source |
+| [Esbuild](https://esbuild.github.io) | Extremely fast JavaScript bundler and minifier written in Go.                       | Free / Open source |
+
 ## Authentication
 
 > List of authentication and authorization solutions to help secure your apps.
@@ -194,7 +215,6 @@
 | [Better Auth](https://better-auth.com)    | Open-source authentication service for adding login and user management.                   | Free / Open source   |
 | [Auth0](https://auth0.com)                | Identity platform for authentication, authorization, and user management.                  | Free / $35 per month |
 | [Passport](https://passportjs.org)        | Authentication middleware for Node, supporting a wide range of strategies.                 | Free / Open source   |
-| [JSON Web Tokens](https://jwt.io)         | Open standard for securely transmitting information as a JSON object.                      | Free / Open source   |
 | [Cognito](https://aws.amazon.com/cognito) | AWS service for user authentication, authorization, and user management.                   | Free / Pay as you go |
 | [Authentik](https://goauthentik.io)       | Open-source identity provider for authentication and authorization.                        | Free / Pay as you go |
 | [Stack Auth](https://stack-auth.com)      | Authentication and user management platform for web apps.                                  | Free / $49 per month |
@@ -284,16 +304,6 @@
 | [Jodit](https://xdsoft.net/jodit)             | Lightweight and customizable rich text editor for web apps, supporting image uploads.           | Free / $99 lifetime   |
 | [Trix](https://trix-editor.org)               | Open-source rich text editor designed for composing and formatting content with extensible API. | Free / Open source    |
 | [TUI Editor](https://ui.toast.com/tui-editor) | Markdown WYSIWYG editor supporting live preview, extensibility, and collaborative editing.      | Free / Open source    |
-
-## Build Toolkit
-
-| Name                               | Description | Pricing |
-| ---------------------------------- | ----------- | ------- |
-| [Vite](https://vite.dev)           |             |         |
-| [Bun](https://bun.sh)              |             |         |
-| [Turborepo](https://turborepo.com) |             |         |
-| [Parcel](https://parceljs.org)     |             |         |
-| [Webpack](https://webpack.js.org)  |             |         |
 
 ## UI Libraries
 
