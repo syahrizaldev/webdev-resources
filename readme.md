@@ -23,6 +23,7 @@
 - [Search](#search)
 - [Charts](#charts)
 - [Rich Text Editors](#rich-text-editors)
+- [Build Toolkit](#dev-toolkit)
 - [UI Libraries](#ui-libraries)
 - [Headless CMS](#headless-cms)
 - [Marketing Tools](#marketing-tools)
@@ -283,6 +284,16 @@
 | [Jodit](https://xdsoft.net/jodit)             | Lightweight and customizable rich text editor for web apps, supporting image uploads.           | Free / $99 lifetime   |
 | [Trix](https://trix-editor.org)               | Open-source rich text editor designed for composing and formatting content with extensible API. | Free / Open source    |
 | [TUI Editor](https://ui.toast.com/tui-editor) | Markdown WYSIWYG editor supporting live preview, extensibility, and collaborative editing.      | Free / Open source    |
+
+## Build Toolkit
+
+| Name                               | Description | Pricing |
+| ---------------------------------- | ----------- | ------- |
+| [Vite](https://vite.dev)           |             |         |
+| [Bun](https://bun.sh)              |             |         |
+| [Turborepo](https://turborepo.com) |             |         |
+| [Parcel](https://parceljs.org)     |             |         |
+| [Webpack](https://webpack.js.org)  |             |         |
 
 ## UI Libraries
 
