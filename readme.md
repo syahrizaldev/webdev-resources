@@ -155,6 +155,7 @@
 | [Seline](https://seline.so)                      | Privacy-focused analytics platform for web and mobile apps.                               | Free / $14 per month      |
 | [Swetrix](https://swetrix.com)                   | Privacy-friendly analytics tool for websites and web apps.                                | Free trial / $5 per month |
 | [Ackee](https://ackee.electerious.com)           | Self-hosted and privacy-friendly analytics for websites and web apps.                     | Free / Open source        |
+| [Vemetric](https://vemetric.com)                 | Privacy-focused analytics for website with simple tracking and real-time insights.        | Free / $5 per month       |
 
 ## Payments
 
@@ -333,6 +334,7 @@
 | [Craft](https://craftcms.com)            | Flexible CMS for building custom digital experiences with headless support.          | Free / $279 per project    |
 | [Twill](https://twillcms.com)            | Open-source CMS for Laravel designed for custom content management.                  | Free / Open source         |
 | [Pages](https://pagescms.org)            | Open-source and simple headless CMS for static site content management.              | Free / Open source         |
+| [Decap](https://decapcms.org)            | Git-based headless CMS designed for static site generators with easy integration.    | Free / Open source         |
 | [Wix Studio](https://wix.com/studio/cms) | Wix CMS platform for managing content and building websites visually.                | Free trial / $12 per month |
 
 ## UI Libraries
@@ -373,7 +375,8 @@
 | [Pace](https://paceui.com)                 | React component library designed for building accessible and flexible user interfaces.       | Free / Open source |
 | [Prime Vue](https://primevue.org)          | Rich set of Vue UI components for building modern web applications.                          | Free / Open source |
 | [Reka](https://reka-ui.com)                | Unstyled accessible and customizable Vue UI components.                                      | Free / Open source |
-| [Shadcn Vue](https://shadcn-vue.com)       | Accessible Vue UI components implementation of Shadcn/ui.                                    | Free / Open source |
+| [Shadcn Vue](https://shadcn-vue.com)       | Accessible Vue UI components library implementation of Shadcn.                               | Free / Open source |
+| [Buefy](https://buefy.org)                 | Lightweight and customizable UI component library for Vue based on Bulma.                    | Free / Open source |
 | [Inspira](https://inspira-ui.com)          | Tailwind CSS component library for React and Next.                                           | Free / Open source |
 | [Vuestic](https://ui.vuestic.dev)          | Vue 3 UI framework with large set of customizable components.                                | Free / Open source |
 | [Element Plus](https://element-plus.org)   | Vue 3 UI library with wide range of components and themes.                                   | Free / Open source |
@@ -382,7 +385,7 @@
 | [Melt](https://melt-ui.com)                | Headless UI components for Svelte focused on accessibility.                                  | Free / Open source |
 | [Skeleton](https://skeleton.dev)           | UI toolkit for Svelte and Tailwind CSS with prebuilt components.                             | Free / Open source |
 | [Bits](https://bits-ui.com)                | Accessible and customizable React UI components.                                             | Free / Open source |
-| [Shadcn Svelte](https://shadcn-svelte.com) | Accessible Svelte UI components implementation of Shadcn/ui.                                 | Free / Open source |
+| [Shadcn Svelte](https://shadcn-svelte.com) | Accessible Svelte UI components implementation of Shadcn.                                    | Free / Open source |
 | [Agnostic](https://agnosticui.com)         | Framework-agnostic UI components for React, Vue, Svelte, and Angular.                        | Free / Open source |
 | [Kibo](https://kibo-ui.com)                | Accessible and customizable React UI components.                                             | Free / Open source |
 | [Hyper](https://hyperui.dev)               | Free Tailwind CSS components for building modern websites.                                   | Free / Open source |

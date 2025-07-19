@@ -2,9 +2,9 @@
    "name": "webdev-resources",
    "description": "Awesome list of resources for web developers and indie-hackers.",
    "version": "1.0.0",
+   "private": true,
    "license": "MIT",
    "author": "Syahrizal",
-   "private": true,
    "scripts": {
       "format:check": "prettier --check readme.md",
       "format:write": "prettier --write readme.md"
@@ -19,7 +19,6 @@
       "analytics",
       "resources",
       "awesome-list",
-      "curated-list",
       "dev-resources",
       "indie-hacking",
       "web-development",
