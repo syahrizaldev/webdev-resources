@@ -156,6 +156,7 @@
 | [Swetrix](https://swetrix.com)                   | Privacy-friendly analytics tool for websites and web apps.                                | Free trial / $5 per month |
 | [Ackee](https://ackee.electerious.com)           | Self-hosted and privacy-friendly analytics for websites and web apps.                     | Free / Open source        |
 | [Vemetric](https://vemetric.com)                 | Privacy-focused analytics for website with simple tracking and real-time insights.        | Free / $5 per month       |
+| [Databuddy](https://databuddy.cc)                | Privacy-friendly analytics platform for tracking user behavior and conversion metrics.    | Free / $15 per month      |
 
 ## Payments
 
@@ -178,6 +179,7 @@
 | [Checkout](https://checkout.com)          | Payment processing solutions for businesses to accept payments online and in-store.                 | Flat-rate based pricing               |
 | [Fast Spring](https://fastspring.com)     | E-commerce platform for selling digital products and managing global payments.                      | Flat-rate based pricing               |
 | [Authorize](https://authorize.net)        | Payment gateway service for accepting credit card and electronic check payments online.             | 10¢ per transaction + $25 monthly fee |
+| [Dodo Payments](https://dodopayments.com) | Platform for managing online payments, subscriptions, and digital products with automated payouts.  | 4% + 40¢ per transaction              |
 
 ## Authentication
 
@@ -258,10 +260,12 @@
 | [Google Chart](https://developers.google.com/chart) | Free tool for creating a variety of interactive charts and data tools for web apps.              | Free / Open source     |
 | [Mermaid](https://mermaid.js.org)                   | JavaScript-based diagramming and charting tool that uses markdown-inspired syntax.               | Free / Open source     |
 | [Chartist](https://chartist.dev)                    | Simple and responsive charting library for creating SVG-based charts in JavaScript.              | Free / Open source     |
+| [Recharts](https://recharts.org)                    | Composable react charting components for creating interactive and customizable charts.           | Free / Open source     |
 | [Unovis](https://unovis.dev)                        | Modular data visualization framework for building interactive charts and visualizations.         | Free / Open source     |
-| [Pixi](https://pixijs.com)                          | Fast 2D rendering engine for creating interactive graphics and visualizations using WebGL.       | Free / Open source     |
 | [Plotly](https://plotly.com/javascript)             | Graphing library for creating interactive and publication-quality charts in JavaScript.          | Free / Open source     |
-| [Rosen Charts](https://rosencharts.com)             | JavaScript charting library for building interactive and customizable charts and dashboards.     | Free / Open source     |
+| [Pixi](https://pixijs.com)                          | Fast 2D rendering engine for creating interactive graphics and visualizations using WebGL.       | Free / Open source     |
+| [Rosen Charts](https://rosencharts.com)             | JavaScript charting library for building interactive, customizable charts and dashboards.        | Free / Open source     |
+| [Evilcharts](https://evilcharts.com)                | Open-source charting library for creating customizable and interactive charts.                   | Free / Open source     |
 
 ## Rich Text Editors
 
@@ -373,6 +377,7 @@
 | [Origin](https://originui.com)             | Tailwind CSS component library for building modern user interfaces.                          | Free / Open source |
 | [Hexta](https://hextaui.com)               | React UI component library with focus on accessibility and customization.                    | Free / Open source |
 | [Pace](https://paceui.com)                 | React component library designed for building accessible and flexible user interfaces.       | Free / Open source |
+| [Intent](https://intentui.com)             | React component library focused on accessibility, customization, and experiences.            | Free / Open source |
 | [Prime Vue](https://primevue.org)          | Rich set of Vue UI components for building modern web applications.                          | Free / Open source |
 | [Reka](https://reka-ui.com)                | Unstyled accessible and customizable Vue UI components.                                      | Free / Open source |
 | [Shadcn Vue](https://shadcn-vue.com)       | Accessible Vue UI components library implementation of Shadcn.                               | Free / Open source |
