@@ -2,9 +2,9 @@
    "name": "webdev-resources",
    "description": "Awesome list of resources for web developers and indie-hackers.",
    "version": "1.0.0",
-   "private": true,
    "license": "MIT",
    "author": "Syahrizal",
+   "private": true,
    "scripts": {
       "format:check": "prettier --check readme.md",
       "format:write": "prettier --write readme.md"
@@ -24,12 +24,12 @@
       "web-development",
       "webdev-resources"
    ],
-   "homepage": "https://github.com/syahrizaldev/webdev-resources",
+   "bugs": {
+      "url": "https://github.com/syahrizaldev/webdev-resources/issues"
+   },
    "repository": {
       "type": "git",
       "url": "https://github.com/syahrizaldev/webdev-resources"
    },
-   "bugs": {
-      "url": "https://github.com/syahrizaldev/webdev-resources/issues"
-   }
+   "homepage": "https://github.com/syahrizaldev/webdev-resources"
 }

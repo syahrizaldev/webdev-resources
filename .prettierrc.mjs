@@ -3,7 +3,6 @@ export default {
    tabWidth: 3,
    useTabs: false,
    singleQuote: true,
-   endOfLine: 'crlf',
    trailingComma: 'all',
    overrides: [
       {
