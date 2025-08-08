@@ -114,7 +114,6 @@
 | [Databrick](https://databricks.com)       | Data lakehouse platform combining data engineering, analytics, and AI.                                   | Free / Pay as you go       |
 | [Harper](https://harpersystems.dev)       | Cloud-native database for storing and querying structured data.                                          | Free / $3 per month        |
 | [UnDB](https://undb.io)                   | Serverless database for building and deploying web apps.                                                 | Free / $9 per month        |
-| [Instant](https://instantdb.com)          | Serverless database for building real-time and collaborative apps.                                       | Free / $30 per month       |
 | [TiDB](https://pingcap.com)               | Open-source distributed SQL database compatible with MySQL.                                              | Free / Pay as you go       |
 | [Crate](https://cratedb.com)              | Distributed SQL database for real-time analytics on large datasets.                                      | Free / Pay as you go       |
 | [Hydra](https://hydra.so)                 | Distributed database for building scalable and real-time apps.                                           | Free / Pay as you go       |
