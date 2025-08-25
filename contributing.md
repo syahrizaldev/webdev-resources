@@ -7,6 +7,30 @@
 
 ## How to Contribute
 
+Please ensure that your pull request follows these guidelines:
+
+- Search for previous suggestions before submitting a new one as it may be a duplicate.
+- The pull request should be complete and adhere to all the guidelines.
+- Please avoid opening a draft pull request while working on the suggestions.
+- Make an individual pull request for each suggestion to facilitate easier review.
+- Add new suggestions to the bottom of the relevant category.
+- Use the following format for your pull request title:
+   - `add [resource name] to [resource category]`
+   - For example: `add netlify to hosting`
+   - For example: `add strapi to headless cms`
+- In the pull request comment, provide a link to the submitted suggestion using this format:
+   - `[resource name]: [resource link]`
+   - For example: `netlify: https://netlify.com`
+   - For example: `strapi: https://strapi.io`
+- Please keep your descriptions short yet informative:
+   - The description should begin with a capital letter.
+   - Do not use title case in the description.
+   - Do not use marketing taglines as descriptions.
+   - Avoid to repeating the resource name as descriptions.
+- Ensure that your editor is configured to remove trailing whitespace.
+- Please check your spelling and grammar. You can use tools like Grammarly to assist you.
+- Double-check that your suggestion is genuinely free, freemium, or has free tiers.
+
 ## Engage with Us
 
 - **Join Discussions:** Join or start a discussion in the
