@@ -483,9 +483,10 @@
 ## Contributing
 
 > [!IMPORTANT]
-> I am not currently accepting direct contributions to this list.
-> However, I welcome hearing any suggestions and feedback for new resources
-> that could be beneficial for web developers and indie-hackers.
+> I welcome any suggestions and feedback on new resources that could be
+> beneficial for web developers and indie hackers. Please note that this project
+> is released with a contributor [Code of Conduct](./code-of-conduct.md).
+> By participating in this project, you agree to follow its terms.
 > Feel free to check the [CONTRIBUTING](./contributing.md) file for more information.
 
 ## Feedback
