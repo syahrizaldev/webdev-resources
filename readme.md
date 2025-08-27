@@ -340,6 +340,7 @@
 | [Pages](https://pagescms.org)            | Open-source and simple headless CMS for static site content management.              | Free / Open source         |
 | [Decap](https://decapcms.org)            | Git-based headless CMS designed for static site generators with easy integration.    | Free / Open source         |
 | [Wix Studio](https://wix.com/studio/cms) | Wix CMS platform for managing content and building websites visually.                | Free trial / $12 per month |
+| [Marble](https://marblecms.com)          | Simple open-source CMS for manage content, designed for simplicity and flexibility.  | Free / $10 per month       |
 
 ## UI Libraries
 
