@@ -17,7 +17,7 @@ Please ensure that your pull request follows these guidelines:
 - Use the following format for your pull request title:
    - `add [resource name] to [resource category]`
    - For example: `add netlify to hosting`
-   - For example: `add strapi to headless cms`
+   - For example: `add strapi to headless-cms`
 - In the pull request comment, provide a link to the submitted suggestion using this format:
    - `[resource name]: [resource link]`
    - For example: `netlify: https://netlify.com`
