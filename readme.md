@@ -404,6 +404,7 @@
 | [Wire](https://wireui.dev)                 | Simple UI components for Laravel powered by Tailwind CSS.                                    | Free / Open source |
 | [Tallstack](https://tallstackui.com)       | Tailwind CSS components for the TALL stack (Laravel, Alpine, Livewire).                      | Free / Open source |
 | [Intent](https://intentui.com)             | React component library focused on accessibility, customization, and experiences.            | Free / Open source |
+| [Reui](https://reui.io/)                   | React UI library with a collection of pre-designed components and utilities.                 | Free / Open source |
 
 ## Marketing Tools
 
