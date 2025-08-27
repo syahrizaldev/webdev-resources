@@ -228,18 +228,19 @@
 
 > List of search engine services to add search functionality to your apps.
 
-| Name                                     | Description                                                                                                            | Pricing              |
-| ---------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| [Algolia](https://algolia.com)           | Hosted search API that provides fast, relevant search and discovery for websites and apps.                             | Free / Pay as you go |
-| [Elastic](https://elastic.co)            | Open-source search and analytics engine, commonly used for full-text search, logging, and data analysis.               | Free / $95 per month |
-| [Typesense](https://typesense.org)       | Open-source typo-tolerant search engine optimized for instant, relevant search results.                                | Free / Open source   |
-| [Meilisearch](https://meilisearch.com)   | Open-source and easy-to-use search engine that delivers fast and relevant search results.                              | Free / $30 per month |
-| [Opensearch](https://opensearch.org)     | Open-source search and analytics suite derived from Elasticsearch, supporting full-text search and data visualization. | Free / Open source   |
-| [Orama](https://oramasearch.com)         | Lightweight in-memory search engine designed for fast and simple full-text search in web apps.                         | Free / $49 per month |
-| [Manticore](https://manticoresearch.com) | Open-source search engine for full-text search, filtering, and analytics, compatible with SQL and JSON.                | Free / Open source   |
-| [Quickwit](https://quickwit.io)          | Cloud-native search engine optimized for large-scale, distributed log and text data.                                   | Free / Open source   |
-| [Pagefind](https://pagefind.app)         | Static site search library that adds fast, client-side search to static websites.                                      | Free / Open source   |
-| [Sphinx](https://sphinxsearch.com)       | Open-source full-text search server designed for performance, relevance, and integration with SQL databases.           | Free / Open source   |
+| Name                                       | Description                                                                                                            | Pricing              |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| [Algolia](https://algolia.com)             | Hosted search API that provides fast, relevant search and discovery for websites and apps.                             | Free / Pay as you go |
+| [Elastic](https://elastic.co)              | Open-source search and analytics engine, commonly used for full-text search, logging, and data analysis.               | Free / $95 per month |
+| [Typesense](https://typesense.org)         | Open-source typo-tolerant search engine optimized for instant, relevant search results.                                | Free / Open source   |
+| [Meilisearch](https://meilisearch.com)     | Open-source and easy-to-use search engine that delivers fast and relevant search results.                              | Free / $30 per month |
+| [Opensearch](https://opensearch.org)       | Open-source search and analytics suite derived from Elasticsearch, supporting full-text search and data visualization. | Free / Open source   |
+| [Orama](https://oramasearch.com)           | Lightweight in-memory search engine designed for fast and simple full-text search in web apps.                         | Free / $49 per month |
+| [Manticore](https://manticoresearch.com)   | Open-source search engine for full-text search, filtering, and analytics, compatible with SQL and JSON.                | Free / Open source   |
+| [Quickwit](https://quickwit.io)            | Cloud-native search engine optimized for large-scale, distributed log and text data.                                   | Free / Open source   |
+| [Pagefind](https://pagefind.app)           | Static site search library that adds fast, client-side search to static websites.                                      | Free / Open source   |
+| [Sphinx](https://sphinxsearch.com)         | Open-source full-text search server designed for performance, relevance, and integration with SQL databases.           | Free / Open source   |
+| [Docsearch](https://docsearch.algolia.com) | Provides free search for documentation, integrating Algolia search technology into documentation sites.                | Free / Open source   |
 
 ## Charts
 
@@ -339,6 +340,7 @@
 | [Pages](https://pagescms.org)            | Open-source and simple headless CMS for static site content management.              | Free / Open source         |
 | [Decap](https://decapcms.org)            | Git-based headless CMS designed for static site generators with easy integration.    | Free / Open source         |
 | [Wix Studio](https://wix.com/studio/cms) | Wix CMS platform for managing content and building websites visually.                | Free trial / $12 per month |
+| [Marble](https://marblecms.com)          | Simple open-source CMS for manage content, designed for simplicity and flexibility.  | Free / $10 per month       |
 
 ## UI Libraries
 
