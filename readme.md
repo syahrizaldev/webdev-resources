@@ -1,8 +1,8 @@
-<div align="center">
+<section align="center">
    <a align="center" href="https://github.com/syahrizaldev/webdev-resources">
-      <img src="./banner.png" alt="WebDev Resources Banner">
+      <img src="banner.png" alt="webdev-resources">
    </a>
-</div>
+</section>
 
 ## WebDev Resources
 
@@ -121,6 +121,7 @@
 | [Slate](https://slatedb.io)               | Serverless database for building collaborative and real-time apps.                                       | Free / Open source         |
 | [RxDB](https://rxdb.info)                 | Client-side database for JavaScript apps with real-time sync.                                            | Free / $28 per month       |
 | [SQLite Cloud](https://sqlitecloud.io)    | Cloud platform for running and scaling SQLite databases.                                                 | Free / $29 per month       |
+| [Helix](https://helix-db.com)             | Lightweight, distributed, relational database for building modern applications.                          | Free / Open source         |
 
 ## Analytics
 
@@ -408,6 +409,8 @@
 | [Intent](https://intentui.com)             | React component library focused on accessibility, customization, and experiences.            | Free / Open source |
 | [Reui](https://reui.io/)                   | React UI library with a collection of pre-designed components and utilities.                 | Free / Open source |
 | [Tailus](https://ui.tailus.io)             | Open-source components and templates built on Tailwind CSS for web applications.             | Free / Open source |
+| [Reshaped](https://reshaped.so)            | React UI component library with a focus on accessibility and customization.                  | Free / Open source |
+| [Basecoat](https://basecoatui.com)         | React UI library for building accessible and composable user interfaces.                     | Free / Open source |
 
 ## Marketing Tools
 
