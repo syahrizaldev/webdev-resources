@@ -287,6 +287,7 @@
 | [Slate](https://slatejs.org)                  | Customizable framework for building rich text editors in React.                                 | Free / Open source    |
 | [Milkdown](https://milkdown.dev)              | Markdown-based WYSIWYG editor for the web, supporting plugins and customization.                | Free / Open source    |
 | [Prosemirror](https://prosemirror.net)        | Toolkit for building rich text editors with focus on extensibility and customizability.         | Free / Open source    |
+| [Prosekit](https://prosekit.dev)              | Framework for building customizable, collaborative rich text editors with real-time features.   | Free / Open source    |
 | [Jodit](https://xdsoft.net/jodit)             | Lightweight and customizable rich text editor for web apps, supporting image uploads.           | Free / $99 lifetime   |
 | [Trix](https://trix-editor.org)               | Open-source rich text editor designed for composing and formatting content with extensible API. | Free / Open source    |
 | [TUI Editor](https://ui.toast.com/tui-editor) | Markdown WYSIWYG editor supporting live preview, extensibility, and collaborative editing.      | Free / Open source    |
@@ -487,7 +488,7 @@
 | [Orgnise](https://orgnise.in)            | Task and project management tool for teams and individuals.                         | Free / $24 per month       |
 | [Paymo](https://paymoapp.com)            | Work and project management software with time tracking feature.                    | Free / $10 per month       |
 | [Automatisch](https://automatisch.io)    | Open-source automation platform for connecting apps and automating workflows.       | Free / $23 per month       |
-| [Operately](https://operately.com)       | Open-source platform for managing goals, projects, and team operations.             | Free / Open source         |
+| [Operately](https://operately.com)       | Open-source platform for managing goals, projects, and team operations.             | Free / $82 per month       |
 
 ## Contributing
 
