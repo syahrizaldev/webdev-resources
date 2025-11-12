@@ -69,59 +69,60 @@
 
 > List of databases and backend management solutions to help handle data requirements.
 
-| Name                                      | Description                                                                                              | Pricing                    |
-| ----------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [Firebase](https://firebase.google.com)   | Backend platform by Google offering real-time NoSQL database and cloud services for web and mobile apps. | Free / Pay as you go       |
-| [Supabase](https://supabase.com)          | Open-source backend service providing Postgres database with real-time and authentication features.      | Free / $25 per month       |
-| [MongoDB](https://mongodb.com)            | Document-oriented NoSQL database designed for scalability and flexibility with JSON-like documents.      | Free / Pay as you go       |
-| [Appwrite](https://appwrite.io)           | Open-source backend server offering database, authentication, and storage for web and mobile apps.       | Free / $15 per month       |
-| [Redis](https://redis.io)                 | In-memory data store used as database, cache, and message broker, designed for high performance.         | Free / Pay as you go       |
-| [Neon](https://neon.tech)                 | Serverless Postgres database with autoscaling and branching for modern apps.                             | Free / $19 per month       |
-| [Fauna](https://fauna.com)                | Distributed document-relational database with serverless API and strong consistency.                     | Free / $150 per month      |
-| [Gel](https://geldata.com)                | Real-time database platform for building collaborative and live apps.                                    | Free / $20 per month       |
-| [Xata](https://xata.io)                   | Serverless database combining SQL, search, and analytics with simple API.                                | Free / $20 per month       |
-| [Surreal](https://surrealdb.com)          | Multi-model database supporting document, graph, and relational queries.                                 | Free / $23 per month       |
-| [Upstash](https://upstash.com)            | Serverless database for Redis and Kafka, optimized for low-latency and pay-per-request.                  | Free / Pay as you go       |
-| [Convex](https://convex.dev)              | Backend platform with real-time database and serverless functions for web apps.                          | Free / $25 per month       |
-| [Turso](https://turso.tech)               | Distributed database built on libSQL, designed for edge deployments.                                     | Free / $9 per month        |
-| [Pocketbase](https://pocketbase.io)       | Lightweight backend including database, authentication, and file storage, running as single binary.      | Free / Open source         |
-| [Cockroach](https://cockroachlabs.com)    | Distributed SQL database designed for high availability and global scalability.                          | Free / Pay as you go       |
-| [Clickhouse](https://clickhouse.com)      | Column-oriented database management system for real-time analytics.                                      | Free / Pay as you go       |
-| [Timescale](https://timescale.com)        | Time-series database built on Postgres for handling large-scale time-stamped data.                       | Free trial / Pay as you go |
-| [Airtable](https://airtable.com)          | Cloud-based platform combining spreadsheet and database features for organizing data.                    | Free / $20 per month       |
-| [Back4app](https://back4app.com)          | Backend platform offering scalable databases and APIs based on Parse Server.                             | Free / $15 per month       |
-| [Nhost](https://nhost.io)                 | Backend as a service with Postgres database, authentication, and storage.                                | Free / $25 per month       |
-| [Minds](https://mindsdb.com)              | AI-powered database platform for integrating machine learning models with data.                          | Free / Open source         |
-| [Duck](https://duckdb.org)                | In-process SQL OLAP database management system for analytics workloads.                                  | Free / Open source         |
-| [Noco](https://nocodb.com)                | Open-source platform that turns databases into smart spreadsheets.                                       | Free / Open source         |
-| [Nile](https://thenile.dev)               | Multi-tenant database platform for building and scaling SaaS apps.                                       | Free / $15 per month       |
-| [Dragonfly](https://dragonflydb.io)       | In-memory data store compatible with Redis and Memcached, designed for high throughput.                  | Free / Pay as you go       |
-| [Electric](https://electric-sql.com)      | Local-first sync layer for databases, enabling real-time collaboration and offline support.              | Free / Open source         |
-| [Oriole](https://orioledb.com)            | Postgres extension for high-performance, multi-versioned storage.                                        | Free / Open source         |
-| [Milvus](https://milvus.io)               | Open-source vector database for AI and similarity search apps.                                           | Free / Open source         |
-| [Bytebase](https://bytebase.com)          | Database DevOps platform for managing schema changes and version control.                                | Free / $20 per month       |
-| [Instant](https://instantdb.com)          | Serverless database for building real-time and collaborative apps.                                       | Free / $30 per month       |
-| [Dynamo](https://aws.amazon.com/dynamodb) | Fully managed NoSQL database service by AWS for key-value and document data.                             | Free / Pay as you go       |
-| [Spacetime](https://spacetimedb.com)      | Real-time database for multiplayer games and collaborative apps.                                         | Free / Pay as you go       |
-| [Astra](https://astra.datastax.com)       | Managed cloud database service based on Apache Cassandra.                                                | Free / Pay as you go       |
-| [Scylla](https://scylladb.com)            | High-performance NoSQL database compatible with Apache Cassandra and DynamoDB.                           | Free / Pay as you go       |
-| [Oceanbase](https://en.oceanbase.com)     | Distributed relational database designed for scalability and high availability.                          | Free / Pay as you go       |
-| [Dice](https://dicedb.io)                 | Distributed SQL database for building scalable apps.                                                     | Free / Open source         |
-| [Chroma](https://trychroma.com)           | Open-source embedding database for AI and machine learning apps.                                         | Free / Open source         |
-| [Arango](https://arangodb.com)            | Multi-model database supporting document, graph, and key-value data.                                     | Free / Pay as you go       |
-| [Qdrant](https://qdrant.tech)             | Vector database for AI-powered semantic search and similarity matching.                                  | Free / Pay as you go       |
-| [Singlestore](https://singlestore.com)    | Distributed SQL database for real-time analytics and transactions.                                       | Free / Pay as you go       |
-| [Databrick](https://databricks.com)       | Data lakehouse platform combining data engineering, analytics, and AI.                                   | Free / Pay as you go       |
-| [Harper](https://harpersystems.dev)       | Cloud-native database for storing and querying structured data.                                          | Free / $3 per month        |
-| [UnDB](https://undb.io)                   | Serverless database for building and deploying web apps.                                                 | Free / $9 per month        |
-| [TiDB](https://pingcap.com)               | Open-source distributed SQL database compatible with MySQL.                                              | Free / Pay as you go       |
-| [Crate](https://cratedb.com)              | Distributed SQL database for real-time analytics on large datasets.                                      | Free / Pay as you go       |
-| [Hydra](https://hydra.so)                 | Distributed database for building scalable and real-time apps.                                           | Free / Pay as you go       |
-| [Ferret](https://ferretdb.com)            | Open-source proxy translating MongoDB wire protocol to Postgres.                                         | Free / Open source         |
-| [Slate](https://slatedb.io)               | Serverless database for building collaborative and real-time apps.                                       | Free / Open source         |
-| [RxDB](https://rxdb.info)                 | Client-side database for JavaScript apps with real-time sync.                                            | Free / $28 per month       |
-| [SQLite Cloud](https://sqlitecloud.io)    | Cloud platform for running and scaling SQLite databases.                                                 | Free / $29 per month       |
-| [Helix](https://helix-db.com)             | Lightweight, distributed, relational database for building modern applications.                          | Free / Open source         |
+| Name                                                  | Description                                                                                              | Pricing                    |
+| ----------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [Firebase](https://firebase.google.com)               | Backend platform by Google offering real-time NoSQL database and cloud services for web and mobile apps. | Free / Pay as you go       |
+| [Supabase](https://supabase.com)                      | Open-source backend service providing Postgres database with real-time and authentication features.      | Free / $25 per month       |
+| [MongoDB](https://mongodb.com)                        | Document-oriented NoSQL database designed for scalability and flexibility with JSON-like documents.      | Free / Pay as you go       |
+| [Appwrite](https://appwrite.io)                       | Open-source backend server offering database, authentication, and storage for web and mobile apps.       | Free / $15 per month       |
+| [Redis](https://redis.io)                             | In-memory data store used as database, cache, and message broker, designed for high performance.         | Free / Pay as you go       |
+| [Neon](https://neon.tech)                             | Serverless Postgres database with autoscaling and branching for modern apps.                             | Free / $19 per month       |
+| [Fauna](https://fauna.com)                            | Distributed document-relational database with serverless API and strong consistency.                     | Free / $150 per month      |
+| [Gel](https://geldata.com)                            | Real-time database platform for building collaborative and live apps.                                    | Free / $20 per month       |
+| [Xata](https://xata.io)                               | Serverless database combining SQL, search, and analytics with simple API.                                | Free / $20 per month       |
+| [Surreal](https://surrealdb.com)                      | Multi-model database supporting document, graph, and relational queries.                                 | Free / $23 per month       |
+| [Upstash](https://upstash.com)                        | Serverless database for Redis and Kafka, optimized for low-latency and pay-per-request.                  | Free / Pay as you go       |
+| [Convex](https://convex.dev)                          | Backend platform with real-time database and serverless functions for web apps.                          | Free / $25 per month       |
+| [Turso](https://turso.tech)                           | Distributed database built on libSQL, designed for edge deployments.                                     | Free / $9 per month        |
+| [Pocketbase](https://pocketbase.io)                   | Lightweight backend including database, authentication, and file storage, running as single binary.      | Free / Open source         |
+| [Cockroach](https://cockroachlabs.com)                | Distributed SQL database designed for high availability and global scalability.                          | Free / Pay as you go       |
+| [Clickhouse](https://clickhouse.com)                  | Column-oriented database management system for real-time analytics.                                      | Free / Pay as you go       |
+| [Timescale](https://timescale.com)                    | Time-series database built on Postgres for handling large-scale time-stamped data.                       | Free trial / Pay as you go |
+| [Airtable](https://airtable.com)                      | Cloud-based platform combining spreadsheet and database features for organizing data.                    | Free / $20 per month       |
+| [Back4app](https://back4app.com)                      | Backend platform offering scalable databases and APIs based on Parse Server.                             | Free / $15 per month       |
+| [Nhost](https://nhost.io)                             | Backend as a service with Postgres database, authentication, and storage.                                | Free / $25 per month       |
+| [Minds](https://mindsdb.com)                          | AI-powered database platform for integrating machine learning models with data.                          | Free / Open source         |
+| [Duck](https://duckdb.org)                            | In-process SQL OLAP database management system for analytics workloads.                                  | Free / Open source         |
+| [Noco](https://nocodb.com)                            | Open-source platform that turns databases into smart spreadsheets.                                       | Free / Open source         |
+| [Nile](https://thenile.dev)                           | Multi-tenant database platform for building and scaling SaaS apps.                                       | Free / $15 per month       |
+| [Dragonfly](https://dragonflydb.io)                   | In-memory data store compatible with Redis and Memcached, designed for high throughput.                  | Free / Pay as you go       |
+| [Electric](https://electric-sql.com)                  | Local-first sync layer for databases, enabling real-time collaboration and offline support.              | Free / Open source         |
+| [Oriole](https://orioledb.com)                        | Postgres extension for high-performance, multi-versioned storage.                                        | Free / Open source         |
+| [Milvus](https://milvus.io)                           | Open-source vector database for AI and similarity search apps.                                           | Free / Open source         |
+| [Bytebase](https://bytebase.com)                      | Database DevOps platform for managing schema changes and version control.                                | Free / $20 per month       |
+| [Instant](https://instantdb.com)                      | Serverless database for building real-time and collaborative apps.                                       | Free / $30 per month       |
+| [Dynamo](https://aws.amazon.com/dynamodb)             | Fully managed NoSQL database service by AWS for key-value and document data.                             | Free / Pay as you go       |
+| [Spacetime](https://spacetimedb.com)                  | Real-time database for multiplayer games and collaborative apps.                                         | Free / Pay as you go       |
+| [Astra](https://astra.datastax.com)                   | Managed cloud database service based on Apache Cassandra.                                                | Free / Pay as you go       |
+| [Scylla](https://scylladb.com)                        | High-performance NoSQL database compatible with Apache Cassandra and DynamoDB.                           | Free / Pay as you go       |
+| [Oceanbase](https://en.oceanbase.com)                 | Distributed relational database designed for scalability and high availability.                          | Free / Pay as you go       |
+| [Cloudflare D1](https://developers.cloudflare.com/d1) | Serverless database built on SQLite, designed for fast, scalable, and distributed apps.                  | Free / Pay as you go       |
+| [Dice](https://dicedb.io)                             | Distributed SQL database for building scalable apps.                                                     | Free / Open source         |
+| [Chroma](https://trychroma.com)                       | Open-source embedding database for AI and machine learning apps.                                         | Free / Open source         |
+| [Arango](https://arangodb.com)                        | Multi-model database supporting document, graph, and key-value data.                                     | Free / Pay as you go       |
+| [Qdrant](https://qdrant.tech)                         | Vector database for AI-powered semantic search and similarity matching.                                  | Free / Pay as you go       |
+| [Singlestore](https://singlestore.com)                | Distributed SQL database for real-time analytics and transactions.                                       | Free / Pay as you go       |
+| [Databrick](https://databricks.com)                   | Data lakehouse platform combining data engineering, analytics, and AI.                                   | Free / Pay as you go       |
+| [Harper](https://harpersystems.dev)                   | Cloud-native database for storing and querying structured data.                                          | Free / $3 per month        |
+| [UnDB](https://undb.io)                               | Serverless database for building and deploying web apps.                                                 | Free / $9 per month        |
+| [TiDB](https://pingcap.com)                           | Open-source distributed SQL database compatible with MySQL.                                              | Free / Pay as you go       |
+| [Crate](https://cratedb.com)                          | Distributed SQL database for real-time analytics on large datasets.                                      | Free / Pay as you go       |
+| [Hydra](https://hydra.so)                             | Distributed database for building scalable and real-time apps.                                           | Free / Pay as you go       |
+| [Ferret](https://ferretdb.com)                        | Open-source proxy translating MongoDB wire protocol to Postgres.                                         | Free / Open source         |
+| [Slate](https://slatedb.io)                           | Serverless database for building collaborative and real-time apps.                                       | Free / Open source         |
+| [RxDB](https://rxdb.info)                             | Client-side database for JavaScript apps with real-time sync.                                            | Free / $28 per month       |
+| [SQLite Cloud](https://sqlitecloud.io)                | Cloud platform for running and scaling SQLite databases.                                                 | Free / $29 per month       |
+| [Helix](https://helix-db.com)                         | Lightweight, distributed, relational database for building modern applications.                          | Free / Open source         |
 
 ## Analytics
 
