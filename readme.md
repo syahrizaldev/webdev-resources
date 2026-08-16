@@ -446,6 +446,7 @@
 | [Rewardful](https://rewardful.com)    | Affiliate and referral program software for SaaS businesses.                         | Free / $49 per month       |
 | [Clickbank](https://clickbank.com)    | Affiliate marketplace and platform for selling digital products.                     | Free / Activation fee      |
 | [Affonso](https://affonso.io)         | Affiliate management platform for tracking and managing partnerships.                | Free trial / $9 per month  |
+| [IdeaHunter](https://ideahunter.today) | AI research for buyer pain, market evidence, and demand-backed startup ideas.        | Freemium                   |
 
 ## Project Management
 
