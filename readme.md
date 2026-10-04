@@ -65,6 +65,8 @@
 | [Xano](https://xano.com)                         | Backend-as-a-service platform for building APIs and managing databases without code.                        | Free / $85 per month       |
 | [Orbiter](https://orbiter.host)                  | Managed hosting platform for deploying and scaling web apps with automated workflows and monitoring.        | Free / $9 per month        |
 
+| [Shipvela](https://shipvela.com/) | Hosts React, Vite and static websites from GitHub or a CLI, with custom domains and managed HTTPS. | Free / $29 per month |
+
 ## Databases
 
 > List of databases and backend management solutions to help handle data requirements.
